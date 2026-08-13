@@ -1,0 +1,242 @@
+{
+  "items": [
+    {
+      "description": "Check out our comprehsensive tutorial paper Foundations and Recent Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions.\nTutorials on Multimodal Machine Learning at CVPR 2022 and NAACL 2022, slides and videos here.\nNew course 11-877 Advanced Topics in Multimodal Machine Learning Spring 2022 @ CMU. It will primarily be reading and discussion-based. We plan to post discussion probes, relevant papers, and summarized discussion highlights every week on the website.\nPublic course content and lecture videos from 11-777 Multimodal Machine Learning, Fall 2020 @ CMU.",
+      "items": [],
+      "title": "Course content + workshops"
+    },
+    {
+      "description": "Foundations and Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions, arxiv 2023\nMultimodal Learning with Transformers: A Survey, TPAMI 2023\nTrends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods, JAIR 2021\nExperience Grounds Language, EMNLP 2020\nA Survey of Reinforcement Learning Informed by Natural Language, IJCAI 2019\nMultimodal Machine Learning: A Survey and Taxonomy, TPAMI 2019\nMultimodal Intelligence: Representation Learning, Information Fusion, and Applications, arXiv 2019\nDeep Multimodal Representation Learning: A Survey, arXiv 2019\nGuest Editorial: Image and Language Understanding, IJCV 2017\nRepresentation Learning: A Review and New Perspectives, TPAMI 2013\nA Survey of Socially Interactive Robots, 2003",
+      "items": [],
+      "title": "Survey Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Core Areas"
+    },
+    {
+      "description": "Identifiability Results for Multimodal Contrastive Learning, ICLR 2023 [code]\nUnpaired Vision-Language Pre-training via Cross-Modal CutMix, ICML 2022.\nBalanced Multimodal Learning via On-the-fly Gradient Modulation, CVPR 2022\nUnsupervised Voice-Face Representation Learning by Cross-Modal Prototype Contrast, IJCAI 2021 [code]\nTowards a Unified Foundation Model: Jointly Pre-Training Transformers on Unpaired Images and Text, arXiv 2021\nFLAVA: A Foundational Language And Vision Alignment Model, arXiv 2021\nTransformer is All You Need: Multimodal Multitask Learning with a Unified Transformer, arXiv 2021\nMultiBench: Multiscale Benchmarks for Multimodal Representation Learning, NeurIPS 2021 [code]\nPerceiver: General Perception with Iterative Attention, ICML 2021 [code]\nLearning Transferable Visual Models From Natural Language Supervision, arXiv 2021 [blog] [code]\nVinVL: Revisiting Visual Representations in Vision-Language Models, arXiv 2021 [blog] [code]\nLearning Transferable Visual Models From Natural Language Supervision, arXiv 2020 [blog] [code]\n12-in-1: Multi-Task Vision and Language Representation Learning, CVPR 2020 [code]\nWatching the World Go By: Representation Learning from Unlabeled Videos, arXiv 2020\nLearning Video Representations using Contrastive Bidirectional Transformer, arXiv 2019\nVisual Concept-Metaconcept Learning, NeurIPS 2019 [code]\nOmniNet: A Unified Architecture for Multi-modal Multi-task Learning, arXiv 2019 [code]\nLearning Representations by Maximizing Mutual Information Across Views, arXiv 2019 [code]\nViCo: Word Embeddings from Visual Co-occurrences, ICCV 2019 [code]\nUnified Visual-Semantic Embeddings: Bridging Vision and Language With Structured Meaning Representations, CVPR 2019\nMulti-Task Learning of Hierarchical Vision-Language Representation, CVPR 2019\nLearning Factorized Multimodal Representations, ICLR 2019 [code]\nA Probabilistic Framework for Multi-view Feature Learning with Many-to-many Associations via Neural Networks, ICML 2018\nDo Neural Network Cross-Modal Mappings Really Bridge Modalities?, ACL 2018\nLearning Robust Visual-Semantic Embeddings, ICCV 2017\nDeep Multimodal Representation Learning from Temporal Data, CVPR 2017\nIs an Image Worth More than a Thousand Words? On the Fine-Grain Semantic Differences between Visual and Linguistic Representations, COLING 2016\nCombining Language and Vision with a Multimodal Skip-gram Model, NAACL 2015\nDeep Fragment Embeddings for Bidirectional Image Sentence Mapping, NIPS 2014\nMultimodal Learning with Deep Boltzmann Machines, JMLR 2014\nLearning Grounded Meaning Representations with Autoencoders, ACL 2014\nDeViSE: A Deep Visual-Semantic Embedding Model, NeurIPS 2013\nMultimodal Deep Learning, ICML 2011",
+      "items": [],
+      "title": "Multimodal Representations"
+    },
+    {
+      "description": "Robust Contrastive Learning against Noisy Views, arXiv 2022\nCooperative Learning for Multi-view Analysis, arXiv 2022\nWhat Makes Multi-modal Learning Better than Single (Provably), NeurIPS 2021\nEfficient Multi-Modal Fusion with Diversity Analysis, ACMMM 2021\nAttention Bottlenecks for Multimodal Fusion, NeurIPS 2021\nVMLoc: Variational Fusion For Learning-Based Multimodal Camera Localization, AAAI 2021\nTrusted Multi-View Classification, ICLR 2021 [code]\nDeep-HOSeq: Deep Higher-Order Sequence Fusion for Multimodal Sentiment Analysis, ICDM 2020\nRemoving Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies, NeurIPS 2020 [code]\nDeep Multimodal Fusion by Channel Exchanging, NeurIPS 2020 [code]\nWhat Makes Training Multi-Modal Classification Networks Hard?, CVPR 2020\nDynamic Fusion for Multimodal Data, arXiv 2019\nDeepCU: Integrating Both Common and Unique Latent Information for Multimodal Sentiment Analysis, IJCAI 2019 [code]\nDeep Multimodal Multilinear Fusion with High-order Polynomial Pooling, NeurIPS 2019\nXFlow: Cross-modal Deep Neural Networks for Audiovisual Classification, IEEE TNNLS 2019 [code]\nMFAS: Multimodal Fusion Architecture Search, CVPR 2019\nThe Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision, ICLR 2019 [code]\nUnifying and merging well-trained deep neural networks for inference stage, IJCAI 2018 [code]\nEfficient Low-rank Multimodal Fusion with Modality-Specific Factors, ACL 2018 [code]\nMemory Fusion Network for Multi-view Sequential Learning, AAAI 2018 [code]\nTensor Fusion Network for Multimodal Sentiment Analysis, EMNLP 2017 [code]\nJointly Modeling Deep Video and Compositional Text to Bridge Vision and Language in a Unified Framework, AAAI 2015\nA co-regularized approach to semi-supervised learning with multiple views, ICML 2005",
+      "items": [],
+      "title": "Multimodal Fusion"
+    },
+    {
+      "description": "Reconsidering Representation Alignment for Multi-view Clustering, CVPR 2021 [code]\nCoMIR: Contrastive Multimodal Image Representation for Registration, NeurIPS 2020 [code]\nMultimodal Transformer for Unaligned Multimodal Language Sequences, ACL 2019 [code]\nTemporal Cycle-Consistency Learning, CVPR 2019 [code]\nSee, Hear, and Read: Deep Aligned Representations, arXiv 2017\nOn Deep Multi-View Representation Learning, ICML 2015\nUnsupervised Alignment of Natural Language Instructions with Video Segments, AAAI 2014\nMultimodal Alignment of Videos, MM 2014\nDeep Canonical Correlation Analysis, ICML 2013 [code]",
+      "items": [],
+      "title": "Multimodal Alignment"
+    },
+    {
+      "description": "Align before Fuse: Vision and Language Representation Learning with Momentum Distillation, NeurIPS 2021 Spotlight [code]\nLess is More: ClipBERT for Video-and-Language Learning via Sparse Sampling, CVPR 2021 [code]\nTransformer is All You Need: Multimodal Multitask Learning with a Unified Transformer, arXiv 2021\nLarge-Scale Adversarial Training for Vision-and-Language Representation Learning, NeurIPS 2020 [code]\nVokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision, EMNLP 2020 [code]\nIntegrating Multimodal Information in Large Pretrained Transformers, ACL 2020\nVL-BERT: Pre-training of Generic Visual-Linguistic Representations, arXiv 2019 [code]\nVisualBERT: A Simple and Performant Baseline for Vision and Language, arXiv 2019 [code]\nViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks, NeurIPS 2019 [code]\nUnicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training, arXiv 2019\nLXMERT: Learning Cross-Modality Encoder Representations from Transformers, EMNLP 2019 [code]\nVideoBERT: A Joint Model for Video and Language Representation Learning, ICCV 2019",
+      "items": [],
+      "title": "Multimodal Pretraining"
+    },
+    {
+      "description": "Zero-Shot Text-to-Image Generation, ICML 2021 [code]\nTranslate-to-Recognize Networks for RGB-D Scene Recognition, CVPR 2019 [code]\nLanguage2Pose: Natural Language Grounded Pose Forecasting, 3DV 2019 [code]\nReconstructing Faces from Voices, NeurIPS 2019 [code]\nSpeech2Face: Learning the Face Behind a Voice, CVPR 2019 [code]\nFound in Translation: Learning Robust Joint Representations by Cyclic Translations Between Modalities, AAAI 2019 [code]\nNatural TTS Synthesis by Conditioning Wavenet on Mel Spectrogram Predictions, ICASSP 2018 [code]",
+      "items": [],
+      "title": "Multimodal Translation"
+    },
+    {
+      "description": "Learning with Noisy Correspondence for Cross-modal Matching, NeurIPS 2021 [code]\nMURAL: Multimodal, Multitask Retrieval Across Languages, arXiv 2021\nSelf-Supervised Learning from Web Data for Multimodal Retrieval, arXiv 2019\nLook, Imagine and Match: Improving Textual-Visual Cross-Modal Retrieval with Generative Models, CVPR 2018\nScene-centric vs. Object-centric Image-Text Cross-modal Retrieval: A Reproducibility Study, ECIR 2023",
+      "items": [],
+      "title": "Crossmodal Retrieval"
+    },
+    {
+      "description": "Self-Supervised Learning in Event Sequences: A Comparative Study and Hybrid Approach of Generative Modeling and Contrastive Learning, arXiv 2024\nScaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision, ICML 2021\nMultimodal Co-learning: Challenges, Applications with Datasets, Recent Advances and Future Directions, arXiv 2021\nVokenization: Improving Language Understanding via Contextualized, Visually-Grounded Supervision, EMNLP 2020\nFoundations of Multimodal Co-learning, Information Fusion 2020",
+      "items": [],
+      "title": "Multimodal Co-learning"
+    },
+    {
+      "description": "A Variational Information Bottleneck Approach to Multi-Omics Data Integration, AISTATS 2021 [code]\nSMIL: Multimodal Learning with Severely Missing Modality, AAAI 2021\nFactorized Inference in Deep Markov Models for Incomplete Multimodal Time Series, arXiv 2019\nLearning Representations from Imperfect Time Series Data via Tensor Rank Regularization, ACL 2019\nMultimodal Deep Learning for Robust RGB-D Object Recognition, IROS 2015",
+      "items": [],
+      "title": "Missing or Imperfect Modalities"
+    },
+    {
+      "description": "M2Lens: Visualizing and Explaining Multimodal Models for Sentiment Analysis, IEEE TVCG 2022\nDecoupling the Role of Data, Attention, and Losses in Multimodal Transformers, TACL 2021\nDoes my multimodal model learn cross-modal interactions? It’s harder to tell than you might think!, EMNLP 2020\nBlindfold Baselines for Embodied QA, NIPS 2018 Visually-Grounded Interaction and Language Workshop\nAnalyzing the Behavior of Visual Question Answering Models, EMNLP 2016",
+      "items": [],
+      "title": "Analysis of Multimodal Models"
+    },
+    {
+      "description": "MMKG: Multi-Modal Knowledge Graphs, ESWC 2019\nAnswering Visual-Relational Queries in Web-Extracted Knowledge Graphs, AKBC 2019\nEmbedding Multimodal Relational Data for Knowledge Base Completion, EMNLP 2018\nA Multimodal Translation-Based Approach for Knowledge Graph Representation Learning, SEM 2018 [code]\nOrder-Embeddings of Images and Language, ICLR 2016 [code]\nBuilding a Large-scale Multimodal Knowledge Base System for Answering Visual Queries, arXiv 2015",
+      "items": [],
+      "title": "Knowledge Graphs and Knowledge Bases"
+    },
+    {
+      "description": "Multimodal Explanations by Predicting Counterfactuality in Videos, CVPR 2019\nMultimodal Explanations: Justifying Decisions and Pointing to the Evidence, CVPR 2018 [code]\nDo Explanations make VQA Models more Predictable to a Human?, EMNLP 2018\nTowards Transparent AI Systems: Interpreting Visual Question Answering Models, ICML Workshop on Visualization for Deep Learning 2016",
+      "items": [],
+      "title": "Intepretable Learning"
+    },
+    {
+      "description": "MMVAE+: Enhancing the Generative Quality of Multimodal VAEs without Compromises, ICLR 2023 [code]\nOn the Limitations of Multimodal VAEs, ICLR 2022 [code]\nGeneralized Multimodal ELBO, ICLR 2021 [code]\nMultimodal Generative Learning Utilizing Jensen-Shannon-Divergence, NeurIPS 2020 [code]\nSelf-supervised Disentanglement of Modality-specific and Shared Factors Improves Multimodal Generative Models, GCPR 2020 [code]\nVariational Mixture-of-Experts Autoencodersfor Multi-Modal Deep Generative Models, NeurIPS 2019 [code]\nFew-shot Video-to-Video Synthesis, NeurIPS 2019 [code]\nMultimodal Generative Models for Scalable Weakly-Supervised Learning, NeurIPS 2018 [code1] [code2]\nThe Multi-Entity Variational Autoencoder, NeurIPS 2017",
+      "items": [],
+      "title": "Generative Learning"
+    },
+    {
+      "description": "Semi-supervised Vision-language Mapping via Variational Learning, ICRA 2017\nSemi-supervised Multimodal Hashing, arXiv 2017\nSemi-Supervised Multimodal Deep Learning for RGB-D Object Recognition, IJCAI 2016\nMultimodal Semi-supervised Learning for Image Classification, CVPR 2010",
+      "items": [],
+      "title": "Semi-supervised Learning"
+    },
+    {
+      "description": "DABS: A Domain-Agnostic Benchmark for Self-Supervised Learning, NeurIPS 2021 Datasets & Benchmarks Track [code]\nSelf-Supervised Learning by Cross-Modal Audio-Video Clustering, NeurIPS 2020 [code]\nSelf-Supervised MultiModal Versatile Networks, NeurIPS 2020 [code]\nLabelling Unlabelled Videos from Scratch with Multi-modal Self-supervision, NeurIPS 2020 [code]\nSelf-Supervised Learning of Visual Features through Embedding Images into Text Topic Spaces, CVPR 2017\nMultimodal Dynamics : Self-supervised Learning in Perceptual and Motor Systems, 2016",
+      "items": [],
+      "title": "Self-supervised Learning"
+    },
+    {
+      "description": "Neural Language Modeling with Visual Features, arXiv 2019\nLearning Multi-Modal Word Representation Grounded in Visual Context, AAAI 2018\nVisual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings Using Abstract Scenes, CVPR 2016\nUnifying Visual-Semantic Embeddings with Multimodal Neural Language Models, ICML 2014 [code]",
+      "items": [],
+      "title": "Language Models"
+    },
+    {
+      "description": "Attend and Attack: Attention Guided Adversarial Attacks on Visual Question Answering Models, NeurIPS Workshop on Visually Grounded Interaction and Language 2018\nAttacking Visual Language Grounding with Adversarial Examples: A Case Study on Neural Image Captioning, ACL 2018 [code]\nFooling Vision and Language Models Despite Localization and Attention Mechanism, CVPR 2018",
+      "items": [],
+      "title": "Adversarial Attacks"
+    },
+    {
+      "description": "Language to Network: Conditional Parameter Adaptation with Natural Language Descriptions, ACL 2020\nShaping Visual Representations with Language for Few-shot Classification, ACL 2020\nZero-Shot Learning - The Good, the Bad and the Ugly, CVPR 2017\nZero-Shot Learning Through Cross-Modal Transfer, NIPS 2013",
+      "items": [],
+      "title": "Few-Shot Learning"
+    },
+    {
+      "description": "PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization, ICCV 2023 [project page]\nWorst of Both Worlds: Biases Compound in Pre-trained Vision-and-Language Models, arXiv 2021\nTowards Debiasing Sentence Representations, ACL 2020 [code]\nFairCVtest Demo: Understanding Bias in Multimodal Learning with a Testbed in Fair Automatic Recruitment, ICMI 2020 [code]\nModel Cards for Model Reporting, FAccT 2019\nBlack is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings, NAACL 2019 [code]\nGender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification, FAccT 2018\nDatasheets for Datasets, arXiv 2018\nMan is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings, NeurIPS 2016",
+      "items": [],
+      "title": "Bias and Fairness"
+    },
+    {
+      "description": "Human in the Loop Dialogue Systems, NeurIPS 2020 workshop\nHuman And Machine in-the-Loop Evaluation and Learning Strategies, NeurIPS 2020 workshop\nHuman-centric dialog training via offline reinforcement learning, EMNLP 2020 [code]\nHuman-In-The-Loop Machine Learning with Intelligent Multimodal Interfaces, ICML 2017 workshop",
+      "items": [],
+      "title": "Human in the Loop Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architectures"
+    },
+    {
+      "description": "Pretrained Transformers As Universal Computation Engines, AAAI 2022\nPerceiver: General Perception with Iterative Attention, ICML 2021\nFLAVA: A Foundational Language And Vision Alignment Model, arXiv 2021\nPolyViT: Co-training Vision Transformers on Images, Videos and Audio, arXiv 2021\nVATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text, NeurIPS 2021 [code]\nParameter Efficient Multimodal Transformers for Video Representation Learning, ICLR 2021 [code]",
+      "items": [],
+      "title": "Multimodal Transformers"
+    },
+    {
+      "description": "Multimodal Transformer with Variable-length Memory for Vision-and-Language Navigation, arXiv 2021\nHistory Aware Multimodal Transformer for Vision-and-Language Navigation, NeurIPS 2021 [code]\nEpisodic Memory in Lifelong Language Learning, NeurIPS 2019\nICON: Interactive Conversational Memory Network for Multimodal Emotion Detection, EMNLP 2018\nMultimodal Memory Modelling for Video Captioning, CVPR 2018\nDynamic Memory Networks for Visual and Textual Question Answering, ICML 2016",
+      "items": [],
+      "title": "Multimodal Memory"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Applications and Datasets"
+    },
+    {
+      "description": "TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation, arXiv 2022 [code]\nLearning to Answer Questions in Dynamic Audio-Visual Scenarios, CVPR 2022\nSUTD-TrafficQA: A Question Answering Benchmark and an Efficient Network for Video Reasoning over Traffic Events, CVPR 2021 [code]\nMultiModalQA: complex question answering over text, tables and images, ICLR 2021\nManyModalQA: Modality Disambiguation and QA over Diverse Inputs, AAAI 2020 [code]\nIterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA, CVPR 2020\nInteractive Language Learning by Question Answering, EMNLP 2019 [code]\nFusion of Detected Objects in Text for Visual Question Answering, arXiv 2019\nRUBi: Reducing Unimodal Biases in Visual Question Answering, NeurIPS 2019 [code]\nGQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering, CVPR 2019 [code]\nOK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge, CVPR 2019 [code]\nMUREL: Multimodal Relational Reasoning for Visual Question Answering, CVPR 2019 [code]\nSocial-IQ: A Question Answering Benchmark for Artificial Social Intelligence, CVPR 2019 [code]\nProbabilistic Neural-symbolic Models for Interpretable Visual Question Answering, ICML 2019 [code]\nLearning to Count Objects in Natural Images for Visual Question Answering, ICLR 2018, [code]\nOvercoming Language Priors in Visual Question Answering with Adversarial Regularization, NeurIPS 2018\nNeural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding, NeurIPS 2018 [code]\nRecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes, EMNLP 2018 [code]\nTVQA: Localized, Compositional Video Question Answering, EMNLP 2018 [code]\nBottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering, CVPR 2018 [code]\nDon't Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering, CVPR 2018 [code]\nStacked Latent Attention for Multimodal Reasoning, CVPR 2018\nLearning to Reason: End-to-End Module Networks for Visual Question Answering, ICCV 2017 [code]\nCLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning, CVPR 2017 [code] [dataset generation]\nAre You Smarter Than A Sixth Grader? Textbook Question Answering for Multimodal Machine Comprehension, CVPR 2017 [code]\nMultimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding, EMNLP 2016 [code]\nMovieQA: Understanding Stories in Movies through Question-Answering, CVPR 2016 [code]\nVQA: Visual Question Answering, ICCV 2015 [code]",
+      "items": [],
+      "title": "Language and Visual QA"
+    },
+    {
+      "description": "Core Challenges in Embodied Vision-Language Planning, arXiv 2021\nMaRVL: Multicultural Reasoning over Vision and Language, EMNLP 2021 [code]\nGrounding 'Grounding' in NLP, ACL 2021\nThe Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes, NeurIPS 2020 [code]\nWhat Does BERT with Vision Look At?, ACL 2020\nVisual Grounding in Video for Unsupervised Word Translation, CVPR 2020 [code]\nVIOLIN: A Large-Scale Dataset for Video-and-Language Inference, CVPR 2020 [code]\nGrounded Video Description, CVPR 2019\nShow, Control and Tell: A Framework for Generating Controllable and Grounded Captions, CVPR 2019\nMultilevel Language and Vision Integration for Text-to-Clip Retrieval, AAAI 2019 [code]\nBinary Image Selection (BISON): Interpretable Evaluation of Visual Grounding, arXiv 2019 [code]\nFinding “It”: Weakly-Supervised Reference-Aware Visual Grounding in Instructional Videos, CVPR 2018\nSCAN: Learning Hierarchical Compositional Visual Concepts, ICLR 2018\nVisual Coreference Resolution in Visual Dialog using Neural Module Networks, ECCV 2018 [code]\nGated-Attention Architectures for Task-Oriented Language Grounding, AAAI 2018 [code]\nUsing Syntax to Ground Referring Expressions in Natural Images, AAAI 2018 [code]\nGrounding language acquisition by training semantic parsers using captioned videos, ACL 2018\nInterpretable and Globally Optimal Prediction for Textual Grounding using Image Concepts, NeurIPS 2017\nLocalizing Moments in Video with Natural Language, ICCV 2017\nWhat are you talking about? Text-to-Image Coreference, CVPR 2014\nGrounded Language Learning from Video Described with Sentences, ACL 2013\nGrounded Compositional Semantics for Finding and Describing Images with Sentences, TACL 2013",
+      "items": [],
+      "title": "Language Grounding in Vision"
+    },
+    {
+      "description": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning, ICLR 2021 [code]\nHierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation, ICRA 2021, [code], [video], [project page]\nImproving Vision-and-Language Navigation with Image-Text Pairs from the Web, ECCV 2020\nTowards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training, CVPR 2020 [code]\nVideoNavQA: Bridging the Gap between Visual and Embodied Question Answering, BMVC 2019 [code]\nVision-and-Dialog Navigation, arXiv 2019 [code]\nHierarchical Decision Making by Generating and Following Natural Language Instructions, arXiv 2019 [code]\nStay on the Path: Instruction Fidelity in Vision-and-Language Navigation, ACL 2019\nAre You Looking? Grounding to Multiple Modalities in Vision-and-Language Navigation, ACL 2019\nTouchdown: Natural Language Navigation and Spatial Reasoning in Visual Street Environments, CVPR 2019 [code]\nReinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation, CVPR 2019\nThe Regretful Navigation Agent for Vision-and-Language Navigation, CVPR 2019 [code]\nTactical Rewind: Self-Correction via Backtracking in Vision-and-Language Navigation, CVPR 2019 [code]\nMulti-modal Discriminative Model for Vision-and-Language Navigation, NAACL SpLU-RoboNLP Workshop 2019\nSelf-Monitoring Navigation Agent via Auxiliary Progress Estimation, ICLR 2019 [code]\nFrom Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following, ICLR 2019\nRead, Watch, and Move: Reinforcement Learning for Temporally Grounding Natural Language Descriptions in Videos, AAAI 2019\nLearning to Navigate Unseen Environments: Back Translation with Environmental Dropout, NAACL 2019 [code]\nAttention Based Natural Language Grounding by Navigating Virtual Environment, IEEE WACV 2019\nMapping Instructions to Actions in 3D Environments with Visual Goal Prediction, EMNLP 2018 [code]\nVision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments, CVPR 2018 [code]\nEmbodied Question Answering, CVPR 2018 [code]\nLook Before You Leap: Bridging Model-Free and Model-Based Reinforcement Learning for Planned-Ahead Vision-and-Language Navigation, ECCV 2018",
+      "items": [],
+      "title": "Language Grouding in Navigation"
+    },
+    {
+      "description": "Unsupervised Multimodal Neural Machine Translation with Pseudo Visual Pivoting, ACL 2020\nMultimodal Transformer for Multimodal Machine Translation, ACL 2020\nNeural Machine Translation with Universal Visual Representation, ICLR 2020 [code]\nVisual Agreement Regularized Training for Multi-Modal Machine Translation, AAAI 2020\nVATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research, ICCV 2019 [code]\nLatent Variable Model for Multi-modal Translation, ACL 2019\nDistilling Translations with Visual Awareness, ACL 2019\nProbing the Need for Visual Context in Multimodal Machine Translation, NAACL 2019\nEmergent Translation in Multi-Agent Communication, ICLR 2018\nZero-Resource Neural Machine Translation with Multi-Agent Communication Game, AAAI 2018\nLearning Translations via Images with a Massively Multilingual Image Dataset, ACL 2018\nA Visual Attention Grounding Neural Model for Multimodal Machine Translation, EMNLP 2018\nAdversarial Evaluation of Multimodal Machine Translation, EMNLP 2018\nDoubly-Attentive Decoder for Multi-modal Neural Machine Translation, ACL 2017 [code]\nAn empirical study on the effectiveness of images in Multimodal Neural Machine Translation, EMNLP 2017\nIncorporating Global Visual Features into Attention-based Neural Machine Translation, EMNLP 2017 [code]\nMultimodal Pivots for Image Caption Translation, ACL 2016\nMulti30K: Multilingual English-German Image Descriptions, ACL Workshop on Language and Vision 2016 [code]\nDoes Multimodality Help Human and Machine for Translation and Image Captioning?, ACL WMT 2016",
+      "items": [],
+      "title": "Multimodal Machine Translation"
+    },
+    {
+      "description": "Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning, ACL 2020\nEmergence of Compositional Language with Deep Generational Transmission, ICML 2019\nOn the Pitfalls of Measuring Emergent Communication, AAMAS 2019 [code]\nEmergent Translation in Multi-Agent Communication, ICLR 2018 [code]\nEmergent Communication in a Multi-Modal, Multi-Step Referential Game, ICLR 2018 [code]\nEmergence of Linguistic Communication From Referential Games with Symbolic and Pixel Input, ICLR 2018\nEmergent Communication through Negotiation, ICLR 2018 [code]\nEmergence of Grounded Compositional Language in Multi-Agent Populations, AAAI 2018\nEmergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols, NeurIPS 2017\nNatural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog, EMNLP 2017 [code1] [code2]\nLearning Cooperative Visual Dialog Agents with Deep Reinforcement Learning, ICCV 2017 code\nMulti-agent Cooperation and the Emergence of (natural) Language, ICLR 2017\nLearning to Communicate with Deep Multi-agent Reinforcement Learning, NIPS 2016.\nLearning multiagent communication with backpropagation, NIPS 2016.\nThe Emergence of Compositional Structures in Perceptually Grounded Language Games, AI 2005",
+      "items": [],
+      "title": "Multi-agent Communication"
+    },
+    {
+      "description": "Adventures in Flatland: Perceiving Social Interactions Under Physical Dynamics, CogSci 2020\nA Logical Model for Supporting Social Commonsense Knowledge Acquisition, arXiv 2019\nHeterogeneous Graph Learning for Visual Commonsense Reasoning, NeurIPS 2019\nSocialIQA: Commonsense Reasoning about Social Interactions, arXiv 2019\nFrom Recognition to Cognition: Visual Commonsense Reasoning, CVPR 2019 [code]\nCommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge, NAACL 2019",
+      "items": [],
+      "title": "Commonsense Reasoning"
+    },
+    {
+      "description": "MiniHack the Planet: A Sandbox for Open-Ended Reinforcement Learning Research, NeurIPS 2021 [code]\nImitating Interactive Intelligence, arXiv 2020\nGrounded Language Learning Fast and Slow, ICLR 2021\nRTFM: Generalising to Novel Environment Dynamics via Reading, ICLR 2020 [code]\nEmbodied Multimodal Multitask Learning, IJCAI 2020\nLearning to Speak and Act in a Fantasy Text Adventure Game, arXiv 2019 [code]\nLanguage as an Abstraction for Hierarchical Deep Reinforcement Learning, NeurIPS 2019\nHierarchical Decision Making by Generating and Following Natural Language Instructions, NeurIPS 2019 [code]\nHabitat: A Platform for Embodied AI Research, ICCV 2019 [code]\nMultimodal Hierarchical Reinforcement Learning Policy for Task-Oriented Visual Dialog, SIGDIAL 2018\nMapping Instructions and Visual Observations to Actions with Reinforcement Learning, EMNLP 2017\nReinforcement Learning for Mapping Instructions to Actions, ACL 2009",
+      "items": [],
+      "title": "Multimodal Reinforcement Learning"
+    },
+    {
+      "description": "Two Causal Principles for Improving Visual Dialog, CVPR 2020\nMELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations, ACL 2019 [code]\nCLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog, NAACL 2019 [code]\nTalk the Walk: Navigating New York City through Grounded Dialogue, arXiv 2018\nDialog-based Interactive Image Retrieval, NeurIPS 2018 [code]\nTowards Building Large Scale Multimodal Domain-Aware Conversation Systems, arXiv 2017 [code]\nVisual Dialog, CVPR 2017 [code]",
+      "items": [],
+      "title": "Multimodal Dialog"
+    },
+    {
+      "description": "Lattice Transformer for Speech Translation, ACL 2019\nExploring Phoneme-Level Speech Representations for End-to-End Speech Translation, ACL 2019\nAudio Caption: Listen and Tell, ICASSP 2019\nAudio-Linguistic Embeddings for Spoken Sentences, ICASSP 2019\nFrom Semi-supervised to Almost-unsupervised Speech Recognition with Very-low Resource by Jointly Learning Phonetic Structures from Audio and Text Embeddings, arXiv 2019\nFrom Audio to Semantics: Approaches To End-to-end Spoken Language Understanding, arXiv 2018\nNatural TTS Synthesis by Conditioning Wavenet on Mel Spectrogram Predictions, ICASSP 2018 [code]\nDeep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning, ICLR 2018\nDeep Voice 2: Multi-Speaker Neural Text-to-Speech, NeurIPS 2017\nDeep Voice: Real-time Neural Text-to-Speech, ICML 2017\nText-to-Speech Synthesis, 2009",
+      "items": [],
+      "title": "Language and Audio"
+    },
+    {
+      "description": "Music Gesture for Visual Sound Separation, CVPR 2020\nCo-Compressing and Unifying Deep CNN Models for Efficient Human Face and Speaker Recognition, CVPRW 2019\nLearning Individual Styles of Conversational Gesture, CVPR 2019 [code]\nCapture, Learning, and Synthesis of 3D Speaking Styles, CVPR 2019 [code]\nDisjoint Mapping Network for Cross-modal Matching of Voices and Faces, ICLR 2019\nWav2Pix: Speech-conditioned Face Generation using Generative Adversarial Networks, ICASSP 2019 [code]\nLearning Affective Correspondence between Music and Image, ICASSP 2019 [dataset]\nJointly Discovering Visual Objects and Spoken Words from Raw Sensory Input, ECCV 2018 [code]\nSeeing Voices and Hearing Faces: Cross-modal Biometric Matching, CVPR 2018 [code]\nLearning to Separate Object Sounds by Watching Unlabeled Video, CVPR 2018\nDeep Audio-Visual Speech Recognition, IEEE TPAMI 2018\nLook, Listen and Learn, ICCV 2017\nUnsupervised Learning of Spoken Language with Visual Context, NeurIPS 2016\nSoundNet: Learning Sound Representations from Unlabeled Video, NeurIPS 2016 [code]",
+      "items": [],
+      "title": "Audio and Visual"
+    },
+    {
+      "description": "ViFiT: Reconstructing Vision Trajectories from IMU and Wi-Fi Fine Time Measurements, MobiCom 2023 ISACom Workshop [code]\nViTag: Online WiFi Fine Time Measurements Aided Vision-Motion Identity Association in Multi-person Environments, SECON 2022 [code]\nVi-Fi: Associating Moving Subjects across Vision and Wireless Sensors, IPSN 2022 [code]",
+      "items": [],
+      "title": "Visual, IMU and Wireless"
+    },
+    {
+      "description": "Towards Unsupervised Image Captioning with Shared Multimodal Embeddings, ICCV 2019\nVideo Relationship Reasoning using Gated Spatio-Temporal Energy Graph, CVPR 2019 [code]\nJoint Event Detection and Description in Continuous Video Streams, WACVW 2019\nLearning to Compose and Reason with Language Tree Structures for Visual Grounding, TPAMI 2019\nNeural Baby Talk, CVPR 2018 [code]\nGrounding Referring Expressions in Images by Variational Context, CVPR 2018\nVideo Captioning via Hierarchical Reinforcement Learning, CVPR 2018\nCharades-Ego: A Large-Scale Dataset of Paired Third and First Person Videos, CVPR 2018 [code]\nNeural Motifs: Scene Graph Parsing with Global Context, CVPR 2018 [code]\nNo Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling, ACL 2018\nGenerating Descriptions with Grounded and Co-Referenced People, CVPR 2017\nDenseCap: Fully Convolutional Localization Networks for Dense Captioning, CVPR 2016\nReview Networks for Caption Generation, NeurIPS 2016 [code]\nHollywood in Homes: Crowdsourcing Data Collection for Activity Understanding, ECCV 2016 [code]\nShow and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge, TPAMI 2016 [code]\nShow, Attend and Tell: Neural Image Caption Generation with Visual Attention, ICML 2015 [code]\nDeep Visual-Semantic Alignments for Generating Image Descriptions, CVPR 2015 [code]\nShow and Tell: A Neural Image Caption Generator, CVPR 2015 [code]\nA Dataset for Movie Description, CVPR 2015 [code]\nWhat’s Cookin’? Interpreting Cooking Videos using Text, Speech and Vision, NAACL 2015 [code]\nMicrosoft COCO: Common Objects in Context, ECCV 2014 [code]",
+      "items": [],
+      "title": "Media Description"
+    },
+    {
+      "description": "Image Generation from Scene Graphs, CVPR 2018\nLearning to Color from Language, NAACL 2018\nGenerative Adversarial Text to Image Synthesis, ICML 2016",
+      "items": [],
+      "title": "Video Generation from Text"
+    },
+    {
+      "description": "End-to-end Facial and Physiological Model for Affective Computing and Applications, arXiv 2019\nAffective Computing for Large-Scale Heterogeneous Multimedia Data: A Survey, ACM TOMM 2019\nTowards Multimodal Sarcasm Detection (An Obviously_Perfect Paper), ACL 2019 [code]\nMulti-modal Approach for Affective Computing, EMBC 2018\nMultimodal Language Analysis with Recurrent Multistage Fusion, EMNLP 2018\nMultimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph, ACL 2018 [code]\nMulti-attention Recurrent Network for Human Communication Comprehension, AAAI 2018 [code]\nEnd-to-End Multimodal Emotion Recognition using Deep Neural Networks, arXiv 2017\nAMHUSE - A Multimodal dataset for HUmor SEnsing, ICMI 2017 [code]\nDecoding Children’s Social Behavior, CVPR 2013 [code]\nCollecting Large, Richly Annotated Facial-Expression Databases from Movies, IEEE Multimedia 2012 [code]\nThe Interactive Emotional Dyadic Motion Capture (IEMOCAP) Database, 2008 [code]",
+      "items": [],
+      "title": "Affect Recognition and Multimodal Language"
+    },
+    {
+      "description": "Multimodal Co-Attention Transformer for Survival Prediction in Gigapixel Whole Slide Images, ICCV, 2021\nPET-Guided Attention Network for Segmentation of Lung Tumors from PET/CT Images, GCPR 2020 [code]\nPathomic Fusion: An Integrated Framework for Fusing Histopathology and Genomic Features for Cancer Diagnosis and Prognosis, IEEE TMI, 2020\nLeveraging Medical Visual Question Answering with Supporting Facts, arXiv 2019\nUnsupervised Multimodal Representation Learning across Medical Images and Reports, ML4H 2018\nMultimodal Medical Image Retrieval based on Latent Topic Modeling, ML4H 2018\nImproving Hospital Mortality Prediction with Medical Named Entities and Multimodal Learning, ML4H 2018\nKnowledge-driven Generative Subspaces for Modeling Multi-view Dependencies in Medical Data, ML4H 2018\nMultimodal Depression Detection: Fusion Analysis of Paralinguistic, Head Pose and Eye Gaze Behaviors, TAC 2018\nLearning the Joint Representation of Heterogeneous Temporal Events for Clinical Endpoint Prediction, AAAI 2018\nUnderstanding Coagulopathy using Multi-view Data in the Presence of Sub-Cohorts: A Hierarchical Subspace Approach, MLHC 2017\nMachine Learning in Multimodal Medical Imaging, 2017\nCross-modal Recurrent Models for Weight Objective Prediction from Multimodal Time-series Data, ML4H 2017\nSimSensei Kiosk: A Virtual Human Interviewer for Healthcare Decision Support, AAMAS 2014\nDyadic Behavior Analysis in Depression Severity Assessment Interviews, ICMI 2014\nAudiovisual Behavior Descriptors for Depression Assessment, ICMI 2013",
+      "items": [],
+      "title": "Healthcare"
+    },
+    {
+      "description": "Detect, Reject, Correct: Crossmodal Compensation of Corrupted Sensors, ICRA 2021\nMultimodal sensor fusion with differentiable filters, IROS 2020\nConcept2Robot: Learning Manipulation Concepts from Instructions and Human Demonstrations, RSS 2020\nSee, Feel, Act: Hierarchical Learning for Complex Manipulation Skills with Multi-sensory Fusion, Science Robotics 2019\nEarly Fusion for Goal Directed Robotic Vision, IROS 2019\nSimultaneously Learning Vision and Feature-based Control Policies for Real-world Ball-in-a-Cup, RSS 2019\nProbabilistic Multimodal Modeling for Human-Robot Interaction Tasks, RSS 2019\nMaking Sense of Vision and Touch: Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks, ICRA 2019\nEvolving Multimodal Robot Behavior via Many Stepping Stones with the Combinatorial Multi-Objective Evolutionary Algorithm , arXiv 2018\nMulti-modal Predicate Identification using Dynamically Learned Robot Controllers, IJCAI 2018\nMultimodal Probabilistic Model-Based Planning for Human-Robot Interaction, arXiv 2017\nPerching and Vertical Climbing: Design of a Multimodal Robot, ICRA 2014\nMulti-Modal Scene Understanding for Robotic Grasping, 2011\nStrategies for Multi-Modal Scene Exploration, IROS 2010",
+      "items": [],
+      "title": "Robotics"
+    },
+    {
+      "description": "Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges, IEEE TITS 2020 [website]\nnuScenes: A multimodal dataset for autonomous driving, CVPR 2020 [dataset]\nMultimodal End-to-End Autonomous Driving, arXiv 2020",
+      "items": [],
+      "title": "Autonomous Driving"
+    },
+    {
+      "description": "Self-Supervised Learning in Event Sequences: A Comparative Study and Hybrid Approach of Generative Modeling and Contrastive Learning, arXiv 2024\nA Multimodal Event-driven LSTM Model for Stock Prediction Using Online News, TKDE 2020\nMultimodal Deep Learning for Finance: Integrating and Forecasting International Stock Markets, 2019\nMultimodal deep learning for short-term stock volatility prediction, 2018",
+      "items": [],
+      "title": "Finance"
+    },
+    {
+      "description": "Multimodal Human Computer Interaction: A Survey, HCI 2005\nAffective multimodal human-computer interaction, Multimedia 2005\nBuilding a multimodal human-robot interface, IEEE Intelligent Systems 2001",
+      "items": [],
+      "title": "Human AI Interaction"
+    },
+    {
+      "description": "Non-Linear Consumption of Videos Using a Sequence of Personalized Multimodal Fragments, IUI 2021\nGenerating Need-Adapted Multimodal Fragments, IUI 2020\nMultimodal KDD 2023: International Workshop on Multimodal Learning, KDD 2023\nMultimodal Representation Learning: Perks and Pitfalls, ICLR 2023\nSocial Intelligence in Humans and Robots @ ICRA 2021\nLANTERN 2021: The Third Workshop Beyond Vision and LANguage: inTEgrating Real-world kNowledge @ EACL 2021\nMultimodal workshops @ CVPR 2021: Multimodal Learning and Applications, Sight and Sound, Visual Question Answering, Embodied AI, Language for 3D Scenes.\nMultimodal workshops @ NAACL 2021: MAI-Workshop, ALVR, ViGIL.\nICLR 2021 workshop on Embodied Multimodal Learning.\nNeurIPS 2020 workshop on Wordplay: When Language Meets Games.\nACL 2020 workshops on Multimodal Language (proceedings) and Advances in Language and Vision Research.\nMultimodal workshops @ ECCV 2020: EVAL, CAMP, and MVA.\nMulti-Modal Video Reasoning and Analyzing Competition, ICCV 2021\nGrand Challenge and Workshop on Human Multimodal Language, ACL 2020, ACL 2018\nAdvances in Language and Vision Research, ACL 2020\nVisually Grounded Interaction and Language, NeurIPS 2019, NeurIPS 2018\nEmergent Communication: Towards Natural Language, NeurIPS 2019\nWorkshop on Multimodal Understanding and Learning for Embodied Applications, ACM Multimedia 2019\nBeyond Vision and Language: Integrating Real-World Knowledge, EMNLP 2019\nThe How2 Challenge: New Tasks for Vision & Language, ICML 2019\nVisual Question Answering and Dialog, CVPR 2019, CVPR 2017\nMulti-modal Learning from Videos, CVPR 2019\nMultimodal Learning and Applications Workshop, CVPR 2019, ECCV 2018\nHabitat: Embodied Agents Challenge and Workshop, CVPR 2019\nClosing the Loop Between Vision and Language & LSMD Challenge, ICCV 2019\nMulti-modal Video Analysis and Moments in Time Challenge, ICCV 2019\nCross-Modal Learning in Real World, ICCV 2019\nSpatial Language Understanding and Grounded Communication for Robotics, NAACL 2019\nYouTube-8M Large-Scale Video Understanding, ICCV 2019, ECCV 2018, CVPR 2017\nLanguage and Vision Workshop, CVPR 2019, CVPR 2018, CVPR 2017, CVPR 2015\nSight and Sound, CVPR 2019, CVPR 2018\nThe Large Scale Movie Description Challenge (LSMDC), ICCV 2019, ICCV 2017\nWordplay: Reinforcement and Language Learning in Text-based Games, NeurIPS 2018\nInterpretability and Robustness in Audio, Speech, and Language, NeurIPS 2018\nMultimodal Robot Perception, ICRA 2018\nWMT18: Shared Task on Multimodal Machine Translation, EMNLP 2018\nShortcomings in Vision and Language, ECCV 2018\nComputational Approaches to Subjectivity, Sentiment and Social Media Analysis, EMNLP 2018, EMNLP 2017, NAACL-HLT 2016, EMNLP 2015, ACL 2014, NAACL-HLT 2013\nVisual Understanding Across Modalities, CVPR 2017\nInternational Workshop on Computer Vision for Audio-Visual Media, ICCV 2017\nLanguage Grounding for Robotics, ACL 2017\nComputer Vision for Audio-visual Media, ECCV 2016\nLanguage and Vision, ACL 2016, EMNLP 2015\nTutorial on MultiModal Machine Learning, ICML 2023, CVPR 2022, NAACL 2022\nRecent Advances in Vision-and-Language Research, CVPR 2020\nConnecting Language and Vision to Actions, ACL 2018\nMachine Learning for Clinicians: Advances for Multi-Modal Health Data, MLHC 2018\nMultimodal Machine Learning, ACL 2017, CVPR 2016, ICMI 2016\nVision and Language: Bridging Vision and Language with Deep Learning, ICIP 2017\nCMU 11-777 Multimodal Machine Learning\nCMU 11-877 Advanced Topics in Multimodal Machine Learning\nCMU 05-618, Human-AI Interaction\nCMU 11-777, Advanced Multimodal Machine Learning\nStanford CS422: Interactive and Embodied Learning\nCMU 16-785, Integrated Intelligence in Robotics: Vision, Language, and Planning\nCMU 10-808, Language Grounding to Vision and Control\nCMU 11-775, Large-Scale Multimedia Analysis\nMIT 6.882, Embodied Intelligence\nGeorgia Tech CS 8803, Vision and Language\nVirginia Tech CS 6501-004, Vision & Language\nMachine Learning Career: A Comprehensive Guide",
+      "items": [],
+      "title": "Multimodal Content Generation"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:16:31.166Z",
+    "original_repository": "pliang279/awesome-multimodal-ml",
+    "original_repository_sha": "f1d3bae4aec6a9da8c52da47ac9c115be6e14f6c",
+    "enhanced_repository": "enhansome/enhansome-multimodal-ml",
+    "enhanced_repository_description": null,
+    "title": "Awesome Multimodal Machine Learning with stars"
+  }
+}
