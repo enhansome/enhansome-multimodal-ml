@@ -1,7 +1,2083 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Identifiability Results for Multimodal Contrastive Learning",
+                  "description": ", ICLR 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 607044218,
+                    "language": "Python",
+                    "last_commit": "2023-03-17T06:08:33Z",
+                    "owner": "imantdaunhawer",
+                    "repo": "multimodal-contrastive-learning",
+                    "stars": 37
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Unsupervised Voice-Face Representation Learning by Cross-Modal Prototype Contrast",
+                  "description": ", IJCAI 2021 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 486233090,
+                    "language": "Python",
+                    "last_commit": "2023-10-25T03:21:28Z",
+                    "owner": "Cocoxili",
+                    "repo": "CMPC",
+                    "stars": 22
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MultiBench: Multiscale Benchmarks for Multimodal Representation Learning",
+                  "description": ", NeurIPS 2021 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 344649485,
+                    "language": "HTML",
+                    "last_commit": "2024-01-27T08:16:57Z",
+                    "owner": "pliang279",
+                    "repo": "MultiBench",
+                    "stars": 636
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Perceiver: General Perception with Iterative Attention",
+                  "description": ", ICML 2021 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 165826654,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-06-17T13:51:27Z",
+                    "owner": "google-deepmind",
+                    "repo": "deepmind-research",
+                    "stars": 15166
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Learning Transferable Visual Models From Natural Language Supervision",
+                  "description": ", arXiv 2021 [blog] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 321960447,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-03-25T18:46:40Z",
+                    "owner": "openai",
+                    "repo": "CLIP",
+                    "stars": 34218
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "VinVL: Revisiting Visual Representations in Vision-Language Models",
+                  "description": ", arXiv 2021 [blog] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 343056031,
+                    "language": null,
+                    "last_commit": "2023-07-26T04:00:01Z",
+                    "owner": "pzzhang",
+                    "repo": "VinVL",
+                    "stars": 360
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Learning Transferable Visual Models From Natural Language Supervision",
+                  "description": ", arXiv 2020 [blog] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 321960447,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-03-25T18:46:40Z",
+                    "owner": "openai",
+                    "repo": "CLIP",
+                    "stars": 34218
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "12-in-1: Multi-Task Vision and Language Representation Learning",
+                  "description": ", CVPR 2020 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 224054803,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2022-02-16T04:47:38Z",
+                    "owner": "facebookresearch",
+                    "repo": "vilbert-multi-task",
+                    "stars": 823
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "OmniNet: A Unified Architecture for Multi-modal Multi-task Learning",
+                  "description": ", arXiv 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 197456962,
+                    "language": "Python",
+                    "last_commit": "2020-10-31T20:31:03Z",
+                    "owner": "subho406",
+                    "repo": "OmniNet",
+                    "stars": 514
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Learning Representations by Maximizing Mutual Information Across Views",
+                  "description": ", arXiv 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 192003497,
+                    "language": "Python",
+                    "last_commit": "2020-07-02T15:13:09Z",
+                    "owner": "Philip-Bachman",
+                    "repo": "amdim-public",
+                    "stars": 402
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ViCo: Word Embeddings from Visual Co-occurrences",
+                  "description": ", ICCV 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 206474962,
+                    "language": "Python",
+                    "last_commit": "2019-09-05T05:23:22Z",
+                    "owner": "BigRedT",
+                    "repo": "vico",
+                    "stars": 25
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Learning Factorized Multimodal Representations",
+                  "description": ", ICLR 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 185679962,
+                    "language": "Python",
+                    "last_commit": "2020-08-04T04:50:44Z",
+                    "owner": "pliang279",
+                    "repo": "factorized",
+                    "stars": 70
+                  }
+                }
+              ],
+              "description": "Unpaired Vision-Language Pre-training via Cross-Modal CutMix, ICML 2022.\nBalanced Multimodal Learning via On-the-fly Gradient Modulation, CVPR 2022\nTowards a Unified Foundation Model: Jointly Pre-Training Transformers on Unpaired Images and Text, arXiv 2021\nFLAVA: A Foundational Language And Vision Alignment Model, arXiv 2021\nTransformer is All You Need: Multimodal Multitask Learning with a Unified Transformer, arXiv 2021\nWatching the World Go By: Representation Learning from Unlabeled Videos, arXiv 2020\nLearning Video Representations using Contrastive Bidirectional Transformer, arXiv 2019\nVisual Concept-Metaconcept Learning, NeurIPS 2019 [code]\nUnified Visual-Semantic Embeddings: Bridging Vision and Language With Structured Meaning Representations, CVPR 2019\nMulti-Task Learning of Hierarchical Vision-Language Representation, CVPR 2019\nA Probabilistic Framework for Multi-view Feature Learning with Many-to-many Associations via Neural Networks, ICML 2018\nDo Neural Network Cross-Modal Mappings Really Bridge Modalities?, ACL 2018\nLearning Robust Visual-Semantic Embeddings, ICCV 2017\nDeep Multimodal Representation Learning from Temporal Data, CVPR 2017\nIs an Image Worth More than a Thousand Words? On the Fine-Grain Semantic Differences between Visual and Linguistic Representations, COLING 2016\nCombining Language and Vision with a Multimodal Skip-gram Model, NAACL 2015\nDeep Fragment Embeddings for Bidirectional Image Sentence Mapping, NIPS 2014\nMultimodal Learning with Deep Boltzmann Machines, JMLR 2014\nLearning Grounded Meaning Representations with Autoencoders, ACL 2014\nDeViSE: A Deep Visual-Semantic Embedding Model, NeurIPS 2013\nMultimodal Deep Learning, ICML 2011",
+              "node_type": "group",
+              "title": "Multimodal Representations"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Trusted Multi-View Classification",
+                  "description": ", ICLR 2021 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 364467705,
+                    "language": "Python",
+                    "last_commit": "2026-02-09T15:14:25Z",
+                    "owner": "Han-Zongbo",
+                    "repo": "TMC",
+                    "stars": 287
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies",
+                  "description": ", NeurIPS 2020 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 305648111,
+                    "language": "Python",
+                    "last_commit": "2021-01-05T08:25:29Z",
+                    "owner": "itaigat",
+                    "repo": "removing-bias-in-multi-modal-classifiers",
+                    "stars": 34
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Deep Multimodal Fusion by Channel Exchanging",
+                  "description": ", NeurIPS 2020 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 299520287,
+                    "language": "Python",
+                    "last_commit": "2024-07-14T09:26:35Z",
+                    "owner": "yikaiw",
+                    "repo": "CEN",
+                    "stars": 314
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DeepCU: Integrating Both Common and Unique Latent Information for Multimodal Sentiment Analysis",
+                  "description": ", IJCAI 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 186093651,
+                    "language": "Python",
+                    "last_commit": "2019-11-21T10:24:24Z",
+                    "owner": "sverma88",
+                    "repo": "DeepCU-IJCAI19",
+                    "stars": 19
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "XFlow: Cross-modal Deep Neural Networks for Audiovisual Classification",
+                  "description": ", IEEE TNNLS 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 213205245,
+                    "language": "Python",
+                    "last_commit": "2020-04-13T12:48:52Z",
+                    "owner": "catalina17",
+                    "repo": "XFlow",
+                    "stars": 31
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Unifying and merging well-trained deep neural networks for inference stage",
+                  "description": ", IJCAI 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 131578945,
+                    "language": "Python",
+                    "last_commit": "2021-01-30T10:00:55Z",
+                    "owner": "ivclab",
+                    "repo": "NeuralMerger",
+                    "stars": 22
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Efficient Low-rank Multimodal Fusion with Modality-Specific Factors",
+                  "description": ", ACL 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 133119292,
+                    "language": "Python",
+                    "last_commit": "2020-05-31T01:08:08Z",
+                    "owner": "Justin1904",
+                    "repo": "Low-rank-Multimodal-Fusion",
+                    "stars": 274
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Memory Fusion Network for Multi-view Sequential Learning",
+                  "description": ", AAAI 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 162663064,
+                    "language": "Python",
+                    "last_commit": "2020-08-04T04:50:51Z",
+                    "owner": "pliang279",
+                    "repo": "MFN",
+                    "stars": 116
+                  }
+                }
+              ],
+              "description": "Robust Contrastive Learning against Noisy Views, arXiv 2022\nCooperative Learning for Multi-view Analysis, arXiv 2022\nWhat Makes Multi-modal Learning Better than Single (Provably), NeurIPS 2021\nEfficient Multi-Modal Fusion with Diversity Analysis, ACMMM 2021\nAttention Bottlenecks for Multimodal Fusion, NeurIPS 2021\nVMLoc: Variational Fusion For Learning-Based Multimodal Camera Localization, AAAI 2021\nDeep-HOSeq: Deep Higher-Order Sequence Fusion for Multimodal Sentiment Analysis, ICDM 2020\nWhat Makes Training Multi-Modal Classification Networks Hard?, CVPR 2020\nDynamic Fusion for Multimodal Data, arXiv 2019\nDeep Multimodal Multilinear Fusion with High-order Polynomial Pooling, NeurIPS 2019\nMFAS: Multimodal Fusion Architecture Search, CVPR 2019\nThe Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision, ICLR 2019 [code]\nJointly Modeling Deep Video and Compositional Text to Bridge Vision and Language in a Unified Framework, AAAI 2015\nA co-regularized approach to semi-supervised learning with multiple views, ICML 2005",
+              "node_type": "group",
+              "title": "Multimodal Fusion"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Reconsidering Representation Alignment for Multi-view Clustering",
+                  "description": ", CVPR 2021 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 346305224,
+                    "language": "Python",
+                    "last_commit": "2022-08-18T11:20:51Z",
+                    "owner": "DanielTrosten",
+                    "repo": "mvc",
+                    "stars": 36
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CoMIR: Contrastive Multimodal Image Representation for Registration",
+                  "description": ", NeurIPS 2020 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 250116948,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-11-18T22:55:10Z",
+                    "owner": "MIDA-group",
+                    "repo": "CoMIR",
+                    "stars": 87
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Multimodal Transformer for Unaligned Multimodal Language Sequences",
+                  "description": ", ACL 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 189776462,
+                    "language": "Python",
+                    "last_commit": "2022-09-12T05:10:04Z",
+                    "owner": "yaohungt",
+                    "repo": "Multimodal-Transformer",
+                    "stars": 997
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Temporal Cycle-Consistency Learning",
+                  "description": ", CVPR 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 151619717,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-08-21T19:58:51Z",
+                    "owner": "google-research",
+                    "repo": "google-research",
+                    "stars": 38611
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Deep Canonical Correlation Analysis",
+                  "description": ", ICML 2013 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 77340918,
+                    "language": "Python",
+                    "last_commit": "2017-09-07T21:44:36Z",
+                    "owner": "VahidooX",
+                    "repo": "DeepCCA",
+                    "stars": 250
+                  }
+                }
+              ],
+              "description": "See, Hear, and Read: Deep Aligned Representations, arXiv 2017\nOn Deep Multi-View Representation Learning, ICML 2015\nUnsupervised Alignment of Natural Language Instructions with Video Segments, AAAI 2014\nMultimodal Alignment of Videos, MM 2014",
+              "node_type": "group",
+              "title": "Multimodal Alignment"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Align before Fuse: Vision and Language Representation Learning with Momentum Distillation",
+                  "description": ", NeurIPS 2021 Spotlight [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 385418235,
+                    "language": "Python",
+                    "last_commit": "2022-09-20T04:57:34Z",
+                    "owner": "salesforce",
+                    "repo": "ALBEF",
+                    "stars": 1755
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling",
+                  "description": ", CVPR 2021 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 337849864,
+                    "language": "Python",
+                    "last_commit": "2023-08-08T22:18:55Z",
+                    "owner": "jayleicn",
+                    "repo": "ClipBERT",
+                    "stars": 729
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Large-Scale Adversarial Training for Vision-and-Language Representation Learning",
+                  "description": ", NeurIPS 2020 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 305626176,
+                    "language": "Python",
+                    "last_commit": "2021-01-13T06:08:41Z",
+                    "owner": "zhegan27",
+                    "repo": "VILLA",
+                    "stars": 119
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision",
+                  "description": ", EMNLP 2020 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 303532316,
+                    "language": "Python",
+                    "last_commit": "2021-03-08T15:59:08Z",
+                    "owner": "airsplay",
+                    "repo": "vokenization",
+                    "stars": 190
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "VL-BERT: Pre-training of Generic Visual-Linguistic Representations",
+                  "description": ", arXiv 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 223335609,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-05-22T22:33:35Z",
+                    "owner": "jackroos",
+                    "repo": "VL-BERT",
+                    "stars": 740
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "VisualBERT: A Simple and Performant Baseline for Vision and Language",
+                  "description": ", arXiv 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 202702084,
+                    "language": "Python",
+                    "last_commit": "2023-05-01T20:51:04Z",
+                    "owner": "uclanlp",
+                    "repo": "visualbert",
+                    "stars": 542
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks",
+                  "description": ", NeurIPS 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 202817865,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2022-11-21T21:32:12Z",
+                    "owner": "jiasenlu",
+                    "repo": "vilbert_beta",
+                    "stars": 478
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LXMERT: Learning Cross-Modality Encoder Representations from Transformers",
+                  "description": ", EMNLP 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 203417155,
+                    "language": "Python",
+                    "last_commit": "2022-10-22T00:05:56Z",
+                    "owner": "airsplay",
+                    "repo": "lxmert",
+                    "stars": 965
+                  }
+                }
+              ],
+              "description": "Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer, arXiv 2021\nIntegrating Multimodal Information in Large Pretrained Transformers, ACL 2020\nUnicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training, arXiv 2019\nVideoBERT: A Joint Model for Video and Language Representation Learning, ICCV 2019",
+              "node_type": "group",
+              "title": "Multimodal Pretraining"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Zero-Shot Text-to-Image Generation",
+                  "description": ", ICML 2021 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 341714203,
+                    "language": "Python",
+                    "last_commit": "2024-01-31T15:42:28Z",
+                    "owner": "openai",
+                    "repo": "DALL-E",
+                    "stars": 10834
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Translate-to-Recognize Networks for RGB-D Scene Recognition",
+                  "description": ", CVPR 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 183853689,
+                    "language": "Python",
+                    "last_commit": "2019-11-05T15:27:13Z",
+                    "owner": "ownstyledu",
+                    "repo": "Translate-to-Recognize-Networks",
+                    "stars": 91
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Reconstructing Faces from Voices",
+                  "description": ", NeurIPS 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 190936593,
+                    "language": "Python",
+                    "last_commit": "2020-01-05T14:55:04Z",
+                    "owner": "cmu-mlsp",
+                    "repo": "reconstructing_faces_from_voices",
+                    "stars": 193
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Found in Translation: Learning Robust Joint Representations by Cyclic Translations Between Modalities",
+                  "description": ", AAAI 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 157023925,
+                    "language": "Python",
+                    "last_commit": "2019-02-04T21:38:12Z",
+                    "owner": "hainow",
+                    "repo": "MCTN",
+                    "stars": 49
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Natural TTS Synthesis by Conditioning Wavenet on Mel Spectrogram Predictions",
+                  "description": ", ICASSP 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 132042932,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-06-12T18:49:15Z",
+                    "owner": "NVIDIA",
+                    "repo": "tacotron2",
+                    "stars": 5296
+                  }
+                }
+              ],
+              "description": "Language2Pose: Natural Language Grounded Pose Forecasting, 3DV 2019 [code]\nSpeech2Face: Learning the Face Behind a Voice, CVPR 2019 [code]",
+              "node_type": "group",
+              "title": "Multimodal Translation"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Learning with Noisy Correspondence for Cross-modal Matching",
+                  "description": ", NeurIPS 2021 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 417845263,
+                    "language": "Python",
+                    "last_commit": "2023-11-06T08:10:09Z",
+                    "owner": "XLearning-SCU",
+                    "repo": "2021-NeurIPS-NCR",
+                    "stars": 82
+                  }
+                }
+              ],
+              "description": "MURAL: Multimodal, Multitask Retrieval Across Languages, arXiv 2021\nSelf-Supervised Learning from Web Data for Multimodal Retrieval, arXiv 2019\nLook, Imagine and Match: Improving Textual-Visual Cross-Modal Retrieval with Generative Models, CVPR 2018\nScene-centric vs. Object-centric Image-Text Cross-modal Retrieval: A Reproducibility Study, ECIR 2023",
+              "node_type": "group",
+              "title": "Crossmodal Retrieval"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "A Variational Information Bottleneck Approach to Multi-Omics Data Integration",
+                  "description": ", AISTATS 2021 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 336912364,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2021-05-11T00:40:36Z",
+                    "owner": "chl8856",
+                    "repo": "DeepIMV",
+                    "stars": 24
+                  }
+                }
+              ],
+              "description": "SMIL: Multimodal Learning with Severely Missing Modality, AAAI 2021\nFactorized Inference in Deep Markov Models for Incomplete Multimodal Time Series, arXiv 2019\nLearning Representations from Imperfect Time Series Data via Tensor Rank Regularization, ACL 2019\nMultimodal Deep Learning for Robust RGB-D Object Recognition, IROS 2015",
+              "node_type": "group",
+              "title": "Missing or Imperfect Modalities"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "A Multimodal Translation-Based Approach for Knowledge Graph Representation Learning",
+                  "description": ", SEM 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 130199921,
+                    "language": "Python",
+                    "last_commit": "2018-05-28T14:09:05Z",
+                    "owner": "UKPLab",
+                    "repo": "starsem18-multimodalKB",
+                    "stars": 36
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Order-Embeddings of Images and Language",
+                  "description": ", ICLR 2016 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 44820527,
+                    "language": "JavaScript",
+                    "last_commit": "2016-10-13T20:01:19Z",
+                    "owner": "ivendrov",
+                    "repo": "order-embedding",
+                    "stars": 189
+                  }
+                }
+              ],
+              "description": "MMKG: Multi-Modal Knowledge Graphs, ESWC 2019\nAnswering Visual-Relational Queries in Web-Extracted Knowledge Graphs, AKBC 2019\nEmbedding Multimodal Relational Data for Knowledge Base Completion, EMNLP 2018\nBuilding a Large-scale Multimodal Knowledge Base System for Answering Visual Queries, arXiv 2015",
+              "node_type": "group",
+              "title": "Knowledge Graphs and Knowledge Bases"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Multimodal Explanations: Justifying Decisions and Pointing to the Evidence",
+                  "description": ", CVPR 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 122676477,
+                    "language": "Python",
+                    "last_commit": "2018-07-27T15:53:06Z",
+                    "owner": "Seth-Park",
+                    "repo": "MultimodalExplanations",
+                    "stars": 47
+                  }
+                }
+              ],
+              "description": "Multimodal Explanations by Predicting Counterfactuality in Videos, CVPR 2019\nDo Explanations make VQA Models more Predictable to a Human?, EMNLP 2018\nTowards Transparent AI Systems: Interpreting Visual Question Answering Models, ICML Workshop on Visualization for Deep Learning 2016",
+              "node_type": "group",
+              "title": "Intepretable Learning"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MMVAE+: Enhancing the Generative Quality of Multimodal VAEs without Compromises",
+                  "description": ", ICLR 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 601248390,
+                    "language": "Python",
+                    "last_commit": "2024-07-18T11:47:20Z",
+                    "owner": "epalu",
+                    "repo": "mmvaeplus",
+                    "stars": 23
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Generalized Multimodal ELBO",
+                  "description": ", ICLR 2021 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 364632789,
+                    "language": "Python",
+                    "last_commit": "2022-11-12T15:25:28Z",
+                    "owner": "thomassutter",
+                    "repo": "MoPoE",
+                    "stars": 42
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Multimodal Generative Learning Utilizing Jensen-Shannon-Divergence",
+                  "description": ", NeurIPS 2020 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 305724799,
+                    "language": "Python",
+                    "last_commit": "2022-11-12T15:24:47Z",
+                    "owner": "thomassutter",
+                    "repo": "mmjsd",
+                    "stars": 18
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Self-supervised Disentanglement of Modality-specific and Shared Factors Improves Multimodal Generative Models",
+                  "description": ", GCPR 2020 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 618451572,
+                    "language": "Python",
+                    "last_commit": "2023-03-25T12:08:01Z",
+                    "owner": "imantdaunhawer",
+                    "repo": "DMVAE",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Variational Mixture-of-Experts Autoencodersfor Multi-Modal Deep Generative Models",
+                  "description": ", NeurIPS 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 217892188,
+                    "language": "Python",
+                    "last_commit": "2023-07-06T21:52:30Z",
+                    "owner": "iffsid",
+                    "repo": "mmvae",
+                    "stars": 224
+                  }
+                }
+              ],
+              "description": "On the Limitations of Multimodal VAEs, ICLR 2022 [code]\nFew-shot Video-to-Video Synthesis, NeurIPS 2019 [code]\nMultimodal Generative Models for Scalable Weakly-Supervised Learning, NeurIPS 2018 [code1] [code2]\nThe Multi-Entity Variational Autoencoder, NeurIPS 2017",
+              "node_type": "group",
+              "title": "Generative Learning"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "DABS: A Domain-Agnostic Benchmark for Self-Supervised Learning",
+                  "description": ", NeurIPS 2021 Datasets & Benchmarks Track [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 431272589,
+                    "language": "Python",
+                    "last_commit": "2023-05-10T17:44:44Z",
+                    "owner": "alextamkin",
+                    "repo": "dabs",
+                    "stars": 105
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Self-Supervised Learning by Cross-Modal Audio-Video Clustering",
+                  "description": ", NeurIPS 2020 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 318009324,
+                    "language": "Python",
+                    "last_commit": "2022-10-24T17:18:51Z",
+                    "owner": "HumamAlwassel",
+                    "repo": "XDC",
+                    "stars": 91
+                  }
+                }
+              ],
+              "description": "Self-Supervised MultiModal Versatile Networks, NeurIPS 2020 [code]\nLabelling Unlabelled Videos from Scratch with Multi-modal Self-supervision, NeurIPS 2020 [code]\nSelf-Supervised Learning of Visual Features through Embedding Images into Text Topic Spaces, CVPR 2017\nMultimodal Dynamics : Self-supervised Learning in Perceptual and Motor Systems, 2016",
+              "node_type": "group",
+              "title": "Self-supervised Learning"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models",
+                  "description": ", ICML 2014 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 42837349,
+                    "language": "Python",
+                    "last_commit": "2017-02-09T23:37:39Z",
+                    "owner": "ryankiros",
+                    "repo": "visual-semantic-embedding",
+                    "stars": 429
+                  }
+                }
+              ],
+              "description": "Neural Language Modeling with Visual Features, arXiv 2019\nLearning Multi-Modal Word Representation Grounded in Visual Context, AAAI 2018\nVisual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings Using Abstract Scenes, CVPR 2016",
+              "node_type": "group",
+              "title": "Language Models"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Attacking Visual Language Grounding with Adversarial Examples: A Case Study on Neural Image Captioning",
+                  "description": ", ACL 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 104943128,
+                    "language": "Python",
+                    "last_commit": "2021-07-06T06:16:52Z",
+                    "owner": "huanzhang12",
+                    "repo": "ImageCaptioningAttack",
+                    "stars": 56
+                  }
+                }
+              ],
+              "description": "Attend and Attack: Attention Guided Adversarial Attacks on Visual Question Answering Models, NeurIPS Workshop on Visually Grounded Interaction and Language 2018\nFooling Vision and Language Models Despite Localization and Attention Mechanism, CVPR 2018",
+              "node_type": "group",
+              "title": "Adversarial Attacks"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Towards Debiasing Sentence Representations",
+                  "description": ", ACL 2020 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 236606964,
+                    "language": "Python",
+                    "last_commit": "2022-11-21T05:02:08Z",
+                    "owner": "pliang279",
+                    "repo": "sent_debias",
+                    "stars": 64
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "FairCVtest Demo: Understanding Bias in Multimodal Learning with a Testbed in Fair Automatic Recruitment",
+                  "description": ", ICMI 2020 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 252762479,
+                    "language": "Python",
+                    "last_commit": "2023-07-24T09:49:48Z",
+                    "owner": "BiDAlab",
+                    "repo": "FairCVtest",
+                    "stars": 23
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings",
+                  "description": ", NAACL 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 186188633,
+                    "language": "Python",
+                    "last_commit": "2019-07-04T15:25:22Z",
+                    "owner": "TManzini",
+                    "repo": "DebiasMulticlassWordEmbedding",
+                    "stars": 42
+                  }
+                }
+              ],
+              "description": "PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization, ICCV 2023 [project page]\nWorst of Both Worlds: Biases Compound in Pre-trained Vision-and-Language Models, arXiv 2021\nModel Cards for Model Reporting, FAccT 2019\nGender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification, FAccT 2018\nDatasheets for Datasets, arXiv 2018\nMan is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings, NeurIPS 2016",
+              "node_type": "group",
+              "title": "Bias and Fairness"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Human-centric dialog training via offline reinforcement learning",
+                  "description": ", EMNLP 2020 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 191399289,
+                    "language": "Python",
+                    "last_commit": "2022-11-21T21:38:08Z",
+                    "owner": "natashamjaques",
+                    "repo": "neural_chat",
+                    "stars": 181
+                  }
+                }
+              ],
+              "description": "Human in the Loop Dialogue Systems, NeurIPS 2020 workshop\nHuman And Machine in-the-Loop Evaluation and Learning Strategies, NeurIPS 2020 workshop\nHuman-In-The-Loop Machine Learning with Intelligent Multimodal Interfaces, ICML 2017 workshop",
+              "node_type": "group",
+              "title": "Human in the Loop Learning"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Core Areas"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text",
+                  "description": ", NeurIPS 2021 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 151619717,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-08-21T19:58:51Z",
+                    "owner": "google-research",
+                    "repo": "google-research",
+                    "stars": 38611
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Parameter Efficient Multimodal Transformers for Video Representation Learning",
+                  "description": ", ICLR 2021 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 363865241,
+                    "language": "Python",
+                    "last_commit": "2021-09-20T19:09:03Z",
+                    "owner": "sangho-vision",
+                    "repo": "avbert",
+                    "stars": 31
+                  }
+                }
+              ],
+              "description": "Pretrained Transformers As Universal Computation Engines, AAAI 2022\nPerceiver: General Perception with Iterative Attention, ICML 2021\nFLAVA: A Foundational Language And Vision Alignment Model, arXiv 2021\nPolyViT: Co-training Vision Transformers on Images, Videos and Audio, arXiv 2021",
+              "node_type": "group",
+              "title": "Multimodal Transformers"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Architectures"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation",
+                  "description": ", arXiv 2022 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 524551515,
+                    "language": "Python",
+                    "last_commit": "2022-12-08T18:50:16Z",
+                    "owner": "HenryJunW",
+                    "repo": "TAG",
+                    "stars": 22
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SUTD-TrafficQA: A Question Answering Benchmark and an Efficient Network for Video Reasoning over Traffic Events",
+                  "description": ", CVPR 2021 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 352053951,
+                    "language": "JavaScript",
+                    "last_commit": "2026-02-09T05:55:16Z",
+                    "owner": "sutdcv",
+                    "repo": "SUTD-TrafficQA",
+                    "stars": 66
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ManyModalQA: Modality Disambiguation and QA over Diverse Inputs",
+                  "description": ", AAAI 2020 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 235456903,
+                    "language": null,
+                    "last_commit": "2020-03-02T19:13:51Z",
+                    "owner": "hannandarryl",
+                    "repo": "ManyModalQA",
+                    "stars": 19
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Interactive Language Learning by Question Answering",
+                  "description": ", EMNLP 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 203653776,
+                    "language": "Python",
+                    "last_commit": "2019-09-03T03:43:46Z",
+                    "owner": "xingdi-eric-yuan",
+                    "repo": "qait_public",
+                    "stars": 44
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RUBi: Reducing Unimodal Biases in Visual Question Answering",
+                  "description": ", NeurIPS 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 188815682,
+                    "language": "Python",
+                    "last_commit": "2021-03-29T17:15:05Z",
+                    "owner": "cdancette",
+                    "repo": "rubi.bootstrap.pytorch",
+                    "stars": 67
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MUREL: Multimodal Relational Reasoning for Visual Question Answering",
+                  "description": ", CVPR 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 172678664,
+                    "language": "Python",
+                    "last_commit": "2020-02-09T23:10:56Z",
+                    "owner": "Cadene",
+                    "repo": "murel.bootstrap.pytorch",
+                    "stars": 194
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Probabilistic Neural-symbolic Models for Interpretable Visual Question Answering",
+                  "description": ", ICML 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 186629574,
+                    "language": "Python",
+                    "last_commit": "2023-08-03T16:40:44Z",
+                    "owner": "kdexd",
+                    "repo": "probnmn-clevr",
+                    "stars": 68
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Learning to Count Objects in Natural Images for Visual Question Answering",
+                  "description": ", ICLR 2018, [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 119835948,
+                    "language": "Python",
+                    "last_commit": "2019-03-05T13:23:18Z",
+                    "owner": "Cyanogenoid",
+                    "repo": "vqa-counting",
+                    "stars": 208
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding",
+                  "description": ", NeurIPS 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 165541914,
+                    "language": "Python",
+                    "last_commit": "2023-03-27T09:08:52Z",
+                    "owner": "kexinyi",
+                    "repo": "ns-vqa",
+                    "stars": 282
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TVQA: Localized, Compositional Video Question Answering",
+                  "description": ", EMNLP 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 145652886,
+                    "language": "Python",
+                    "last_commit": "2022-10-25T04:31:01Z",
+                    "owner": "jayleicn",
+                    "repo": "TVQA",
+                    "stars": 181
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering",
+                  "description": ", CVPR 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 138831170,
+                    "language": "Python",
+                    "last_commit": "2026-07-07T21:35:07Z",
+                    "owner": "facebookresearch",
+                    "repo": "mmf",
+                    "stars": 5633
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Don't Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering",
+                  "description": ", CVPR 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 137955715,
+                    "language": "Lua",
+                    "last_commit": "2022-03-10T21:57:44Z",
+                    "owner": "AishwaryaAgrawal",
+                    "repo": "GVQA",
+                    "stars": 27
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Learning to Reason: End-to-End Module Networks for Visual Question Answering",
+                  "description": ", ICCV 2017 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 94647430,
+                    "language": "SourcePawn",
+                    "last_commit": "2020-07-30T23:00:54Z",
+                    "owner": "ronghanghu",
+                    "repo": "n2nmn",
+                    "stars": 272
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning",
+                  "description": ", CVPR 2017 [code] [dataset generation]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 90197765,
+                    "language": "Python",
+                    "last_commit": "2021-08-30T20:51:30Z",
+                    "owner": "facebookresearch",
+                    "repo": "clevr-iep",
+                    "stars": 803
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding",
+                  "description": ", EMNLP 2016 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 62715394,
+                    "language": "Python",
+                    "last_commit": "2016-08-13T01:08:08Z",
+                    "owner": "akirafukui",
+                    "repo": "vqa-mcb",
+                    "stars": 219
+                  }
+                }
+              ],
+              "description": "Learning to Answer Questions in Dynamic Audio-Visual Scenarios, CVPR 2022\nMultiModalQA: complex question answering over text, tables and images, ICLR 2021\nIterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA, CVPR 2020\nFusion of Detected Objects in Text for Visual Question Answering, arXiv 2019\nGQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering, CVPR 2019 [code]\nOK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge, CVPR 2019 [code]\nOvercoming Language Priors in Visual Question Answering with Adversarial Regularization, NeurIPS 2018\nRecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes, EMNLP 2018 [code]\nStacked Latent Attention for Multimodal Reasoning, CVPR 2018\nAre You Smarter Than A Sixth Grader? Textbook Question Answering for Multimodal Machine Comprehension, CVPR 2017 [code]\nMovieQA: Understanding Stories in Movies through Question-Answering, CVPR 2016 [code]\nVQA: Visual Question Answering, ICCV 2015 [code]",
+              "node_type": "group",
+              "title": "Language and Visual QA"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Visual Grounding in Video for Unsupervised Word Translation",
+                  "description": ", CVPR 2020 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 249786374,
+                    "language": null,
+                    "last_commit": "2020-04-26T21:15:30Z",
+                    "owner": "gsig",
+                    "repo": "visual-grounding",
+                    "stars": 43
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "VIOLIN: A Large-Scale Dataset for Video-and-Language Inference",
+                  "description": ", CVPR 2020 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 249661996,
+                    "language": "Python",
+                    "last_commit": "2020-04-29T06:47:17Z",
+                    "owner": "jimmy646",
+                    "repo": "violin",
+                    "stars": 161
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Multilevel Language and Vision Integration for Text-to-Clip Retrieval",
+                  "description": ", AAAI 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 159282195,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2019-01-21T21:35:00Z",
+                    "owner": "VisionLearningGroup",
+                    "repo": "Text-to-Clip_Retrieval",
+                    "stars": 49
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Binary Image Selection (BISON): Interpretable Evaluation of Visual Grounding",
+                  "description": ", arXiv 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 166320927,
+                    "language": "Python",
+                    "last_commit": "2021-09-15T21:12:49Z",
+                    "owner": "facebookresearch",
+                    "repo": "binary-image-selection",
+                    "stars": 50
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Visual Coreference Resolution in Visual Dialog using Neural Module Networks",
+                  "description": ", ECCV 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 148542951,
+                    "language": "Python",
+                    "last_commit": "2021-10-12T21:32:39Z",
+                    "owner": "facebookresearch",
+                    "repo": "corefnmn",
+                    "stars": 57
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Gated-Attention Architectures for Task-Oriented Language Grounding",
+                  "description": ", AAAI 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 111601403,
+                    "language": "Python",
+                    "last_commit": "2018-04-16T12:21:20Z",
+                    "owner": "devendrachaplot",
+                    "repo": "DeepRL-Grounding",
+                    "stars": 237
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Using Syntax to Ground Referring Expressions in Natural Images",
+                  "description": ", AAAI 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 120140076,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2020-10-07T22:03:34Z",
+                    "owner": "volkancirik",
+                    "repo": "groundnet",
+                    "stars": 13
+                  }
+                }
+              ],
+              "description": "Core Challenges in Embodied Vision-Language Planning, arXiv 2021\nMaRVL: Multicultural Reasoning over Vision and Language, EMNLP 2021 [code]\nGrounding 'Grounding' in NLP, ACL 2021\nThe Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes, NeurIPS 2020 [code]\nWhat Does BERT with Vision Look At?, ACL 2020\nGrounded Video Description, CVPR 2019\nShow, Control and Tell: A Framework for Generating Controllable and Grounded Captions, CVPR 2019\nFinding “It”: Weakly-Supervised Reference-Aware Visual Grounding in Instructional Videos, CVPR 2018\nSCAN: Learning Hierarchical Compositional Visual Concepts, ICLR 2018\nGrounding language acquisition by training semantic parsers using captioned videos, ACL 2018\nInterpretable and Globally Optimal Prediction for Textual Grounding using Image Concepts, NeurIPS 2017\nLocalizing Moments in Video with Natural Language, ICCV 2017\nWhat are you talking about? Text-to-Image Coreference, CVPR 2014\nGrounded Language Learning from Video Described with Sentences, ACL 2013\nGrounded Compositional Semantics for Finding and Describing Images with Sentences, TACL 2013",
+              "node_type": "group",
+              "title": "Language Grounding in Vision"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation",
+                  "description": ", ICRA 2021, [code], [video], [project page]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 360163581,
+                    "language": "Python",
+                    "last_commit": "2024-06-27T18:20:32Z",
+                    "owner": "GT-RIPL",
+                    "repo": "robo-vln",
+                    "stars": 90
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training",
+                  "description": ", CVPR 2020 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 241232784,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-03-02T21:14:33Z",
+                    "owner": "weituo12321",
+                    "repo": "PREVALENT",
+                    "stars": 95
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "VideoNavQA: Bridging the Gap between Visual and Embodied Question Answering",
+                  "description": ", BMVC 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 198125003,
+                    "language": "Python",
+                    "last_commit": "2022-06-22T00:01:41Z",
+                    "owner": "catalina17",
+                    "repo": "VideoNavQA",
+                    "stars": 25
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Vision-and-Dialog Navigation",
+                  "description": ", arXiv 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 196131440,
+                    "language": "C++",
+                    "last_commit": "2022-11-22T02:09:59Z",
+                    "owner": "mmurray",
+                    "repo": "cvdn",
+                    "stars": 75
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Touchdown: Natural Language Navigation and Spatial Reasoning in Visual Street Environments",
+                  "description": ", CVPR 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 158486898,
+                    "language": "Python",
+                    "last_commit": "2020-09-05T21:32:02Z",
+                    "owner": "lil-lab",
+                    "repo": "touchdown",
+                    "stars": 114
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "The Regretful Navigation Agent for Vision-and-Language Navigation",
+                  "description": ", CVPR 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 173049198,
+                    "language": "C++",
+                    "last_commit": "2023-10-03T21:09:56Z",
+                    "owner": "chihyaoma",
+                    "repo": "regretful-agent",
+                    "stars": 125
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Tactical Rewind: Self-Correction via Backtracking in Vision-and-Language Navigation",
+                  "description": ", CVPR 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 174098007,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2019-09-24T22:51:53Z",
+                    "owner": "Kelym",
+                    "repo": "FAST",
+                    "stars": 63
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Self-Monitoring Navigation Agent via Auxiliary Progress Estimation",
+                  "description": ", ICLR 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 162737294,
+                    "language": "C++",
+                    "last_commit": "2023-10-03T23:07:37Z",
+                    "owner": "chihyaoma",
+                    "repo": "selfmonitoring-agent",
+                    "stars": 123
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Learning to Navigate Unseen Environments: Back Translation with Environmental Dropout",
+                  "description": ", NAACL 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 178922832,
+                    "language": "C++",
+                    "last_commit": "2021-10-23T19:19:43Z",
+                    "owner": "airsplay",
+                    "repo": "R2R-EnvDrop",
+                    "stars": 147
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction",
+                  "description": ", EMNLP 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 146931346,
+                    "language": "Python",
+                    "last_commit": "2021-10-11T17:07:34Z",
+                    "owner": "lil-lab",
+                    "repo": "ciff",
+                    "stars": 35
+                  }
+                }
+              ],
+              "description": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning, ICLR 2021 [code]\nImproving Vision-and-Language Navigation with Image-Text Pairs from the Web, ECCV 2020\nHierarchical Decision Making by Generating and Following Natural Language Instructions, arXiv 2019 [code]\nStay on the Path: Instruction Fidelity in Vision-and-Language Navigation, ACL 2019\nAre You Looking? Grounding to Multiple Modalities in Vision-and-Language Navigation, ACL 2019\nReinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation, CVPR 2019\nMulti-modal Discriminative Model for Vision-and-Language Navigation, NAACL SpLU-RoboNLP Workshop 2019\nFrom Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following, ICLR 2019\nRead, Watch, and Move: Reinforcement Learning for Temporally Grounding Natural Language Descriptions in Videos, AAAI 2019\nAttention Based Natural Language Grounding by Navigating Virtual Environment, IEEE WACV 2019\nVision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments, CVPR 2018 [code]\nEmbodied Question Answering, CVPR 2018 [code]\nLook Before You Leap: Bridging Model-Free and Model-Based Reinforcement Learning for Planned-Ahead Vision-and-Language Navigation, ECCV 2018",
+              "node_type": "group",
+              "title": "Language Grouding in Navigation"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Neural Machine Translation with Universal Visual Representation",
+                  "description": ", ICLR 2020 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 229575045,
+                    "language": "Python",
+                    "last_commit": "2020-07-01T15:06:39Z",
+                    "owner": "cooelf",
+                    "repo": "UVR-NMT",
+                    "stars": 92
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Doubly-Attentive Decoder for Multi-modal Neural Machine Translation",
+                  "description": ", ACL 2017 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 120338690,
+                    "language": "Python",
+                    "last_commit": "2018-05-01T08:05:09Z",
+                    "owner": "iacercalixto",
+                    "repo": "MultimodalNMT",
+                    "stars": 44
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Incorporating Global Visual Features into Attention-based Neural Machine Translation",
+                  "description": ", EMNLP 2017 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 120338690,
+                    "language": "Python",
+                    "last_commit": "2018-05-01T08:05:09Z",
+                    "owner": "iacercalixto",
+                    "repo": "MultimodalNMT",
+                    "stars": 44
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Multi30K: Multilingual English-German Image Descriptions",
+                  "description": ", ACL Workshop on Language and Vision 2016 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 117251148,
+                    "language": "Smalltalk",
+                    "last_commit": "2026-07-07T11:53:41Z",
+                    "owner": "multi30k",
+                    "repo": "dataset",
+                    "stars": 192
+                  }
+                }
+              ],
+              "description": "Unsupervised Multimodal Neural Machine Translation with Pseudo Visual Pivoting, ACL 2020\nMultimodal Transformer for Multimodal Machine Translation, ACL 2020\nVisual Agreement Regularized Training for Multi-Modal Machine Translation, AAAI 2020\nVATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research, ICCV 2019 [code]\nLatent Variable Model for Multi-modal Translation, ACL 2019\nDistilling Translations with Visual Awareness, ACL 2019\nProbing the Need for Visual Context in Multimodal Machine Translation, NAACL 2019\nEmergent Translation in Multi-Agent Communication, ICLR 2018\nZero-Resource Neural Machine Translation with Multi-Agent Communication Game, AAAI 2018\nLearning Translations via Images with a Massively Multilingual Image Dataset, ACL 2018\nA Visual Attention Grounding Neural Model for Multimodal Machine Translation, EMNLP 2018\nAdversarial Evaluation of Multimodal Machine Translation, EMNLP 2018\nAn empirical study on the effectiveness of images in Multimodal Neural Machine Translation, EMNLP 2017\nMultimodal Pivots for Image Caption Translation, ACL 2016\nDoes Multimodality Help Human and Machine for Translation and Image Captioning?, ACL WMT 2016",
+              "node_type": "group",
+              "title": "Multimodal Machine Translation"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "On the Pitfalls of Measuring Emergent Communication",
+                  "description": ", AAMAS 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 174636667,
+                    "language": "Python",
+                    "last_commit": "2019-03-12T15:08:52Z",
+                    "owner": "facebookresearch",
+                    "repo": "measuring-emergent-comm",
+                    "stars": 34
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Emergent Translation in Multi-Agent Communication",
+                  "description": ", ICLR 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 129794042,
+                    "language": "Python",
+                    "last_commit": "2018-06-06T00:56:52Z",
+                    "owner": "facebookresearch",
+                    "repo": "translagent",
+                    "stars": 82
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Emergent Communication in a Multi-Modal, Multi-Step Referential Game",
+                  "description": ", ICLR 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 92620295,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2018-05-05T19:43:29Z",
+                    "owner": "nyu-dl",
+                    "repo": "MultimodalGame",
+                    "stars": 58
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Emergent Communication through Negotiation",
+                  "description": ", ICLR 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 108782269,
+                    "language": "Python",
+                    "last_commit": "2018-04-19T01:53:50Z",
+                    "owner": "asappresearch",
+                    "repo": "emergent-comms-negotiation",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning",
+                  "description": ", ICCV 2017 code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 137548743,
+                    "language": "Python",
+                    "last_commit": "2018-10-10T21:28:04Z",
+                    "owner": "batra-mlp-lab",
+                    "repo": "visdial-rl",
+                    "stars": 169
+                  }
+                }
+              ],
+              "description": "Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning, ACL 2020\nEmergence of Compositional Language with Deep Generational Transmission, ICML 2019\nEmergence of Linguistic Communication From Referential Games with Symbolic and Pixel Input, ICLR 2018\nEmergence of Grounded Compositional Language in Multi-Agent Populations, AAAI 2018\nEmergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols, NeurIPS 2017\nNatural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog, EMNLP 2017 [code1] [code2]\nMulti-agent Cooperation and the Emergence of (natural) Language, ICLR 2017\nLearning to Communicate with Deep Multi-agent Reinforcement Learning, NIPS 2016.\nLearning multiagent communication with backpropagation, NIPS 2016.\nThe Emergence of Compositional Structures in Perceptually Grounded Language Games, AI 2005",
+              "node_type": "group",
+              "title": "Multi-agent Communication"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MiniHack the Planet: A Sandbox for Open-Ended Reinforcement Learning Research",
+                  "description": ", NeurIPS 2021 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 201013644,
+                    "language": "Python",
+                    "last_commit": "2025-02-12T13:52:10Z",
+                    "owner": "facebookresearch",
+                    "repo": "minihack",
+                    "stars": 520
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RTFM: Generalising to Novel Environment Dynamics via Reading",
+                  "description": ", ICLR 2020 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 244674728,
+                    "language": "Python",
+                    "last_commit": "2021-10-12T21:33:38Z",
+                    "owner": "facebookresearch",
+                    "repo": "RTFM",
+                    "stars": 40
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Hierarchical Decision Making by Generating and Following Natural Language Instructions",
+                  "description": ", NeurIPS 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 198883660,
+                    "language": "C++",
+                    "last_commit": "2021-09-02T21:27:40Z",
+                    "owner": "facebookresearch",
+                    "repo": "minirts",
+                    "stars": 160
+                  }
+                }
+              ],
+              "description": "Imitating Interactive Intelligence, arXiv 2020\nGrounded Language Learning Fast and Slow, ICLR 2021\nEmbodied Multimodal Multitask Learning, IJCAI 2020\nLearning to Speak and Act in a Fantasy Text Adventure Game, arXiv 2019 [code]\nLanguage as an Abstraction for Hierarchical Deep Reinforcement Learning, NeurIPS 2019\nHabitat: A Platform for Embodied AI Research, ICCV 2019 [code]\nMultimodal Hierarchical Reinforcement Learning Policy for Task-Oriented Visual Dialog, SIGDIAL 2018\nMapping Instructions and Visual Observations to Actions with Reinforcement Learning, EMNLP 2017\nReinforcement Learning for Mapping Instructions to Actions, ACL 2009",
+              "node_type": "group",
+              "title": "Multimodal Reinforcement Learning"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog",
+                  "description": ", NAACL 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 173592972,
+                    "language": "Python",
+                    "last_commit": "2020-02-18T19:09:16Z",
+                    "owner": "satwikkottur",
+                    "repo": "clevr-dialog",
+                    "stars": 50
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dialog-based Interactive Image Retrieval",
+                  "description": ", NeurIPS 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 162632358,
+                    "language": "Python",
+                    "last_commit": "2020-10-04T02:30:47Z",
+                    "owner": "XiaoxiaoGuo",
+                    "repo": "fashion-retrieval",
+                    "stars": 70
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Visual Dialog",
+                  "description": ", CVPR 2017 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 88461203,
+                    "language": "Lua",
+                    "last_commit": "2018-11-29T22:41:46Z",
+                    "owner": "batra-mlp-lab",
+                    "repo": "visdial",
+                    "stars": 228
+                  }
+                }
+              ],
+              "description": "Two Causal Principles for Improving Visual Dialog, CVPR 2020\nMELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations, ACL 2019 [code]\nTalk the Walk: Navigating New York City through Grounded Dialogue, arXiv 2018\nTowards Building Large Scale Multimodal Domain-Aware Conversation Systems, arXiv 2017 [code]",
+              "node_type": "group",
+              "title": "Multimodal Dialog"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Natural TTS Synthesis by Conditioning Wavenet on Mel Spectrogram Predictions",
+                  "description": ", ICASSP 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 132042932,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-06-12T18:49:15Z",
+                    "owner": "NVIDIA",
+                    "repo": "tacotron2",
+                    "stars": 5296
+                  }
+                }
+              ],
+              "description": "Lattice Transformer for Speech Translation, ACL 2019\nExploring Phoneme-Level Speech Representations for End-to-End Speech Translation, ACL 2019\nAudio Caption: Listen and Tell, ICASSP 2019\nAudio-Linguistic Embeddings for Spoken Sentences, ICASSP 2019\nFrom Semi-supervised to Almost-unsupervised Speech Recognition with Very-low Resource by Jointly Learning Phonetic Structures from Audio and Text Embeddings, arXiv 2019\nFrom Audio to Semantics: Approaches To End-to-end Spoken Language Understanding, arXiv 2018\nDeep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning, ICLR 2018\nDeep Voice 2: Multi-Speaker Neural Text-to-Speech, NeurIPS 2017\nDeep Voice: Real-time Neural Text-to-Speech, ICML 2017\nText-to-Speech Synthesis, 2009",
+              "node_type": "group",
+              "title": "Language and Audio"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Capture, Learning, and Synthesis of 3D Speaking Styles",
+                  "description": ", CVPR 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 182107715,
+                    "language": "Python",
+                    "last_commit": "2024-08-20T10:53:36Z",
+                    "owner": "TimoBolkart",
+                    "repo": "voca",
+                    "stars": 1262
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Jointly Discovering Visual Objects and Spoken Words from Raw Sensory Input",
+                  "description": ", ECCV 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 136400242,
+                    "language": "Python",
+                    "last_commit": "2018-06-07T00:54:31Z",
+                    "owner": "LiqunChen0606",
+                    "repo": "Jointly-Discovering-Visual-Objects-and-Spoken-Words",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Seeing Voices and Hearing Faces: Cross-modal Biometric Matching",
+                  "description": ", CVPR 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 134904932,
+                    "language": "Matlab",
+                    "last_commit": "2018-08-22T17:24:23Z",
+                    "owner": "a-nagrani",
+                    "repo": "SVHF-Net",
+                    "stars": 32
+                  }
+                }
+              ],
+              "description": "Music Gesture for Visual Sound Separation, CVPR 2020\nCo-Compressing and Unifying Deep CNN Models for Efficient Human Face and Speaker Recognition, CVPRW 2019\nLearning Individual Styles of Conversational Gesture, CVPR 2019 [code]\nDisjoint Mapping Network for Cross-modal Matching of Voices and Faces, ICLR 2019\nWav2Pix: Speech-conditioned Face Generation using Generative Adversarial Networks, ICASSP 2019 [code]\nLearning Affective Correspondence between Music and Image, ICASSP 2019 [dataset]\nLearning to Separate Object Sounds by Watching Unlabeled Video, CVPR 2018\nDeep Audio-Visual Speech Recognition, IEEE TPAMI 2018\nLook, Listen and Learn, ICCV 2017\nUnsupervised Learning of Spoken Language with Visual Context, NeurIPS 2016\nSoundNet: Learning Sound Representations from Unlabeled Video, NeurIPS 2016 [code]",
+              "node_type": "group",
+              "title": "Audio and Visual"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ViFiT: Reconstructing Vision Trajectories from IMU and Wi-Fi Fine Time Measurements",
+                  "description": ", MobiCom 2023 ISACom Workshop [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 698459896,
+                    "language": "Python",
+                    "last_commit": "2024-03-07T18:09:54Z",
+                    "owner": "bryanbocao",
+                    "repo": "vifit",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ViTag: Online WiFi Fine Time Measurements Aided Vision-Motion Identity Association in Multi-person Environments",
+                  "description": ", SECON 2022 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 520645299,
+                    "language": "Python",
+                    "last_commit": "2024-03-07T18:09:26Z",
+                    "owner": "bryanbocao",
+                    "repo": "vitag",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Vi-Fi: Associating Moving Subjects across Vision and Wireless Sensors",
+                  "description": ", IPSN 2022 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 422747395,
+                    "language": "Python",
+                    "last_commit": "2022-08-17T15:51:38Z",
+                    "owner": "vifi2021",
+                    "repo": "Vi-Fi",
+                    "stars": 5
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Visual, IMU and Wireless"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Video Relationship Reasoning using Gated Spatio-Temporal Energy Graph",
+                  "description": ", CVPR 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 177600492,
+                    "language": "Python",
+                    "last_commit": "2020-02-20T16:04:04Z",
+                    "owner": "yaohungt",
+                    "repo": "Gated-Spatio-Temporal-Energy-Graph",
+                    "stars": 152
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Neural Baby Talk",
+                  "description": ", CVPR 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 114430091,
+                    "language": "Python",
+                    "last_commit": "2019-03-27T20:55:35Z",
+                    "owner": "jiasenlu",
+                    "repo": "NeuralBabyTalk",
+                    "stars": 525
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Neural Motifs: Scene Graph Parsing with Global Context",
+                  "description": ", CVPR 2018 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 124462110,
+                    "language": "Python",
+                    "last_commit": "2019-08-09T16:15:37Z",
+                    "owner": "rowanz",
+                    "repo": "neural-motifs",
+                    "stars": 545
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Review Networks for Caption Generation",
+                  "description": ", NeurIPS 2016 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 68171879,
+                    "language": "Lua",
+                    "last_commit": "2018-01-02T13:31:46Z",
+                    "owner": "kimiyoung",
+                    "repo": "review_net",
+                    "stars": 181
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge",
+                  "description": ", TPAMI 2016 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 51117837,
+                    "language": "Python",
+                    "last_commit": "2026-08-21T16:27:30Z",
+                    "owner": "tensorflow",
+                    "repo": "models",
+                    "stars": 77648
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention",
+                  "description": ", ICML 2015 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 35141729,
+                    "language": "Python",
+                    "last_commit": "2023-09-25T14:16:34Z",
+                    "owner": "kelvinxu",
+                    "repo": "arctic-captions",
+                    "stars": 964
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Deep Visual-Semantic Alignments for Generating Image Descriptions",
+                  "description": ", CVPR 2015 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 46531155,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2017-11-07T05:59:20Z",
+                    "owner": "karpathy",
+                    "repo": "neuraltalk2",
+                    "stars": 5592
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Show and Tell: A Neural Image Caption Generator",
+                  "description": ", CVPR 2015 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 46531155,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2017-11-07T05:59:20Z",
+                    "owner": "karpathy",
+                    "repo": "neuraltalk2",
+                    "stars": 5592
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "What’s Cookin’? Interpreting Cooking Videos using Text, Speech and Vision",
+                  "description": ", NAACL 2015 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 31294901,
+                    "language": null,
+                    "last_commit": "2015-05-27T15:26:54Z",
+                    "owner": "malmaud",
+                    "repo": "whats_cookin",
+                    "stars": 21
+                  }
+                }
+              ],
+              "description": "Towards Unsupervised Image Captioning with Shared Multimodal Embeddings, ICCV 2019\nJoint Event Detection and Description in Continuous Video Streams, WACVW 2019\nLearning to Compose and Reason with Language Tree Structures for Visual Grounding, TPAMI 2019\nGrounding Referring Expressions in Images by Variational Context, CVPR 2018\nVideo Captioning via Hierarchical Reinforcement Learning, CVPR 2018\nCharades-Ego: A Large-Scale Dataset of Paired Third and First Person Videos, CVPR 2018 [code]\nNo Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling, ACL 2018\nGenerating Descriptions with Grounded and Co-Referenced People, CVPR 2017\nDenseCap: Fully Convolutional Localization Networks for Dense Captioning, CVPR 2016\nHollywood in Homes: Crowdsourcing Data Collection for Activity Understanding, ECCV 2016 [code]\nA Dataset for Movie Description, CVPR 2015 [code]\nMicrosoft COCO: Common Objects in Context, ECCV 2014 [code]",
+              "node_type": "group",
+              "title": "Media Description"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Towards Multimodal Sarcasm Detection (An Obviously_Perfect Paper)",
+                  "description": ", ACL 2019 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 171583643,
+                    "language": "OpenEdge ABL",
+                    "last_commit": "2024-08-22T07:50:29Z",
+                    "owner": "soujanyaporia",
+                    "repo": "MUStARD",
+                    "stars": 384
+                  }
+                }
+              ],
+              "description": "End-to-end Facial and Physiological Model for Affective Computing and Applications, arXiv 2019\nAffective Computing for Large-Scale Heterogeneous Multimedia Data: A Survey, ACM TOMM 2019\nMulti-modal Approach for Affective Computing, EMBC 2018\nMultimodal Language Analysis with Recurrent Multistage Fusion, EMNLP 2018\nEnd-to-End Multimodal Emotion Recognition using Deep Neural Networks, arXiv 2017\nAMHUSE - A Multimodal dataset for HUmor SEnsing, ICMI 2017 [code]\nDecoding Children’s Social Behavior, CVPR 2013 [code]\nCollecting Large, Richly Annotated Facial-Expression Databases from Movies, IEEE Multimedia 2012 [code]\nThe Interactive Emotional Dyadic Motion Capture (IEMOCAP) Database, 2008 [code]",
+              "node_type": "group",
+              "title": "Affect Recognition and Multimodal Language"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "PET-Guided Attention Network for Segmentation of Lung Tumors from PET/CT Images",
+                  "description": ", GCPR 2020 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 272280809,
+                    "language": "Python",
+                    "last_commit": "2020-10-02T11:53:43Z",
+                    "owner": "pvk95",
+                    "repo": "PAG",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": "Multimodal Co-Attention Transformer for Survival Prediction in Gigapixel Whole Slide Images, ICCV, 2021\nPathomic Fusion: An Integrated Framework for Fusing Histopathology and Genomic Features for Cancer Diagnosis and Prognosis, IEEE TMI, 2020\nLeveraging Medical Visual Question Answering with Supporting Facts, arXiv 2019\nUnsupervised Multimodal Representation Learning across Medical Images and Reports, ML4H 2018\nMultimodal Medical Image Retrieval based on Latent Topic Modeling, ML4H 2018\nImproving Hospital Mortality Prediction with Medical Named Entities and Multimodal Learning, ML4H 2018\nKnowledge-driven Generative Subspaces for Modeling Multi-view Dependencies in Medical Data, ML4H 2018\nMultimodal Depression Detection: Fusion Analysis of Paralinguistic, Head Pose and Eye Gaze Behaviors, TAC 2018\nLearning the Joint Representation of Heterogeneous Temporal Events for Clinical Endpoint Prediction, AAAI 2018\nUnderstanding Coagulopathy using Multi-view Data in the Presence of Sub-Cohorts: A Hierarchical Subspace Approach, MLHC 2017\nMachine Learning in Multimodal Medical Imaging, 2017\nCross-modal Recurrent Models for Weight Objective Prediction from Multimodal Time-series Data, ML4H 2017\nSimSensei Kiosk: A Virtual Human Interviewer for Healthcare Decision Support, AAMAS 2014\nDyadic Behavior Analysis in Depression Severity Assessment Interviews, ICMI 2014\nAudiovisual Behavior Descriptors for Depression Assessment, ICMI 2013",
+              "node_type": "group",
+              "title": "Healthcare"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Applications and Datasets"
+        }
+      ],
+      "title": "Research Papers"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T09:00:50.128Z",
+    "last_updated": "2026-08-24T13:54:11.708Z",
     "original_repository": "pliang279/awesome-multimodal-ml",
     "original_repository_id": 188919037,
     "original_repository_sha": "f1d3bae4aec6a9da8c52da47ac9c115be6e14f6c",

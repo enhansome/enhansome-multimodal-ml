@@ -108,13 +108,13 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [MultiBench: Multiscale Benchmarks for Multimodal Representation Learning](https://arxiv.org/abs/2107.07502), NeurIPS 2021 [\[code\]](https://github.com/pliang279/MultiBench) ⭐ 636 | 🐛 18 | 🌐 HTML | 📅 2024-01-27
 
-[Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206), ICML 2021 [\[code\]](https://github.com/deepmind/deepmind-research/tree/master/perceiver) ⭐ 15,165 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
+[Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206), ICML 2021 [\[code\]](https://github.com/deepmind/deepmind-research/tree/master/perceiver) ⭐ 15,166 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
 
-[Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020), arXiv 2021 [\[blog\]](\[blog]\(https://openai.com/blog/clip/\)) [\[code\]](https://github.com/OpenAI/CLIP) ⭐ 34,214 | 🐛 272 | 🌐 Jupyter Notebook | 📅 2026-03-25
+[Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020), arXiv 2021 [\[blog\]](\[blog]\(https://openai.com/blog/clip/\)) [\[code\]](https://github.com/OpenAI/CLIP) ⭐ 34,218 | 🐛 272 | 🌐 Jupyter Notebook | 📅 2026-03-25
 
 [VinVL: Revisiting Visual Representations in Vision-Language Models](https://arxiv.org/abs/2101.00529), arXiv 2021 [\[blog\]](https://www.microsoft.com/en-us/research/blog/vinvl-advancing-the-state-of-the-art-for-vision-language-models/?OCID=msr_blog_VinVL_fb) [\[code\]](https://github.com/pzzhang/VinVL) ⭐ 360 | 🐛 34 | 📅 2023-07-26
 
-[Learning Transferable Visual Models From Natural Language Supervision](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf), arXiv 2020 [\[blog\]](https://openai.com/blog/clip/) [\[code\]](https://github.com/openai/CLIP) ⭐ 34,214 | 🐛 272 | 🌐 Jupyter Notebook | 📅 2026-03-25
+[Learning Transferable Visual Models From Natural Language Supervision](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf), arXiv 2020 [\[blog\]](https://openai.com/blog/clip/) [\[code\]](https://github.com/openai/CLIP) ⭐ 34,218 | 🐛 272 | 🌐 Jupyter Notebook | 📅 2026-03-25
 
 [12-in-1: Multi-Task Vision and Language Representation Learning](https://arxiv.org/abs/1912.02315), CVPR 2020 [\[code\]](https://github.com/facebookresearch/vilbert-multi-task) ⚠️ Archived
 
@@ -214,7 +214,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Multimodal Transformer for Unaligned Multimodal Language Sequences](https://arxiv.org/abs/1906.00295), ACL 2019 [\[code\]](https://github.com/yaohungt/Multimodal-Transformer) ⭐ 997 | 🐛 15 | 🌐 Python | 📅 2022-09-12
 
-[Temporal Cycle-Consistency Learning](https://arxiv.org/abs/1904.07846), CVPR 2019 [\[code\]](https://github.com/google-research/google-research/tree/master/tcc) ⭐ 38,610 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-21
+[Temporal Cycle-Consistency Learning](https://arxiv.org/abs/1904.07846), CVPR 2019 [\[code\]](https://github.com/google-research/google-research/tree/master/tcc) ⭐ 38,611 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-21
 
 [See, Hear, and Read: Deep Aligned Representations](https://people.csail.mit.edu/yusuf/see-hear-read/paper.pdf), arXiv 2017
 
@@ -242,7 +242,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [VL-BERT: Pre-training of Generic Visual-Linguistic Representations](https://arxiv.org/abs/1908.08530), arXiv 2019 [\[code\]](https://github.com/jackroos/VL-BERT) ⭐ 740 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2023-05-22
 
-[VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/abs/1908.03557), arXiv 2019 [\[code\]](https://github.com/uclanlp/visualbert) ⭐ 542 | 🐛 15 | 🌐 Python | 📅 2023-05-01
+[VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/abs/1908.03557), arXiv 2019 [\[code\]](https://github.com/uclanlp/visualbert) ⭐ 542 | 🐛 14 | 🌐 Python | 📅 2023-05-01
 
 [ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://arxiv.org/abs/1908.02265), NeurIPS 2019 [\[code\]](https://github.com/jiasenlu/vilbert_beta) ⭐ 478 | 🐛 44 | 🌐 Jupyter Notebook | 📅 2022-11-21
 
@@ -454,7 +454,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [PolyViT: Co-training Vision Transformers on Images, Videos and Audio](https://arxiv.org/abs/2111.12993), arXiv 2021
 
-[VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text](https://arxiv.org/abs/2104.11178), NeurIPS 2021 [\[code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,610 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-21
+[VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text](https://arxiv.org/abs/2104.11178), NeurIPS 2021 [\[code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,611 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-21
 
 [Parameter Efficient Multimodal Transformers for Video Representation Learning](https://arxiv.org/abs/2012.04124), ICLR 2021 [\[code\]](https://github.com/sangho-vision/avbert) ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2021-09-20
 
@@ -582,7 +582,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [ALFWorld: Aligning Text and Embodied Environments for Interactive Learning](https://arxiv.org/abs/2010.03768), ICLR 2021 [\[code\]](http://alfworld.github.io/)
 
-[Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation](https://arxiv.org/abs/2104.10674), ICRA 2021, [\[code\]](https://github.com/GT-RIPL/robo-vln) ⭐ 89 | 🐛 1 | 🌐 Python | 📅 2024-06-27, [\[video\]](https://www.youtube.com/watch?v=y16x9n_zP_4), [\[project page\]](https://zubair-irshad.github.io/projects/robo-vln.html)
+[Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation](https://arxiv.org/abs/2104.10674), ICRA 2021, [\[code\]](https://github.com/GT-RIPL/robo-vln) ⭐ 90 | 🐛 1 | 🌐 Python | 📅 2024-06-27, [\[video\]](https://www.youtube.com/watch?v=y16x9n_zP_4), [\[project page\]](https://zubair-irshad.github.io/projects/robo-vln.html)
 
 [Improving Vision-and-Language Navigation with Image-Text Pairs from the Web](https://arxiv.org/abs/2004.14973), ECCV 2020
 
@@ -834,7 +834,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Charades-Ego: A Large-Scale Dataset of Paired Third and First Person Videos](https://arxiv.org/abs/1804.09626), CVPR 2018 [\[code\]](https://allenai.org/plato/charades/)
 
-[Neural Motifs: Scene Graph Parsing with Global Context](https://arxiv.org/abs/1711.06640), CVPR 2018 [\[code\]](http://github.com/rowanz/neural-motifs) ⭐ 545 | 🐛 42 | 🌐 Python | 📅 2019-08-09
+[Neural Motifs: Scene Graph Parsing with Global Context](https://arxiv.org/abs/1711.06640), CVPR 2018 [\[code\]](http://github.com/rowanz/neural-motifs) ⭐ 545 | 🐛 41 | 🌐 Python | 📅 2019-08-09
 
 [No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling](https://arxiv.org/abs/1804.09160), ACL 2018
 
