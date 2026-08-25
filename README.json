@@ -79,7 +79,7 @@
                     "last_commit": "2026-03-25T18:46:40Z",
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34221
+                    "stars": 34222
                   }
                 },
                 {
@@ -109,7 +109,7 @@
                     "last_commit": "2026-03-25T18:46:40Z",
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34221
+                    "stars": 34222
                   }
                 },
                 {
@@ -378,7 +378,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38614
+                    "stars": 38615
                   }
                 },
                 {
@@ -971,7 +971,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38614
+                    "stars": 38615
                   }
                 },
                 {
@@ -1955,7 +1955,7 @@
                     "last_commit": "2026-08-21T16:27:30Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77648
+                    "stars": 77650
                   }
                 },
                 {
@@ -2077,7 +2077,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:49:30.128Z",
+    "last_updated": "2026-08-25T08:56:20.673Z",
     "original_repository": "pliang279/awesome-multimodal-ml",
     "original_repository_id": 188919037,
     "original_repository_sha": "f1d3bae4aec6a9da8c52da47ac9c115be6e14f6c",
