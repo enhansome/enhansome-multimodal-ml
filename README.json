@@ -79,7 +79,7 @@
                     "last_commit": "2026-03-25T18:46:40Z",
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34222
+                    "stars": 34228
                   }
                 },
                 {
@@ -109,7 +109,7 @@
                     "last_commit": "2026-03-25T18:46:40Z",
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34222
+                    "stars": 34228
                   }
                 },
                 {
@@ -375,10 +375,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-21T19:58:51Z",
+                    "last_commit": "2026-08-25T18:30:01Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38615
+                    "stars": 38622
                   }
                 },
                 {
@@ -624,7 +624,7 @@
                     "last_commit": "2023-11-06T08:10:09Z",
                     "owner": "XLearning-SCU",
                     "repo": "2021-NeurIPS-NCR",
-                    "stars": 82
+                    "stars": 81
                   }
                 }
               ],
@@ -968,10 +968,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-21T19:58:51Z",
+                    "last_commit": "2026-08-25T18:30:01Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38615
+                    "stars": 38622
                   }
                 },
                 {
@@ -1791,7 +1791,7 @@
                     "last_commit": "2024-08-20T10:53:36Z",
                     "owner": "TimoBolkart",
                     "repo": "voca",
-                    "stars": 1262
+                    "stars": 1263
                   }
                 },
                 {
@@ -1952,10 +1952,10 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-21T16:27:30Z",
+                    "last_commit": "2026-08-25T21:25:59Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77650
+                    "stars": 77652
                   }
                 },
                 {
@@ -2037,7 +2037,7 @@
                     "last_commit": "2024-08-22T07:50:29Z",
                     "owner": "soujanyaporia",
                     "repo": "MUStARD",
-                    "stars": 384
+                    "stars": 385
                   }
                 }
               ],
@@ -2077,7 +2077,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:56:20.673Z",
+    "last_updated": "2026-08-26T08:58:32.153Z",
     "original_repository": "pliang279/awesome-multimodal-ml",
     "original_repository_id": 188919037,
     "original_repository_sha": "f1d3bae4aec6a9da8c52da47ac9c115be6e14f6c",
