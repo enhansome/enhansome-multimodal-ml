@@ -64,7 +64,7 @@
                     "last_commit": "2026-06-17T13:51:27Z",
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15167
+                    "stars": 15170
                   }
                 },
                 {
@@ -79,7 +79,7 @@
                     "last_commit": "2026-03-25T18:46:40Z",
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34228
+                    "stars": 34239
                   }
                 },
                 {
@@ -109,7 +109,7 @@
                     "last_commit": "2026-03-25T18:46:40Z",
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34228
+                    "stars": 34239
                   }
                 },
                 {
@@ -236,7 +236,7 @@
                     "last_commit": "2024-07-14T09:26:35Z",
                     "owner": "yikaiw",
                     "repo": "CEN",
-                    "stars": 314
+                    "stars": 313
                   }
                 },
                 {
@@ -375,10 +375,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-25T18:30:01Z",
+                    "last_commit": "2026-08-27T09:11:14Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38622
+                    "stars": 38630
                   }
                 },
                 {
@@ -968,10 +968,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-25T18:30:01Z",
+                    "last_commit": "2026-08-27T09:11:14Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38622
+                    "stars": 38630
                   }
                 },
                 {
@@ -1165,7 +1165,7 @@
                     "last_commit": "2026-07-07T21:35:07Z",
                     "owner": "facebookresearch",
                     "repo": "mmf",
-                    "stars": 5633
+                    "stars": 5634
                   }
                 },
                 {
@@ -1952,10 +1952,10 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-25T21:25:59Z",
+                    "last_commit": "2026-08-27T04:28:47Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77652
+                    "stars": 77653
                   }
                 },
                 {
@@ -1970,7 +1970,7 @@
                     "last_commit": "2023-09-25T14:16:34Z",
                     "owner": "kelvinxu",
                     "repo": "arctic-captions",
-                    "stars": 964
+                    "stars": 965
                   }
                 },
                 {
@@ -2077,9 +2077,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:58:32.153Z",
-    "original_repository": "pliang279/awesome-multimodal-ml",
-    "original_repository_id": 188919037,
+    "last_updated": "2026-08-27T11:52:21.760Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 188919037,
+      "language": null,
+      "last_commit": "2024-08-20T19:46:33Z",
+      "owner": "pliang279",
+      "repo": "awesome-multimodal-ml",
+      "stars": 6926
+    },
     "original_repository_sha": "f1d3bae4aec6a9da8c52da47ac9c115be6e14f6c",
     "enhanced_repository": "enhansome/enhansome-multimodal-ml",
     "enhanced_repository_description": null,
