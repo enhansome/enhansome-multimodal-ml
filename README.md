@@ -212,9 +212,9 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [CoMIR: Contrastive Multimodal Image Representation for Registration](https://arxiv.org/pdf/2006.06325.pdf), NeurIPS 2020 [\[code\]](https://github.com/MIDA-group/CoMIR) ⭐ 87 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-11-18
 
-[Multimodal Transformer for Unaligned Multimodal Language Sequences](https://arxiv.org/abs/1906.00295), ACL 2019 [\[code\]](https://github.com/yaohungt/Multimodal-Transformer) ⭐ 997 | 🐛 15 | 🌐 Python | 📅 2022-09-12
+[Multimodal Transformer for Unaligned Multimodal Language Sequences](https://arxiv.org/abs/1906.00295), ACL 2019 [\[code\]](https://github.com/yaohungt/Multimodal-Transformer) ⭐ 996 | 🐛 15 | 🌐 Python | 📅 2022-09-12
 
-[Temporal Cycle-Consistency Learning](https://arxiv.org/abs/1904.07846), CVPR 2019 [\[code\]](https://github.com/google-research/google-research/tree/master/tcc) ⭐ 38,631 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-27
+[Temporal Cycle-Consistency Learning](https://arxiv.org/abs/1904.07846), CVPR 2019 [\[code\]](https://github.com/google-research/google-research/tree/master/tcc) ⭐ 38,641 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-27
 
 [See, Hear, and Read: Deep Aligned Representations](https://people.csail.mit.edu/yusuf/see-hear-read/paper.pdf), arXiv 2017
 
@@ -454,7 +454,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [PolyViT: Co-training Vision Transformers on Images, Videos and Audio](https://arxiv.org/abs/2111.12993), arXiv 2021
 
-[VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text](https://arxiv.org/abs/2104.11178), NeurIPS 2021 [\[code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,631 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-27
+[VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text](https://arxiv.org/abs/2104.11178), NeurIPS 2021 [\[code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,641 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-27
 
 [Parameter Efficient Multimodal Transformers for Video Representation Learning](https://arxiv.org/abs/2012.04124), ICLR 2021 [\[code\]](https://github.com/sangho-vision/avbert) ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2021-09-20
 
@@ -512,7 +512,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes](https://arxiv.org/abs/1809.00812), EMNLP 2018 [\[code\]](https://hucvl.github.io/recipeqa/)
 
-[TVQA: Localized, Compositional Video Question Answering](https://www.aclweb.org/anthology/D18-1167), EMNLP 2018 [\[code\]](https://github.com/jayleicn/TVQA) ⭐ 181 | 🐛 4 | 🌐 Python | 📅 2022-10-25
+[TVQA: Localized, Compositional Video Question Answering](https://www.aclweb.org/anthology/D18-1167), EMNLP 2018 [\[code\]](https://github.com/jayleicn/TVQA) ⭐ 182 | 🐛 4 | 🌐 Python | 📅 2022-10-25
 
 [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://arxiv.org/abs/1707.07998), CVPR 2018 [\[code\]](https://github.com/facebookresearch/pythia) ⭐ 5,633 | 🐛 150 | 🌐 Python | 📅 2026-07-07
 
@@ -662,7 +662,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Multimodal Pivots for Image Caption Translation](http://aclweb.org/anthology/P16-1227), ACL 2016
 
-[Multi30K: Multilingual English-German Image Descriptions](https://aclweb.org/anthology/W16-3210.pdf), ACL Workshop on Language and Vision 2016 [\[code\]](https://github.com/multi30k/dataset) ⭐ 192 | 🐛 1 | 🌐 Smalltalk | 📅 2026-07-07
+[Multi30K: Multilingual English-German Image Descriptions](https://aclweb.org/anthology/W16-3210.pdf), ACL Workshop on Language and Vision 2016 [\[code\]](https://github.com/multi30k/dataset) ⭐ 191 | 🐛 1 | 🌐 Smalltalk | 📅 2026-07-07
 
 [Does Multimodality Help Human and Machine for Translation and Image Captioning?](http://www.statmt.org/wmt16/pdf/W16-2358.pdf), ACL WMT 2016
 
@@ -846,7 +846,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding](https://arxiv.org/abs/1604.01753), ECCV 2016 [\[code\]](https://allenai.org/plato/charades/)
 
-[Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge](https://arxiv.org/abs/1609.06647), TPAMI 2016 [\[code\]](https://github.com/tensorflow/models/tree/master/research/im2txt) ⭐ 77,654 | 🐛 1,271 | 🌐 Python | 📅 2026-08-27
+[Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge](https://arxiv.org/abs/1609.06647), TPAMI 2016 [\[code\]](https://github.com/tensorflow/models/tree/master/research/im2txt) ⭐ 77,659 | 🐛 1,272 | 🌐 Python | 📅 2026-08-28
 
 [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044), ICML 2015 [\[code\]](https://github.com/kelvinxu/arctic-captions) ⭐ 965 | 🐛 23 | 🌐 Python | 📅 2023-09-25
 
@@ -1117,4 +1117,4 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

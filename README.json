@@ -20,7 +20,8 @@
                     "owner": "imantdaunhawer",
                     "repo": "multimodal-contrastive-learning",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -35,7 +36,8 @@
                     "owner": "Cocoxili",
                     "repo": "CMPC",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -50,7 +52,8 @@
                     "owner": "pliang279",
                     "repo": "MultiBench",
                     "stars": 636
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -65,7 +68,8 @@
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
                     "stars": 15170
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -80,7 +84,8 @@
                     "owner": "openai",
                     "repo": "CLIP",
                     "stars": 34240
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -95,7 +100,8 @@
                     "owner": "pzzhang",
                     "repo": "VinVL",
                     "stars": 360
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -110,7 +116,8 @@
                     "owner": "openai",
                     "repo": "CLIP",
                     "stars": 34240
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -125,7 +132,8 @@
                     "owner": "facebookresearch",
                     "repo": "vilbert-multi-task",
                     "stars": 823
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -140,7 +148,8 @@
                     "owner": "subho406",
                     "repo": "OmniNet",
                     "stars": 514
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -155,7 +164,8 @@
                     "owner": "Philip-Bachman",
                     "repo": "amdim-public",
                     "stars": 402
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -170,7 +180,8 @@
                     "owner": "BigRedT",
                     "repo": "vico",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -185,7 +196,8 @@
                     "owner": "pliang279",
                     "repo": "factorized",
                     "stars": 70
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "Unpaired Vision-Language Pre-training via Cross-Modal CutMix, ICML 2022.\nBalanced Multimodal Learning via On-the-fly Gradient Modulation, CVPR 2022\nTowards a Unified Foundation Model: Jointly Pre-Training Transformers on Unpaired Images and Text, arXiv 2021\nFLAVA: A Foundational Language And Vision Alignment Model, arXiv 2021\nTransformer is All You Need: Multimodal Multitask Learning with a Unified Transformer, arXiv 2021\nWatching the World Go By: Representation Learning from Unlabeled Videos, arXiv 2020\nLearning Video Representations using Contrastive Bidirectional Transformer, arXiv 2019\nVisual Concept-Metaconcept Learning, NeurIPS 2019 [code]\nUnified Visual-Semantic Embeddings: Bridging Vision and Language With Structured Meaning Representations, CVPR 2019\nMulti-Task Learning of Hierarchical Vision-Language Representation, CVPR 2019\nA Probabilistic Framework for Multi-view Feature Learning with Many-to-many Associations via Neural Networks, ICML 2018\nDo Neural Network Cross-Modal Mappings Really Bridge Modalities?, ACL 2018\nLearning Robust Visual-Semantic Embeddings, ICCV 2017\nDeep Multimodal Representation Learning from Temporal Data, CVPR 2017\nIs an Image Worth More than a Thousand Words? On the Fine-Grain Semantic Differences between Visual and Linguistic Representations, COLING 2016\nCombining Language and Vision with a Multimodal Skip-gram Model, NAACL 2015\nDeep Fragment Embeddings for Bidirectional Image Sentence Mapping, NIPS 2014\nMultimodal Learning with Deep Boltzmann Machines, JMLR 2014\nLearning Grounded Meaning Representations with Autoencoders, ACL 2014\nDeViSE: A Deep Visual-Semantic Embedding Model, NeurIPS 2013\nMultimodal Deep Learning, ICML 2011",
@@ -207,7 +219,8 @@
                     "owner": "Han-Zongbo",
                     "repo": "TMC",
                     "stars": 287
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -222,7 +235,8 @@
                     "owner": "itaigat",
                     "repo": "removing-bias-in-multi-modal-classifiers",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -237,7 +251,8 @@
                     "owner": "yikaiw",
                     "repo": "CEN",
                     "stars": 313
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -252,7 +267,8 @@
                     "owner": "sverma88",
                     "repo": "DeepCU-IJCAI19",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -267,7 +283,8 @@
                     "owner": "catalina17",
                     "repo": "XFlow",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -282,7 +299,8 @@
                     "owner": "ivclab",
                     "repo": "NeuralMerger",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -297,7 +315,8 @@
                     "owner": "Justin1904",
                     "repo": "Low-rank-Multimodal-Fusion",
                     "stars": 274
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -312,7 +331,8 @@
                     "owner": "pliang279",
                     "repo": "MFN",
                     "stars": 116
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "Robust Contrastive Learning against Noisy Views, arXiv 2022\nCooperative Learning for Multi-view Analysis, arXiv 2022\nWhat Makes Multi-modal Learning Better than Single (Provably), NeurIPS 2021\nEfficient Multi-Modal Fusion with Diversity Analysis, ACMMM 2021\nAttention Bottlenecks for Multimodal Fusion, NeurIPS 2021\nVMLoc: Variational Fusion For Learning-Based Multimodal Camera Localization, AAAI 2021\nDeep-HOSeq: Deep Higher-Order Sequence Fusion for Multimodal Sentiment Analysis, ICDM 2020\nWhat Makes Training Multi-Modal Classification Networks Hard?, CVPR 2020\nDynamic Fusion for Multimodal Data, arXiv 2019\nDeep Multimodal Multilinear Fusion with High-order Polynomial Pooling, NeurIPS 2019\nMFAS: Multimodal Fusion Architecture Search, CVPR 2019\nThe Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision, ICLR 2019 [code]\nJointly Modeling Deep Video and Compositional Text to Bridge Vision and Language in a Unified Framework, AAAI 2015\nA co-regularized approach to semi-supervised learning with multiple views, ICML 2005",
@@ -334,7 +354,8 @@
                     "owner": "DanielTrosten",
                     "repo": "mvc",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -349,7 +370,8 @@
                     "owner": "MIDA-group",
                     "repo": "CoMIR",
                     "stars": 87
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -363,8 +385,9 @@
                     "last_commit": "2022-09-12T05:10:04Z",
                     "owner": "yaohungt",
                     "repo": "Multimodal-Transformer",
-                    "stars": 997
-                  }
+                    "stars": 996
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -378,8 +401,9 @@
                     "last_commit": "2026-08-27T09:11:14Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38631
-                  }
+                    "stars": 38641
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -394,7 +418,8 @@
                     "owner": "VahidooX",
                     "repo": "DeepCCA",
                     "stars": 250
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "See, Hear, and Read: Deep Aligned Representations, arXiv 2017\nOn Deep Multi-View Representation Learning, ICML 2015\nUnsupervised Alignment of Natural Language Instructions with Video Segments, AAAI 2014\nMultimodal Alignment of Videos, MM 2014",
@@ -416,7 +441,8 @@
                     "owner": "salesforce",
                     "repo": "ALBEF",
                     "stars": 1755
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -431,7 +457,8 @@
                     "owner": "jayleicn",
                     "repo": "ClipBERT",
                     "stars": 729
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -446,7 +473,8 @@
                     "owner": "zhegan27",
                     "repo": "VILLA",
                     "stars": 119
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -461,7 +489,8 @@
                     "owner": "airsplay",
                     "repo": "vokenization",
                     "stars": 190
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -476,7 +505,8 @@
                     "owner": "jackroos",
                     "repo": "VL-BERT",
                     "stars": 740
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -491,7 +521,8 @@
                     "owner": "uclanlp",
                     "repo": "visualbert",
                     "stars": 542
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -506,7 +537,8 @@
                     "owner": "jiasenlu",
                     "repo": "vilbert_beta",
                     "stars": 478
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -521,7 +553,8 @@
                     "owner": "airsplay",
                     "repo": "lxmert",
                     "stars": 965
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer, arXiv 2021\nIntegrating Multimodal Information in Large Pretrained Transformers, ACL 2020\nUnicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training, arXiv 2019\nVideoBERT: A Joint Model for Video and Language Representation Learning, ICCV 2019",
@@ -543,7 +576,8 @@
                     "owner": "openai",
                     "repo": "DALL-E",
                     "stars": 10834
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -558,7 +592,8 @@
                     "owner": "ownstyledu",
                     "repo": "Translate-to-Recognize-Networks",
                     "stars": 91
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -573,7 +608,8 @@
                     "owner": "cmu-mlsp",
                     "repo": "reconstructing_faces_from_voices",
                     "stars": 193
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -588,7 +624,8 @@
                     "owner": "hainow",
                     "repo": "MCTN",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -603,7 +640,8 @@
                     "owner": "NVIDIA",
                     "repo": "tacotron2",
                     "stars": 5295
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "Language2Pose: Natural Language Grounded Pose Forecasting, 3DV 2019 [code]\nSpeech2Face: Learning the Face Behind a Voice, CVPR 2019 [code]",
@@ -625,7 +663,8 @@
                     "owner": "XLearning-SCU",
                     "repo": "2021-NeurIPS-NCR",
                     "stars": 81
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "MURAL: Multimodal, Multitask Retrieval Across Languages, arXiv 2021\nSelf-Supervised Learning from Web Data for Multimodal Retrieval, arXiv 2019\nLook, Imagine and Match: Improving Textual-Visual Cross-Modal Retrieval with Generative Models, CVPR 2018\nScene-centric vs. Object-centric Image-Text Cross-modal Retrieval: A Reproducibility Study, ECIR 2023",
@@ -647,7 +686,8 @@
                     "owner": "chl8856",
                     "repo": "DeepIMV",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "SMIL: Multimodal Learning with Severely Missing Modality, AAAI 2021\nFactorized Inference in Deep Markov Models for Incomplete Multimodal Time Series, arXiv 2019\nLearning Representations from Imperfect Time Series Data via Tensor Rank Regularization, ACL 2019\nMultimodal Deep Learning for Robust RGB-D Object Recognition, IROS 2015",
@@ -669,7 +709,8 @@
                     "owner": "UKPLab",
                     "repo": "starsem18-multimodalKB",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -684,7 +725,8 @@
                     "owner": "ivendrov",
                     "repo": "order-embedding",
                     "stars": 189
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "MMKG: Multi-Modal Knowledge Graphs, ESWC 2019\nAnswering Visual-Relational Queries in Web-Extracted Knowledge Graphs, AKBC 2019\nEmbedding Multimodal Relational Data for Knowledge Base Completion, EMNLP 2018\nBuilding a Large-scale Multimodal Knowledge Base System for Answering Visual Queries, arXiv 2015",
@@ -706,7 +748,8 @@
                     "owner": "Seth-Park",
                     "repo": "MultimodalExplanations",
                     "stars": 47
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "Multimodal Explanations by Predicting Counterfactuality in Videos, CVPR 2019\nDo Explanations make VQA Models more Predictable to a Human?, EMNLP 2018\nTowards Transparent AI Systems: Interpreting Visual Question Answering Models, ICML Workshop on Visualization for Deep Learning 2016",
@@ -728,7 +771,8 @@
                     "owner": "epalu",
                     "repo": "mmvaeplus",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -743,7 +787,8 @@
                     "owner": "thomassutter",
                     "repo": "MoPoE",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -758,7 +803,8 @@
                     "owner": "thomassutter",
                     "repo": "mmjsd",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -773,7 +819,8 @@
                     "owner": "imantdaunhawer",
                     "repo": "DMVAE",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -788,7 +835,8 @@
                     "owner": "iffsid",
                     "repo": "mmvae",
                     "stars": 224
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "On the Limitations of Multimodal VAEs, ICLR 2022 [code]\nFew-shot Video-to-Video Synthesis, NeurIPS 2019 [code]\nMultimodal Generative Models for Scalable Weakly-Supervised Learning, NeurIPS 2018 [code1] [code2]\nThe Multi-Entity Variational Autoencoder, NeurIPS 2017",
@@ -810,7 +858,8 @@
                     "owner": "alextamkin",
                     "repo": "dabs",
                     "stars": 105
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -825,7 +874,8 @@
                     "owner": "HumamAlwassel",
                     "repo": "XDC",
                     "stars": 91
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "Self-Supervised MultiModal Versatile Networks, NeurIPS 2020 [code]\nLabelling Unlabelled Videos from Scratch with Multi-modal Self-supervision, NeurIPS 2020 [code]\nSelf-Supervised Learning of Visual Features through Embedding Images into Text Topic Spaces, CVPR 2017\nMultimodal Dynamics : Self-supervised Learning in Perceptual and Motor Systems, 2016",
@@ -847,7 +897,8 @@
                     "owner": "ryankiros",
                     "repo": "visual-semantic-embedding",
                     "stars": 429
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "Neural Language Modeling with Visual Features, arXiv 2019\nLearning Multi-Modal Word Representation Grounded in Visual Context, AAAI 2018\nVisual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings Using Abstract Scenes, CVPR 2016",
@@ -869,7 +920,8 @@
                     "owner": "huanzhang12",
                     "repo": "ImageCaptioningAttack",
                     "stars": 56
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "Attend and Attack: Attention Guided Adversarial Attacks on Visual Question Answering Models, NeurIPS Workshop on Visually Grounded Interaction and Language 2018\nFooling Vision and Language Models Despite Localization and Attention Mechanism, CVPR 2018",
@@ -891,7 +943,8 @@
                     "owner": "pliang279",
                     "repo": "sent_debias",
                     "stars": 64
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -906,7 +959,8 @@
                     "owner": "BiDAlab",
                     "repo": "FairCVtest",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -921,7 +975,8 @@
                     "owner": "TManzini",
                     "repo": "DebiasMulticlassWordEmbedding",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization, ICCV 2023 [project page]\nWorst of Both Worlds: Biases Compound in Pre-trained Vision-and-Language Models, arXiv 2021\nModel Cards for Model Reporting, FAccT 2019\nGender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification, FAccT 2018\nDatasheets for Datasets, arXiv 2018\nMan is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings, NeurIPS 2016",
@@ -943,7 +998,8 @@
                     "owner": "natashamjaques",
                     "repo": "neural_chat",
                     "stars": 181
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "Human in the Loop Dialogue Systems, NeurIPS 2020 workshop\nHuman And Machine in-the-Loop Evaluation and Learning Strategies, NeurIPS 2020 workshop\nHuman-In-The-Loop Machine Learning with Intelligent Multimodal Interfaces, ICML 2017 workshop",
@@ -971,8 +1027,9 @@
                     "last_commit": "2026-08-27T09:11:14Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38631
-                  }
+                    "stars": 38641
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -987,7 +1044,8 @@
                     "owner": "sangho-vision",
                     "repo": "avbert",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "Pretrained Transformers As Universal Computation Engines, AAAI 2022\nPerceiver: General Perception with Iterative Attention, ICML 2021\nFLAVA: A Foundational Language And Vision Alignment Model, arXiv 2021\nPolyViT: Co-training Vision Transformers on Images, Videos and Audio, arXiv 2021",
@@ -1016,7 +1074,8 @@
                     "owner": "HenryJunW",
                     "repo": "TAG",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1031,7 +1090,8 @@
                     "owner": "sutdcv",
                     "repo": "SUTD-TrafficQA",
                     "stars": 66
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1046,7 +1106,8 @@
                     "owner": "hannandarryl",
                     "repo": "ManyModalQA",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1061,7 +1122,8 @@
                     "owner": "xingdi-eric-yuan",
                     "repo": "qait_public",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1076,7 +1138,8 @@
                     "owner": "cdancette",
                     "repo": "rubi.bootstrap.pytorch",
                     "stars": 67
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1091,7 +1154,8 @@
                     "owner": "Cadene",
                     "repo": "murel.bootstrap.pytorch",
                     "stars": 194
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1106,7 +1170,8 @@
                     "owner": "kdexd",
                     "repo": "probnmn-clevr",
                     "stars": 68
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1121,7 +1186,8 @@
                     "owner": "Cyanogenoid",
                     "repo": "vqa-counting",
                     "stars": 208
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1136,7 +1202,8 @@
                     "owner": "kexinyi",
                     "repo": "ns-vqa",
                     "stars": 282
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1150,8 +1217,9 @@
                     "last_commit": "2022-10-25T04:31:01Z",
                     "owner": "jayleicn",
                     "repo": "TVQA",
-                    "stars": 181
-                  }
+                    "stars": 182
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1166,7 +1234,8 @@
                     "owner": "facebookresearch",
                     "repo": "mmf",
                     "stars": 5633
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1181,7 +1250,8 @@
                     "owner": "AishwaryaAgrawal",
                     "repo": "GVQA",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1196,7 +1266,8 @@
                     "owner": "ronghanghu",
                     "repo": "n2nmn",
                     "stars": 272
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1211,7 +1282,8 @@
                     "owner": "facebookresearch",
                     "repo": "clevr-iep",
                     "stars": 803
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1226,7 +1298,8 @@
                     "owner": "akirafukui",
                     "repo": "vqa-mcb",
                     "stars": 219
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "Learning to Answer Questions in Dynamic Audio-Visual Scenarios, CVPR 2022\nMultiModalQA: complex question answering over text, tables and images, ICLR 2021\nIterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA, CVPR 2020\nFusion of Detected Objects in Text for Visual Question Answering, arXiv 2019\nGQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering, CVPR 2019 [code]\nOK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge, CVPR 2019 [code]\nOvercoming Language Priors in Visual Question Answering with Adversarial Regularization, NeurIPS 2018\nRecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes, EMNLP 2018 [code]\nStacked Latent Attention for Multimodal Reasoning, CVPR 2018\nAre You Smarter Than A Sixth Grader? Textbook Question Answering for Multimodal Machine Comprehension, CVPR 2017 [code]\nMovieQA: Understanding Stories in Movies through Question-Answering, CVPR 2016 [code]\nVQA: Visual Question Answering, ICCV 2015 [code]",
@@ -1248,7 +1321,8 @@
                     "owner": "gsig",
                     "repo": "visual-grounding",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1263,7 +1337,8 @@
                     "owner": "jimmy646",
                     "repo": "violin",
                     "stars": 161
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1278,7 +1353,8 @@
                     "owner": "VisionLearningGroup",
                     "repo": "Text-to-Clip_Retrieval",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1293,7 +1369,8 @@
                     "owner": "facebookresearch",
                     "repo": "binary-image-selection",
                     "stars": 50
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1308,7 +1385,8 @@
                     "owner": "facebookresearch",
                     "repo": "corefnmn",
                     "stars": 57
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1323,7 +1401,8 @@
                     "owner": "devendrachaplot",
                     "repo": "DeepRL-Grounding",
                     "stars": 237
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1338,7 +1417,8 @@
                     "owner": "volkancirik",
                     "repo": "groundnet",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "Core Challenges in Embodied Vision-Language Planning, arXiv 2021\nMaRVL: Multicultural Reasoning over Vision and Language, EMNLP 2021 [code]\nGrounding 'Grounding' in NLP, ACL 2021\nThe Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes, NeurIPS 2020 [code]\nWhat Does BERT with Vision Look At?, ACL 2020\nGrounded Video Description, CVPR 2019\nShow, Control and Tell: A Framework for Generating Controllable and Grounded Captions, CVPR 2019\nFinding “It”: Weakly-Supervised Reference-Aware Visual Grounding in Instructional Videos, CVPR 2018\nSCAN: Learning Hierarchical Compositional Visual Concepts, ICLR 2018\nGrounding language acquisition by training semantic parsers using captioned videos, ACL 2018\nInterpretable and Globally Optimal Prediction for Textual Grounding using Image Concepts, NeurIPS 2017\nLocalizing Moments in Video with Natural Language, ICCV 2017\nWhat are you talking about? Text-to-Image Coreference, CVPR 2014\nGrounded Language Learning from Video Described with Sentences, ACL 2013\nGrounded Compositional Semantics for Finding and Describing Images with Sentences, TACL 2013",
@@ -1360,7 +1440,8 @@
                     "owner": "GT-RIPL",
                     "repo": "robo-vln",
                     "stars": 90
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1375,7 +1456,8 @@
                     "owner": "weituo12321",
                     "repo": "PREVALENT",
                     "stars": 95
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1390,7 +1472,8 @@
                     "owner": "catalina17",
                     "repo": "VideoNavQA",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1405,7 +1488,8 @@
                     "owner": "mmurray",
                     "repo": "cvdn",
                     "stars": 75
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1420,7 +1504,8 @@
                     "owner": "lil-lab",
                     "repo": "touchdown",
                     "stars": 114
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1435,7 +1520,8 @@
                     "owner": "chihyaoma",
                     "repo": "regretful-agent",
                     "stars": 125
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1450,7 +1536,8 @@
                     "owner": "Kelym",
                     "repo": "FAST",
                     "stars": 63
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1465,7 +1552,8 @@
                     "owner": "chihyaoma",
                     "repo": "selfmonitoring-agent",
                     "stars": 123
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1480,7 +1568,8 @@
                     "owner": "airsplay",
                     "repo": "R2R-EnvDrop",
                     "stars": 147
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1495,7 +1584,8 @@
                     "owner": "lil-lab",
                     "repo": "ciff",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning, ICLR 2021 [code]\nImproving Vision-and-Language Navigation with Image-Text Pairs from the Web, ECCV 2020\nHierarchical Decision Making by Generating and Following Natural Language Instructions, arXiv 2019 [code]\nStay on the Path: Instruction Fidelity in Vision-and-Language Navigation, ACL 2019\nAre You Looking? Grounding to Multiple Modalities in Vision-and-Language Navigation, ACL 2019\nReinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation, CVPR 2019\nMulti-modal Discriminative Model for Vision-and-Language Navigation, NAACL SpLU-RoboNLP Workshop 2019\nFrom Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following, ICLR 2019\nRead, Watch, and Move: Reinforcement Learning for Temporally Grounding Natural Language Descriptions in Videos, AAAI 2019\nAttention Based Natural Language Grounding by Navigating Virtual Environment, IEEE WACV 2019\nVision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments, CVPR 2018 [code]\nEmbodied Question Answering, CVPR 2018 [code]\nLook Before You Leap: Bridging Model-Free and Model-Based Reinforcement Learning for Planned-Ahead Vision-and-Language Navigation, ECCV 2018",
@@ -1517,7 +1607,8 @@
                     "owner": "cooelf",
                     "repo": "UVR-NMT",
                     "stars": 92
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1532,7 +1623,8 @@
                     "owner": "iacercalixto",
                     "repo": "MultimodalNMT",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1547,7 +1639,8 @@
                     "owner": "iacercalixto",
                     "repo": "MultimodalNMT",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1561,8 +1654,9 @@
                     "last_commit": "2026-07-07T11:53:41Z",
                     "owner": "multi30k",
                     "repo": "dataset",
-                    "stars": 192
-                  }
+                    "stars": 191
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "Unsupervised Multimodal Neural Machine Translation with Pseudo Visual Pivoting, ACL 2020\nMultimodal Transformer for Multimodal Machine Translation, ACL 2020\nVisual Agreement Regularized Training for Multi-Modal Machine Translation, AAAI 2020\nVATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research, ICCV 2019 [code]\nLatent Variable Model for Multi-modal Translation, ACL 2019\nDistilling Translations with Visual Awareness, ACL 2019\nProbing the Need for Visual Context in Multimodal Machine Translation, NAACL 2019\nEmergent Translation in Multi-Agent Communication, ICLR 2018\nZero-Resource Neural Machine Translation with Multi-Agent Communication Game, AAAI 2018\nLearning Translations via Images with a Massively Multilingual Image Dataset, ACL 2018\nA Visual Attention Grounding Neural Model for Multimodal Machine Translation, EMNLP 2018\nAdversarial Evaluation of Multimodal Machine Translation, EMNLP 2018\nAn empirical study on the effectiveness of images in Multimodal Neural Machine Translation, EMNLP 2017\nMultimodal Pivots for Image Caption Translation, ACL 2016\nDoes Multimodality Help Human and Machine for Translation and Image Captioning?, ACL WMT 2016",
@@ -1584,7 +1678,8 @@
                     "owner": "facebookresearch",
                     "repo": "measuring-emergent-comm",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1599,7 +1694,8 @@
                     "owner": "facebookresearch",
                     "repo": "translagent",
                     "stars": 82
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1614,7 +1710,8 @@
                     "owner": "nyu-dl",
                     "repo": "MultimodalGame",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1629,7 +1726,8 @@
                     "owner": "asappresearch",
                     "repo": "emergent-comms-negotiation",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1644,7 +1742,8 @@
                     "owner": "batra-mlp-lab",
                     "repo": "visdial-rl",
                     "stars": 169
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning, ACL 2020\nEmergence of Compositional Language with Deep Generational Transmission, ICML 2019\nEmergence of Linguistic Communication From Referential Games with Symbolic and Pixel Input, ICLR 2018\nEmergence of Grounded Compositional Language in Multi-Agent Populations, AAAI 2018\nEmergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols, NeurIPS 2017\nNatural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog, EMNLP 2017 [code1] [code2]\nMulti-agent Cooperation and the Emergence of (natural) Language, ICLR 2017\nLearning to Communicate with Deep Multi-agent Reinforcement Learning, NIPS 2016.\nLearning multiagent communication with backpropagation, NIPS 2016.\nThe Emergence of Compositional Structures in Perceptually Grounded Language Games, AI 2005",
@@ -1666,7 +1765,8 @@
                     "owner": "facebookresearch",
                     "repo": "minihack",
                     "stars": 520
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1681,7 +1781,8 @@
                     "owner": "facebookresearch",
                     "repo": "RTFM",
                     "stars": 40
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1696,7 +1797,8 @@
                     "owner": "facebookresearch",
                     "repo": "minirts",
                     "stars": 160
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "Imitating Interactive Intelligence, arXiv 2020\nGrounded Language Learning Fast and Slow, ICLR 2021\nEmbodied Multimodal Multitask Learning, IJCAI 2020\nLearning to Speak and Act in a Fantasy Text Adventure Game, arXiv 2019 [code]\nLanguage as an Abstraction for Hierarchical Deep Reinforcement Learning, NeurIPS 2019\nHabitat: A Platform for Embodied AI Research, ICCV 2019 [code]\nMultimodal Hierarchical Reinforcement Learning Policy for Task-Oriented Visual Dialog, SIGDIAL 2018\nMapping Instructions and Visual Observations to Actions with Reinforcement Learning, EMNLP 2017\nReinforcement Learning for Mapping Instructions to Actions, ACL 2009",
@@ -1718,7 +1820,8 @@
                     "owner": "satwikkottur",
                     "repo": "clevr-dialog",
                     "stars": 50
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1733,7 +1836,8 @@
                     "owner": "XiaoxiaoGuo",
                     "repo": "fashion-retrieval",
                     "stars": 70
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1748,7 +1852,8 @@
                     "owner": "batra-mlp-lab",
                     "repo": "visdial",
                     "stars": 228
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "Two Causal Principles for Improving Visual Dialog, CVPR 2020\nMELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations, ACL 2019 [code]\nTalk the Walk: Navigating New York City through Grounded Dialogue, arXiv 2018\nTowards Building Large Scale Multimodal Domain-Aware Conversation Systems, arXiv 2017 [code]",
@@ -1770,7 +1875,8 @@
                     "owner": "NVIDIA",
                     "repo": "tacotron2",
                     "stars": 5295
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "Lattice Transformer for Speech Translation, ACL 2019\nExploring Phoneme-Level Speech Representations for End-to-End Speech Translation, ACL 2019\nAudio Caption: Listen and Tell, ICASSP 2019\nAudio-Linguistic Embeddings for Spoken Sentences, ICASSP 2019\nFrom Semi-supervised to Almost-unsupervised Speech Recognition with Very-low Resource by Jointly Learning Phonetic Structures from Audio and Text Embeddings, arXiv 2019\nFrom Audio to Semantics: Approaches To End-to-end Spoken Language Understanding, arXiv 2018\nDeep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning, ICLR 2018\nDeep Voice 2: Multi-Speaker Neural Text-to-Speech, NeurIPS 2017\nDeep Voice: Real-time Neural Text-to-Speech, ICML 2017\nText-to-Speech Synthesis, 2009",
@@ -1792,7 +1898,8 @@
                     "owner": "TimoBolkart",
                     "repo": "voca",
                     "stars": 1263
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1807,7 +1914,8 @@
                     "owner": "LiqunChen0606",
                     "repo": "Jointly-Discovering-Visual-Objects-and-Spoken-Words",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1822,7 +1930,8 @@
                     "owner": "a-nagrani",
                     "repo": "SVHF-Net",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "Music Gesture for Visual Sound Separation, CVPR 2020\nCo-Compressing and Unifying Deep CNN Models for Efficient Human Face and Speaker Recognition, CVPRW 2019\nLearning Individual Styles of Conversational Gesture, CVPR 2019 [code]\nDisjoint Mapping Network for Cross-modal Matching of Voices and Faces, ICLR 2019\nWav2Pix: Speech-conditioned Face Generation using Generative Adversarial Networks, ICASSP 2019 [code]\nLearning Affective Correspondence between Music and Image, ICASSP 2019 [dataset]\nLearning to Separate Object Sounds by Watching Unlabeled Video, CVPR 2018\nDeep Audio-Visual Speech Recognition, IEEE TPAMI 2018\nLook, Listen and Learn, ICCV 2017\nUnsupervised Learning of Spoken Language with Visual Context, NeurIPS 2016\nSoundNet: Learning Sound Representations from Unlabeled Video, NeurIPS 2016 [code]",
@@ -1844,7 +1953,8 @@
                     "owner": "bryanbocao",
                     "repo": "vifit",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1859,7 +1969,8 @@
                     "owner": "bryanbocao",
                     "repo": "vitag",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1874,7 +1985,8 @@
                     "owner": "vifi2021",
                     "repo": "Vi-Fi",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": null,
@@ -1896,7 +2008,8 @@
                     "owner": "yaohungt",
                     "repo": "Gated-Spatio-Temporal-Energy-Graph",
                     "stars": 152
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1911,7 +2024,8 @@
                     "owner": "jiasenlu",
                     "repo": "NeuralBabyTalk",
                     "stars": 525
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1926,7 +2040,8 @@
                     "owner": "rowanz",
                     "repo": "neural-motifs",
                     "stars": 545
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1941,7 +2056,8 @@
                     "owner": "kimiyoung",
                     "repo": "review_net",
                     "stars": 181
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1952,11 +2068,12 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-27T18:32:19Z",
+                    "last_commit": "2026-08-28T18:30:48Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77654
-                  }
+                    "stars": 77659
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1971,7 +2088,8 @@
                     "owner": "kelvinxu",
                     "repo": "arctic-captions",
                     "stars": 965
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -1986,7 +2104,8 @@
                     "owner": "karpathy",
                     "repo": "neuraltalk2",
                     "stars": 5592
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -2001,7 +2120,8 @@
                     "owner": "karpathy",
                     "repo": "neuraltalk2",
                     "stars": 5592
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 },
                 {
                   "node_type": "item",
@@ -2016,7 +2136,8 @@
                     "owner": "malmaud",
                     "repo": "whats_cookin",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "Towards Unsupervised Image Captioning with Shared Multimodal Embeddings, ICCV 2019\nJoint Event Detection and Description in Continuous Video Streams, WACVW 2019\nLearning to Compose and Reason with Language Tree Structures for Visual Grounding, TPAMI 2019\nGrounding Referring Expressions in Images by Variational Context, CVPR 2018\nVideo Captioning via Hierarchical Reinforcement Learning, CVPR 2018\nCharades-Ego: A Large-Scale Dataset of Paired Third and First Person Videos, CVPR 2018 [code]\nNo Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling, ACL 2018\nGenerating Descriptions with Grounded and Co-Referenced People, CVPR 2017\nDenseCap: Fully Convolutional Localization Networks for Dense Captioning, CVPR 2016\nHollywood in Homes: Crowdsourcing Data Collection for Activity Understanding, ECCV 2016 [code]\nA Dataset for Movie Description, CVPR 2015 [code]\nMicrosoft COCO: Common Objects in Context, ECCV 2014 [code]",
@@ -2038,7 +2159,8 @@
                     "owner": "soujanyaporia",
                     "repo": "MUStARD",
                     "stars": 385
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "End-to-end Facial and Physiological Model for Affective Computing and Applications, arXiv 2019\nAffective Computing for Large-Scale Heterogeneous Multimedia Data: A Survey, ACM TOMM 2019\nMulti-modal Approach for Affective Computing, EMBC 2018\nMultimodal Language Analysis with Recurrent Multistage Fusion, EMNLP 2018\nEnd-to-End Multimodal Emotion Recognition using Deep Neural Networks, arXiv 2017\nAMHUSE - A Multimodal dataset for HUmor SEnsing, ICMI 2017 [code]\nDecoding Children’s Social Behavior, CVPR 2013 [code]\nCollecting Large, Richly Annotated Facial-Expression Databases from Movies, IEEE Multimedia 2012 [code]\nThe Interactive Emotional Dyadic Motion Capture (IEMOCAP) Database, 2008 [code]",
@@ -2060,7 +2182,8 @@
                     "owner": "pvk95",
                     "repo": "PAG",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:49.103Z"
                 }
               ],
               "description": "Multimodal Co-Attention Transformer for Survival Prediction in Gigapixel Whole Slide Images, ICCV, 2021\nPathomic Fusion: An Integrated Framework for Fusing Histopathology and Genomic Features for Cancer Diagnosis and Prognosis, IEEE TMI, 2020\nLeveraging Medical Visual Question Answering with Supporting Facts, arXiv 2019\nUnsupervised Multimodal Representation Learning across Medical Images and Reports, ML4H 2018\nMultimodal Medical Image Retrieval based on Latent Topic Modeling, ML4H 2018\nImproving Hospital Mortality Prediction with Medical Named Entities and Multimodal Learning, ML4H 2018\nKnowledge-driven Generative Subspaces for Modeling Multi-view Dependencies in Medical Data, ML4H 2018\nMultimodal Depression Detection: Fusion Analysis of Paralinguistic, Head Pose and Eye Gaze Behaviors, TAC 2018\nLearning the Joint Representation of Heterogeneous Temporal Events for Clinical Endpoint Prediction, AAAI 2018\nUnderstanding Coagulopathy using Multi-view Data in the Presence of Sub-Cohorts: A Hierarchical Subspace Approach, MLHC 2017\nMachine Learning in Multimodal Medical Imaging, 2017\nCross-modal Recurrent Models for Weight Objective Prediction from Multimodal Time-series Data, ML4H 2017\nSimSensei Kiosk: A Virtual Human Interviewer for Healthcare Decision Support, AAMAS 2014\nDyadic Behavior Analysis in Depression Severity Assessment Interviews, ICMI 2014\nAudiovisual Behavior Descriptors for Depression Assessment, ICMI 2013",
@@ -2077,7 +2200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:02:55.744Z",
+    "last_updated": "2026-08-28T20:10:49.103Z",
     "original_repository_info": {
       "archived": false,
       "id": 188919037,
@@ -2085,7 +2208,7 @@
       "last_commit": "2024-08-20T19:46:33Z",
       "owner": "pliang279",
       "repo": "awesome-multimodal-ml",
-      "stars": 6926
+      "stars": 6924
     },
     "original_repository_sha": "f1d3bae4aec6a9da8c52da47ac9c115be6e14f6c",
     "enhanced_repository": "enhansome/enhansome-multimodal-ml",
