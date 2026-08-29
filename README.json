@@ -14,12 +14,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2023] Official code for the paper \"Identifiability Results for Multimodal Contrastive Learning\"",
+                    "homepage": null,
                     "id": 607044218,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-03-17T06:08:33Z",
+                    "open_issues": 0,
                     "owner": "imantdaunhawer",
                     "repo": "multimodal-contrastive-learning",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": [
+                      "contrastive-learning",
+                      "machine-learning",
+                      "multi-view-learning",
+                      "multimodal-learning",
+                      "representation-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -30,12 +41,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[IJCAI2022] Unsupervised Voice-Face Representation Learning by Cross-Modal Prototype Contrast",
+                    "homepage": null,
                     "id": 486233090,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-10-25T03:21:28Z",
+                    "open_issues": 1,
                     "owner": "Cocoxili",
                     "repo": "CMPC",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": [
+                      "biometric-matching",
+                      "crossmodal-retrieval",
+                      "deep-learning",
+                      "multimodal-learning",
+                      "representation-learning",
+                      "voice-face-association",
+                      "voxceleb"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -46,12 +70,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2021] Multiscale Benchmarks for Multimodal Representation Learning",
+                    "homepage": null,
                     "id": 344649485,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2024-01-27T08:16:57Z",
+                    "open_issues": 18,
                     "owner": "pliang279",
                     "repo": "MultiBench",
-                    "stars": 636
+                    "stars": 636,
+                    "topics": [
+                      "computer-vision",
+                      "deep-learning",
+                      "healthcare",
+                      "machine-learning",
+                      "multimodal-learning",
+                      "natural-language-processing",
+                      "representation-learning",
+                      "robotics",
+                      "speech-processing"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -62,12 +101,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+                    "homepage": null,
                     "id": 165826654,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-17T13:51:27Z",
+                    "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15170
+                    "stars": 15173,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -78,12 +122,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
+                    "homepage": null,
                     "id": 321960447,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2026-03-25T18:46:40Z",
+                    "open_issues": 272,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34240
+                    "stars": 34241,
+                    "topics": [
+                      "deep-learning",
+                      "machine-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -94,12 +146,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "project page for VinVL",
+                    "homepage": null,
                     "id": 343056031,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-07-26T04:00:01Z",
+                    "open_issues": 34,
                     "owner": "pzzhang",
                     "repo": "VinVL",
-                    "stars": 360
+                    "stars": 360,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -110,12 +167,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
+                    "homepage": null,
                     "id": 321960447,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2026-03-25T18:46:40Z",
+                    "open_issues": 272,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34240
+                    "stars": 34241,
+                    "topics": [
+                      "deep-learning",
+                      "machine-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -126,12 +191,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Multi Task Vision and Language",
+                    "homepage": null,
                     "id": 224054803,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2022-02-16T04:47:38Z",
+                    "open_issues": 68,
                     "owner": "facebookresearch",
                     "repo": "vilbert-multi-task",
-                    "stars": 823
+                    "stars": 823,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -142,12 +212,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Pytorch implementation of \"OmniNet: A unified architecture for multi-modal multi-task learning\" | Authors: Subhojeet Pramanik, Priyanka Agrawal, Aman Hussain ",
+                    "homepage": "https://arxiv.org/abs/1907.07804",
                     "id": 197456962,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-10-31T20:31:03Z",
+                    "open_issues": 5,
                     "owner": "subho406",
                     "repo": "OmniNet",
-                    "stars": 514
+                    "stars": 514,
+                    "topics": [
+                      "artificial-intelligence",
+                      "deep-learning",
+                      "image-captioning",
+                      "machine-learning",
+                      "multimodal-learning",
+                      "multitask-learning",
+                      "neural-network",
+                      "nlp",
+                      "transformer",
+                      "video-recognition"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -158,12 +244,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Public repo for Augmented Multiscale Deep InfoMax representation learning",
+                    "homepage": null,
                     "id": 192003497,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-07-02T15:13:09Z",
+                    "open_issues": 9,
                     "owner": "Philip-Bachman",
                     "repo": "amdim-public",
-                    "stars": 402
+                    "stars": 402,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -174,12 +265,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multi-sense word embeddings from visual co-occurrences",
+                    "homepage": "http://tanmaygupta.info/vico/",
                     "id": 206474962,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-09-05T05:23:22Z",
+                    "open_issues": 0,
                     "owner": "BigRedT",
                     "repo": "vico",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -190,12 +286,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2019] Learning Factorized Multimodal Representations",
+                    "homepage": null,
                     "id": 185679962,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-08-04T04:50:44Z",
+                    "open_issues": 4,
                     "owner": "pliang279",
                     "repo": "factorized",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": [
+                      "machine-learning",
+                      "multimodal-learning",
+                      "representation-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -213,12 +318,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The project page of paper: Trusted Multi-View Classification [ICLR'2021 paper]",
+                    "homepage": null,
                     "id": 364467705,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-02-09T15:14:25Z",
+                    "open_issues": 0,
                     "owner": "Han-Zongbo",
                     "repo": "TMC",
-                    "stars": 287
+                    "stars": 287,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -229,12 +339,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 305648111,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-01-05T08:25:29Z",
+                    "open_issues": 1,
                     "owner": "itaigat",
                     "repo": "removing-bias-in-multi-modal-classifiers",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -245,12 +360,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[TPAMI 2023, NeurIPS 2020] Code release for \"Deep Multimodal Fusion by Channel Exchanging\"",
+                    "homepage": null,
                     "id": 299520287,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-07-14T09:26:35Z",
+                    "open_issues": 1,
                     "owner": "yikaiw",
                     "repo": "CEN",
-                    "stars": 313
+                    "stars": 313,
+                    "topics": [
+                      "depth-estimation",
+                      "image-translation",
+                      "network-pruning",
+                      "nyudv2",
+                      "refinenet",
+                      "rgbd",
+                      "rgbd-segmentation",
+                      "semantic-segmentation",
+                      "taskonomy"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -261,12 +391,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DeepCU: Integrating Both Common and Unique Latent Information for Multimodal Sentiment Analysis, IJCAI-19",
+                    "homepage": null,
                     "id": 186093651,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-11-21T10:24:24Z",
+                    "open_issues": 0,
                     "owner": "sverma88",
                     "repo": "DeepCU-IJCAI19",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": [
+                      "common-and-unique-information",
+                      "data-fusion",
+                      "factorization-machines",
+                      "multimodal-deep-learning",
+                      "multimodal-sentiment-analysis",
+                      "sentiment-analysis",
+                      "tensor-convolution-networks",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -277,12 +421,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Generalized cross-modal NNs; new audiovisual benchmark (IEEE TNNLS 2019)",
+                    "homepage": null,
                     "id": 213205245,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-04-13T12:48:52Z",
+                    "open_issues": 2,
                     "owner": "catalina17",
                     "repo": "XFlow",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": [
+                      "audiovisual",
+                      "audiovisual-classification",
+                      "classification",
+                      "cross-modal",
+                      "deep-neural-networks",
+                      "keras",
+                      "multimedia",
+                      "multimodal"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -293,12 +451,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Yi-Min Chou, Yi-Ming Chan, Jia-Hong Lee, Chih-Yi Chiu, Chu-Song Chen, \"Unifying and Merging Well-trained Deep Neural Networks for Inference Stage,\" International Joint Conference on Artificial Intelligence (IJCAI), 2018",
+                    "homepage": null,
                     "id": 131578945,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-01-30T10:00:55Z",
+                    "open_issues": 1,
                     "owner": "ivclab",
                     "repo": "NeuralMerger",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": [
+                      "cnn-compression",
+                      "deep-neural-networks",
+                      "efficient-inference",
+                      "multi-modal-learning",
+                      "multi-task-learning",
+                      "tensorflow",
+                      "unifying-and-merging-cnn"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -309,12 +480,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is the repository for \"Efficient Low-rank Multimodal Fusion with Modality-Specific Factors\", Liu and Shen, et. al. ACL 2018",
+                    "homepage": null,
                     "id": 133119292,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-05-31T01:08:08Z",
+                    "open_issues": 11,
                     "owner": "Justin1904",
                     "repo": "Low-rank-Multimodal-Fusion",
-                    "stars": 274
+                    "stars": 274,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -325,12 +501,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[AAAI 2018] Memory Fusion Network for Multi-view Sequential Learning",
+                    "homepage": null,
                     "id": 162663064,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-08-04T04:50:51Z",
+                    "open_issues": 9,
                     "owner": "pliang279",
                     "repo": "MFN",
-                    "stars": 116
+                    "stars": 116,
+                    "topics": [
+                      "machine-learning",
+                      "multimodal-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -348,12 +532,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 346305224,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-08-18T11:20:51Z",
+                    "open_issues": 0,
                     "owner": "DanielTrosten",
                     "repo": "mvc",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -364,12 +553,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Framework for joint representation learning, evaluation through multimodal registration and comparison with image translation based approaches",
+                    "homepage": null,
                     "id": 250116948,
                     "language": "Jupyter Notebook",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-11-18T22:55:10Z",
+                    "open_issues": 5,
                     "owner": "MIDA-group",
                     "repo": "CoMIR",
-                    "stars": 87
+                    "stars": 87,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -380,12 +574,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ACL'19] [PyTorch] Multimodal Transformer",
+                    "homepage": null,
                     "id": 189776462,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-09-12T05:10:04Z",
+                    "open_issues": 15,
                     "owner": "yaohungt",
                     "repo": "Multimodal-Transformer",
-                    "stars": 996
+                    "stars": 996,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -396,12 +595,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Google Research",
+                    "homepage": "https://research.google",
                     "id": 151619717,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T09:11:14Z",
+                    "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38641
+                    "stars": 38643,
+                    "topics": [
+                      "ai",
+                      "machine-learning",
+                      "research"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -412,12 +620,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An implementation of Deep Canonical Correlation Analysis (DCCA or Deep CCA) with Keras.",
+                    "homepage": null,
                     "id": 77340918,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2017-09-07T21:44:36Z",
+                    "open_issues": 16,
                     "owner": "VahidooX",
                     "repo": "DeepCCA",
-                    "stars": 250
+                    "stars": 250,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -435,12 +648,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Code for ALBEF: a new vision-language pre-training method",
+                    "homepage": null,
                     "id": 385418235,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2022-09-20T04:57:34Z",
+                    "open_issues": 66,
                     "owner": "salesforce",
                     "repo": "ALBEF",
-                    "stars": 1755
+                    "stars": 1755,
+                    "topics": [
+                      "contrastive-learning",
+                      "image-text",
+                      "representation-learning",
+                      "vision-and-language",
+                      "weakly-supervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -451,12 +675,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2021 Best Student Paper Honorable Mention, Oral] Official PyTorch code for ClipBERT, an efficient framework for end-to-end learning on image-text and video-text tasks. ",
+                    "homepage": "https://arxiv.org/abs/2102.06183",
                     "id": 337849864,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-08-08T22:18:55Z",
+                    "open_issues": 14,
                     "owner": "jayleicn",
                     "repo": "ClipBERT",
-                    "stars": 729
+                    "stars": 729,
+                    "topics": [
+                      "cvpr2021",
+                      "pytorch",
+                      "video-question-answering",
+                      "video-retrieval",
+                      "vision-and-language",
+                      "vqa"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -467,12 +703,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Research Code for NeurIPS 2020 Spotlight paper \"Large-Scale Adversarial Training for Vision-and-Language Representation Learning\": UNITER adversarial training part",
+                    "homepage": "https://arxiv.org/pdf/2006.06195.pdf",
                     "id": 305626176,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-01-13T06:08:41Z",
+                    "open_issues": 7,
                     "owner": "zhegan27",
                     "repo": "VILLA",
-                    "stars": 119
+                    "stars": 119,
+                    "topics": [
+                      "adversarial-training",
+                      "neurips-2020",
+                      "pretraining",
+                      "vision-and-language",
+                      "visual-question-answering"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -483,12 +730,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch code for EMNLP 2020 Paper \"Vokenization: Improving Language Understanding with Visual Supervision\"",
+                    "homepage": null,
                     "id": 303532316,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-03-08T15:59:08Z",
+                    "open_issues": 7,
                     "owner": "airsplay",
                     "repo": "vokenization",
-                    "stars": 190
+                    "stars": 190,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -499,12 +751,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for ICLR 2020 paper \"VL-BERT: Pre-training of Generic Visual-Linguistic Representations\".",
+                    "homepage": null,
                     "id": 223335609,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2023-05-22T22:33:35Z",
+                    "open_issues": 21,
                     "owner": "jackroos",
                     "repo": "VL-BERT",
-                    "stars": 740
+                    "stars": 740,
+                    "topics": [
+                      "bert",
+                      "iclr2020",
+                      "pre-training",
+                      "pytorch",
+                      "representation-learning",
+                      "self-supervised-learning",
+                      "vision-and-language",
+                      "vl-bert"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -515,12 +781,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the paper \"VisualBERT: A Simple and Performant Baseline for Vision and Language\"",
+                    "homepage": null,
                     "id": 202702084,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-05-01T20:51:04Z",
+                    "open_issues": 14,
                     "owner": "uclanlp",
                     "repo": "visualbert",
-                    "stars": 542
+                    "stars": 542,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -531,12 +802,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 202817865,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2022-11-21T21:32:12Z",
+                    "open_issues": 44,
                     "owner": "jiasenlu",
                     "repo": "vilbert_beta",
-                    "stars": 478
+                    "stars": 478,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -547,12 +823,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch code for EMNLP 2019 paper \"LXMERT: Learning Cross-Modality Encoder Representations from Transformers\".",
+                    "homepage": null,
                     "id": 203417155,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-10-22T00:05:56Z",
+                    "open_issues": 54,
                     "owner": "airsplay",
                     "repo": "lxmert",
-                    "stars": 965
+                    "stars": 965,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -570,12 +851,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "PyTorch package for the discrete VAE used for DALL·E.",
+                    "homepage": null,
                     "id": 341714203,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-01-31T15:42:28Z",
+                    "open_issues": 75,
                     "owner": "openai",
                     "repo": "DALL-E",
-                    "stars": 10834
+                    "stars": 10834,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -586,12 +872,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CVPR 2019 Translate-to-Recognize Networks for RGB-D Scene Recognition",
+                    "homepage": null,
                     "id": 183853689,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-11-05T15:27:13Z",
+                    "open_issues": 1,
                     "owner": "ownstyledu",
                     "repo": "Translate-to-Recognize-Networks",
-                    "stars": 91
+                    "stars": 91,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -602,12 +893,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2019] Face Reconstruction from Voice using Generative Adversarial Networks",
+                    "homepage": "https://arxiv.org/abs/1905.10604",
                     "id": 190936593,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2020-01-05T14:55:04Z",
+                    "open_issues": 5,
                     "owner": "cmu-mlsp",
                     "repo": "reconstructing_faces_from_voices",
-                    "stars": 193
+                    "stars": 193,
+                    "topics": [
+                      "gan",
+                      "neurips-2019",
+                      "speech",
+                      "voice2face"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -618,12 +919,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 157023925,
                     "language": "Python",
+                    "license": "GPL-2.0",
                     "last_commit": "2019-02-04T21:38:12Z",
+                    "open_issues": 3,
                     "owner": "hainow",
                     "repo": "MCTN",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -634,12 +940,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tacotron 2 - PyTorch implementation with faster-than-realtime inference",
+                    "homepage": null,
                     "id": 132042932,
                     "language": "Jupyter Notebook",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2024-06-12T18:49:15Z",
+                    "open_issues": 219,
                     "owner": "NVIDIA",
                     "repo": "tacotron2",
-                    "stars": 5295
+                    "stars": 5295,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -657,12 +968,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 417845263,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-11-06T08:10:09Z",
+                    "open_issues": 1,
                     "owner": "XLearning-SCU",
                     "repo": "2021-NeurIPS-NCR",
-                    "stars": 81
+                    "stars": 81,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -680,12 +996,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Variational Information Bottleneck Approach to Multi-Omics Data Integration",
+                    "homepage": null,
                     "id": 336912364,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2021-05-11T00:40:36Z",
+                    "open_issues": 5,
                     "owner": "chl8856",
                     "repo": "DeepIMV",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -703,12 +1024,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 130199921,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2018-05-28T14:09:05Z",
+                    "open_issues": 6,
                     "owner": "UKPLab",
                     "repo": "starsem18-multimodalKB",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -719,12 +1045,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of caption-image retrieval from the paper \"Order-Embeddings of Images and Language\"",
+                    "homepage": null,
                     "id": 44820527,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2016-10-13T20:01:19Z",
+                    "open_issues": 2,
                     "owner": "ivendrov",
                     "repo": "order-embedding",
-                    "stars": 189
+                    "stars": 189,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -742,12 +1073,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code release for Park et al. Multimodal Multimodal Explanations: Justifying Decisions and Pointing to the Evidence. in CVPR, 2018",
+                    "homepage": null,
                     "id": 122676477,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2018-07-27T15:53:06Z",
+                    "open_issues": 6,
                     "owner": "Seth-Park",
                     "repo": "MultimodalExplanations",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -765,12 +1101,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 601248390,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-07-18T11:47:20Z",
+                    "open_issues": 1,
                     "owner": "epalu",
                     "repo": "mmvaeplus",
-                    "stars": 23
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -781,12 +1122,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code release for ICLR 2021 paper \"Generalised Multimodal ELBO\"",
+                    "homepage": null,
                     "id": 364632789,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-11-12T15:25:28Z",
+                    "open_issues": 1,
                     "owner": "thomassutter",
                     "repo": "MoPoE",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -797,12 +1143,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multimodal Generative Learning Utilizing Jensen-Shannon-Divergence",
+                    "homepage": null,
                     "id": 305724799,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-11-12T15:24:47Z",
+                    "open_issues": 2,
                     "owner": "thomassutter",
                     "repo": "mmjsd",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -813,12 +1164,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of the disentangling multimodal variational autoencoder (DMVAE)",
+                    "homepage": null,
                     "id": 618451572,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-03-25T12:08:01Z",
+                    "open_issues": 0,
                     "owner": "imantdaunhawer",
                     "repo": "DMVAE",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -829,12 +1185,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multimodal Mixture-of-Experts VAE",
+                    "homepage": null,
                     "id": 217892188,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-07-06T21:52:30Z",
+                    "open_issues": 4,
                     "owner": "iffsid",
                     "repo": "mmvae",
-                    "stars": 224
+                    "stars": 224,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -852,12 +1213,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Domain-Agnostic Benchmark for Self-Supervised Learning",
+                    "homepage": null,
                     "id": 431272589,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-05-10T17:44:44Z",
+                    "open_issues": 0,
                     "owner": "alextamkin",
                     "repo": "dabs",
-                    "stars": 105
+                    "stars": 105,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -868,12 +1234,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Self-Supervised Learning by Cross-Modal Audio-Video Clustering (NeurIPS 2020)",
+                    "homepage": "http://humamalwassel.com/publication/xdc/",
                     "id": 318009324,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-10-24T17:18:51Z",
+                    "open_issues": 0,
                     "owner": "HumamAlwassel",
                     "repo": "XDC",
-                    "stars": 91
+                    "stars": 91,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -891,12 +1262,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of the image-sentence embedding method described in \"Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models\"",
+                    "homepage": null,
                     "id": 42837349,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2017-02-09T23:37:39Z",
+                    "open_issues": 10,
                     "owner": "ryankiros",
                     "repo": "visual-semantic-embedding",
-                    "stars": 429
+                    "stars": 429,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -914,12 +1290,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Show-and-Fool: Adversarial Examples for Image Captioning task",
+                    "homepage": "https://arxiv.org/abs/1712.02051",
                     "id": 104943128,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-07-06T06:16:52Z",
+                    "open_issues": 1,
                     "owner": "huanzhang12",
                     "repo": "ImageCaptioningAttack",
-                    "stars": 56
+                    "stars": 56,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -937,12 +1318,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ACL 2020] Towards Debiasing Sentence Representations",
+                    "homepage": null,
                     "id": 236606964,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-11-21T05:02:08Z",
+                    "open_issues": 3,
                     "owner": "pliang279",
                     "repo": "sent_debias",
-                    "stars": 64
+                    "stars": 64,
+                    "topics": [
+                      "fairness-ai",
+                      "machine-learning",
+                      "natural-language-processing",
+                      "representation-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -953,12 +1344,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "FairCVtest: Testbed for Fair Automatic Recruitment and Multimodal Bias Analysis",
+                    "homepage": null,
                     "id": 252762479,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-07-24T09:49:48Z",
+                    "open_issues": 0,
                     "owner": "BiDAlab",
                     "repo": "FairCVtest",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -969,12 +1365,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NAACL 2019 (Oral): Code for \"Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings\"",
+                    "homepage": null,
                     "id": 186188633,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-07-04T15:25:22Z",
+                    "open_issues": 3,
                     "owner": "TManzini",
                     "repo": "DebiasMulticlassWordEmbedding",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -992,12 +1393,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code to support training, evaluating and interacting neural network dialog models, and training them with reinforcement learning. Code to deploy a web server which hosts the models live online is available at: https://github.com/asmadotgh/neural_chat_web",
+                    "homepage": null,
                     "id": 191399289,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-11-21T21:38:08Z",
+                    "open_issues": 10,
                     "owner": "natashamjaques",
                     "repo": "neural_chat",
-                    "stars": 181
+                    "stars": 181,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -1022,12 +1428,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Google Research",
+                    "homepage": "https://research.google",
                     "id": 151619717,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T09:11:14Z",
+                    "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38641
+                    "stars": 38643,
+                    "topics": [
+                      "ai",
+                      "machine-learning",
+                      "research"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1038,12 +1453,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 363865241,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-09-20T19:09:03Z",
+                    "open_issues": 2,
                     "owner": "sangho-vision",
                     "repo": "avbert",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -1068,12 +1488,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 524551515,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-12-08T18:50:16Z",
+                    "open_issues": 3,
                     "owner": "HenryJunW",
                     "repo": "TAG",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1084,12 +1509,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2021] SUTD-TrafficQA: A Question Answering Benchmark and an Efficient Network for Video Reasoning over Traffic Events",
+                    "homepage": "https://sutdcv.github.io/SUTD-TrafficQA/",
                     "id": 352053951,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2026-02-09T05:55:16Z",
+                    "open_issues": 2,
                     "owner": "sutdcv",
                     "repo": "SUTD-TrafficQA",
-                    "stars": 66
+                    "stars": 66,
+                    "topics": [
+                      "annotations",
+                      "cvpr",
+                      "cvpr2021",
+                      "dataset",
+                      "multimodal",
+                      "multimodal-deep-learning",
+                      "paper",
+                      "traffic-events",
+                      "video-qa",
+                      "video-reasoning",
+                      "vqa",
+                      "vqa-dataset"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1100,12 +1543,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code and Data for ManyModalQA: Modality Disambiguation and QA over Diverse Inputs",
+                    "homepage": null,
                     "id": 235456903,
                     "language": null,
+                    "license": null,
                     "last_commit": "2020-03-02T19:13:51Z",
+                    "open_issues": 1,
                     "owner": "hannandarryl",
                     "repo": "ManyModalQA",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1116,12 +1564,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Question Answering with Interactive Text (QAit), code for EMNLP 2019 paper \"Interactive Language Learning by Question Answering\"",
+                    "homepage": null,
                     "id": 203653776,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-09-03T03:43:46Z",
+                    "open_issues": 1,
                     "owner": "xingdi-eric-yuan",
                     "repo": "qait_public",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1132,12 +1585,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NeurIPS 2019 Paper: RUBi : Reducing Unimodal Biases for Visual Question Answering",
+                    "homepage": null,
                     "id": 188815682,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2021-03-29T17:15:05Z",
+                    "open_issues": 3,
                     "owner": "cdancette",
                     "repo": "rubi.bootstrap.pytorch",
-                    "stars": 67
+                    "stars": 67,
+                    "topics": [
+                      "bias",
+                      "bias-reduction",
+                      "deep-learning",
+                      "pytorch",
+                      "vqa"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1148,12 +1612,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MUREL (CVPR 2019), a multimodal relational reasoning module for VQA",
+                    "homepage": "https://arxiv.org/abs/1902.09487",
                     "id": 172678664,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2020-02-09T23:10:56Z",
+                    "open_issues": 18,
                     "owner": "Cadene",
                     "repo": "murel.bootstrap.pytorch",
-                    "stars": 194
+                    "stars": 194,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1164,12 +1633,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for ICML 2019 paper \"Probabilistic Neural-symbolic Models for Interpretable Visual Question Answering\" [long-oral]",
+                    "homepage": "https://kdexd.github.io/probnmn-clevr",
                     "id": 186629574,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-08-03T16:40:44Z",
+                    "open_issues": 4,
                     "owner": "kdexd",
                     "repo": "probnmn-clevr",
-                    "stars": 68
+                    "stars": 68,
+                    "topics": [
+                      "clevr",
+                      "icml",
+                      "icml-2019",
+                      "neural-module-networks",
+                      "probabilistic-models",
+                      "vqa"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1180,12 +1661,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2018] Learning to Count Objects in Natural Images for Visual Question Answering",
+                    "homepage": "https://openreview.net/forum?id=B12Js_yRb",
                     "id": 119835948,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-03-05T13:23:18Z",
+                    "open_issues": 3,
                     "owner": "Cyanogenoid",
                     "repo": "vqa-counting",
-                    "stars": 208
+                    "stars": 208,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1196,12 +1682,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Neural-symbolic visual question answering",
+                    "homepage": null,
                     "id": 165541914,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-03-27T09:08:52Z",
+                    "open_issues": 13,
                     "owner": "kexinyi",
                     "repo": "ns-vqa",
-                    "stars": 282
+                    "stars": 282,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1212,12 +1703,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[EMNLP 2018] PyTorch code for TVQA: Localized, Compositional Video Question Answering",
+                    "homepage": "http://tvqa.cs.unc.edu/",
                     "id": 145652886,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-10-25T04:31:01Z",
+                    "open_issues": 4,
                     "owner": "jayleicn",
                     "repo": "TVQA",
-                    "stars": 182
+                    "stars": 182,
+                    "topics": [
+                      "dataset",
+                      "pytorch",
+                      "tvqa",
+                      "videoqa"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1228,12 +1729,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)",
+                    "homepage": "https://mmf.sh/",
                     "id": 138831170,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-07T21:35:07Z",
+                    "open_issues": 150,
                     "owner": "facebookresearch",
                     "repo": "mmf",
-                    "stars": 5633
+                    "stars": 5633,
+                    "topics": [
+                      "captioning",
+                      "deep-learning",
+                      "dialog",
+                      "hateful-memes",
+                      "multi-tasking",
+                      "multimodal",
+                      "pretrained-models",
+                      "pytorch",
+                      "textvqa",
+                      "vqa"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1244,12 +1761,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the Grounded Visual Question Answering (GVQA) model from the paper -- Don't Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering",
+                    "homepage": "https://www.cc.gatech.edu/~aagrawal307/vqa-cp/",
                     "id": 137955715,
                     "language": "Lua",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2022-03-10T21:57:44Z",
+                    "open_issues": 2,
                     "owner": "AishwaryaAgrawal",
                     "repo": "GVQA",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1260,12 +1782,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code release for Hu et al. Learning to Reason: End-to-End Module Networks for Visual Question Answering. in ICCV, 2017",
+                    "homepage": "http://ronghanghu.com/n2nmn/",
                     "id": 94647430,
                     "language": "SourcePawn",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2020-07-30T23:00:54Z",
+                    "open_issues": 7,
                     "owner": "ronghanghu",
                     "repo": "n2nmn",
-                    "stars": 272
+                    "stars": 272,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1276,12 +1803,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Inferring and Executing Programs for Visual Reasoning",
+                    "homepage": null,
                     "id": 90197765,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-08-30T20:51:30Z",
+                    "open_issues": 18,
                     "owner": "facebookresearch",
                     "repo": "clevr-iep",
-                    "stars": 803
+                    "stars": 803,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1292,12 +1824,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 62715394,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2016-08-13T01:08:08Z",
+                    "open_issues": 10,
                     "owner": "akirafukui",
                     "repo": "vqa-mcb",
-                    "stars": 219
+                    "stars": 219,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -1315,12 +1852,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Project page for \"Visual Grounding in Video for Unsupervised Word Translation\" CVPR 2020",
+                    "homepage": null,
                     "id": 249786374,
                     "language": null,
+                    "license": "GPL-3.0",
                     "last_commit": "2020-04-26T21:15:30Z",
+                    "open_issues": 1,
                     "owner": "gsig",
                     "repo": "visual-grounding",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1331,12 +1873,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Data and code for CVPR 2020 paper: \"VIOLIN: A Large-Scale Dataset for Video-and-Language Inference\"",
+                    "homepage": null,
                     "id": 249661996,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-04-29T06:47:17Z",
+                    "open_issues": 7,
                     "owner": "jimmy646",
                     "repo": "violin",
-                    "stars": 161
+                    "stars": 161,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1347,12 +1894,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation for \"Multilevel Language and Vision Integration for Text-to-Clip Retrieval\"",
+                    "homepage": null,
                     "id": 159282195,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2019-01-21T21:35:00Z",
+                    "open_issues": 4,
                     "owner": "VisionLearningGroup",
                     "repo": "Text-to-Clip_Retrieval",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1363,12 +1915,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "BISON: Binary Image SelectiON",
+                    "homepage": "http://hexianghu.com/bison/",
                     "id": 166320927,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-09-15T21:12:49Z",
+                    "open_issues": 0,
                     "owner": "facebookresearch",
                     "repo": "binary-image-selection",
-                    "stars": 50
+                    "stars": 50,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1379,12 +1936,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Visual Coreference Resolution in Visual Dialog using Neural Module Networks",
+                    "homepage": null,
                     "id": 148542951,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-10-12T21:32:39Z",
+                    "open_issues": 1,
                     "owner": "facebookresearch",
                     "repo": "corefnmn",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1395,12 +1957,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Train an RL agent to execute natural language instructions in a 3D Environment (PyTorch)",
+                    "homepage": "https://sites.google.com/view/gated-attention/home",
                     "id": 111601403,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2018-04-16T12:21:20Z",
+                    "open_issues": 2,
                     "owner": "devendrachaplot",
                     "repo": "DeepRL-Grounding",
-                    "stars": 237
+                    "stars": 237,
+                    "topics": [
+                      "a3c-lstm",
+                      "gated-attention",
+                      "language-grounding",
+                      "pytorch",
+                      "pytorch-rl",
+                      "reinforcement-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1411,12 +1985,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository for AAAI 2018 paper \"Using Syntax for Referring Expression Recognition\"",
+                    "homepage": null,
                     "id": 120140076,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2020-10-07T22:03:34Z",
+                    "open_issues": 4,
                     "owner": "volkancirik",
                     "repo": "groundnet",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -1434,12 +2013,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pytorch code for ICRA'21 paper: \"Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation\"",
+                    "homepage": "https://zubair-irshad.github.io/projects/robo-vln.html",
                     "id": 360163581,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-06-27T18:20:32Z",
+                    "open_issues": 1,
                     "owner": "GT-RIPL",
                     "repo": "robo-vln",
-                    "stars": 90
+                    "stars": 90,
+                    "topics": [
+                      "artificial-intelligence",
+                      "bert",
+                      "computer-vision",
+                      "deep-learning",
+                      "deep-neural-networks",
+                      "habitat-api",
+                      "habitat-sim",
+                      "language",
+                      "navigation",
+                      "python",
+                      "pytorch",
+                      "robotics",
+                      "supervised-learning",
+                      "transformers",
+                      "vision-and-language",
+                      "vision-and-language-navigation"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1450,12 +2051,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "large scale pretrain for navigation task",
+                    "homepage": null,
                     "id": 241232784,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2023-03-02T21:14:33Z",
+                    "open_issues": 11,
                     "owner": "weituo12321",
                     "repo": "PREVALENT",
-                    "stars": 95
+                    "stars": 95,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1466,12 +2072,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An alternative EQA paradigm and informative benchmark + models (BMVC 2019, ViGIL 2019 spotlight)",
+                    "homepage": "https://arxiv.org/abs/1908.04950",
                     "id": 198125003,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-06-22T00:01:41Z",
+                    "open_issues": 5,
                     "owner": "catalina17",
                     "repo": "VideoNavQA",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": [
+                      "benchmark",
+                      "conditioning",
+                      "cross-modality",
+                      "deep-neural-networks",
+                      "embodied",
+                      "machine-learning",
+                      "multimodal",
+                      "navigation",
+                      "question-answering",
+                      "video",
+                      "videonavqa",
+                      "visual-reasoning",
+                      "vqa"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1482,12 +2107,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cooperative Vision-and-Dialog Navigation",
+                    "homepage": null,
                     "id": 196131440,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-11-22T02:09:59Z",
+                    "open_issues": 7,
                     "owner": "mmurray",
                     "repo": "cvdn",
-                    "stars": 75
+                    "stars": 75,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1498,12 +2128,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cornell Touchdown natural language navigation and spatial reasoning dataset.",
+                    "homepage": null,
                     "id": 158486898,
                     "language": "Python",
+                    "license": "CC-BY-4.0",
                     "last_commit": "2020-09-05T21:32:02Z",
+                    "open_issues": 1,
                     "owner": "lil-lab",
                     "repo": "touchdown",
-                    "stars": 114
+                    "stars": 114,
+                    "topics": [
+                      "computer-vision",
+                      "machine-learning",
+                      "natural-language-processing",
+                      "visual-language-grounding"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1514,12 +2154,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch code for CVPR 2019 paper: The Regretful Agent: Heuristic-Aided Navigation through Progress Estimation",
+                    "homepage": "https://arxiv.org/abs/1903.01602",
                     "id": 173049198,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2023-10-03T21:09:56Z",
+                    "open_issues": 15,
                     "owner": "chihyaoma",
                     "repo": "regretful-agent",
-                    "stars": 125
+                    "stars": 125,
+                    "topics": [
+                      "cvpr2019",
+                      "navigation",
+                      "pytorch",
+                      "vision-and-language"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1530,12 +2180,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for \"Tactical Rewind: Self-Correction via Backtracking in Vision-and-Language Navigation\"",
+                    "homepage": "https://arxiv.org/abs/1903.02547",
                     "id": 174098007,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2019-09-24T22:51:53Z",
+                    "open_issues": 2,
                     "owner": "Kelym",
                     "repo": "FAST",
-                    "stars": 63
+                    "stars": 63,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1546,12 +2201,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch code for ICLR 2019 paper: Self-Monitoring Navigation Agent via Auxiliary Progress Estimation",
+                    "homepage": "https://arxiv.org/abs/1901.03035",
                     "id": 162737294,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2023-10-03T23:07:37Z",
+                    "open_issues": 9,
                     "owner": "chihyaoma",
                     "repo": "selfmonitoring-agent",
-                    "stars": 123
+                    "stars": 123,
+                    "topics": [
+                      "iclr2019",
+                      "navigation",
+                      "pytorch",
+                      "vision-and-language"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1562,12 +2227,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch Code of NAACL 2019 paper \"Learning to Navigate Unseen Environments: Back Translation with Environmental Dropout\"",
+                    "homepage": null,
                     "id": 178922832,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2021-10-23T19:19:43Z",
+                    "open_issues": 11,
                     "owner": "airsplay",
                     "repo": "R2R-EnvDrop",
-                    "stars": 147
+                    "stars": 147,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1578,12 +2248,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cornell Instruction Following Framework",
+                    "homepage": null,
                     "id": 146931346,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-10-11T17:07:34Z",
+                    "open_issues": 13,
                     "owner": "lil-lab",
                     "repo": "ciff",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": [
+                      "artificial-intelligence",
+                      "deep-learning",
+                      "machine-learning",
+                      "natural-language-processing",
+                      "natural-language-understanding",
+                      "reinforcement-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -1601,12 +2283,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Neural Machine Translation with universal Visual Representation (ICLR 2020)",
+                    "homepage": "https://openreview.net/forum?id=Byl8hhNYPS",
                     "id": 229575045,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-07-01T15:06:39Z",
+                    "open_issues": 0,
                     "owner": "cooelf",
                     "repo": "UVR-NMT",
-                    "stars": 92
+                    "stars": 92,
+                    "topics": [
+                      "multimodal",
+                      "neural-machine-translation",
+                      "nmt",
+                      "uvr-nmt"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1617,12 +2309,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multi-modal Neural Machine Translation in PyTorch",
+                    "homepage": "http://opennmt.net/",
                     "id": 120338690,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2018-05-01T08:05:09Z",
+                    "open_issues": 0,
                     "owner": "iacercalixto",
                     "repo": "MultimodalNMT",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1633,12 +2330,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multi-modal Neural Machine Translation in PyTorch",
+                    "homepage": "http://opennmt.net/",
                     "id": 120338690,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2018-05-01T08:05:09Z",
+                    "open_issues": 0,
                     "owner": "iacercalixto",
                     "repo": "MultimodalNMT",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1649,12 +2351,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multi30k Dataset",
+                    "homepage": null,
                     "id": 117251148,
                     "language": "Smalltalk",
+                    "license": null,
                     "last_commit": "2026-07-07T11:53:41Z",
+                    "open_issues": 1,
                     "owner": "multi30k",
                     "repo": "dataset",
-                    "stars": 191
+                    "stars": 191,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -1672,12 +2379,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "On the pitfalls of measuring emergent communication",
+                    "homepage": null,
                     "id": 174636667,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-03-12T15:08:52Z",
+                    "open_issues": 0,
                     "owner": "facebookresearch",
                     "repo": "measuring-emergent-comm",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1688,12 +2400,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Code for Emergent Translation in Multi-Agent Communication",
+                    "homepage": null,
                     "id": 129794042,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2018-06-06T00:56:52Z",
+                    "open_issues": 0,
                     "owner": "facebookresearch",
                     "repo": "translagent",
-                    "stars": 82
+                    "stars": 82,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1704,12 +2421,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 92620295,
                     "language": "Jupyter Notebook",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2018-05-05T19:43:29Z",
+                    "open_issues": 1,
                     "owner": "nyu-dl",
                     "repo": "MultimodalGame",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1720,12 +2442,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Reproduce ICLR2018 submission \"Emergent Communication through Negotiation\"",
+                    "homepage": "https://openreview.net/forum?id=Hk6WhagRW&noteId=Hk6WhagRW",
                     "id": 108782269,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2018-04-19T01:53:50Z",
+                    "open_issues": 1,
                     "owner": "asappresearch",
                     "repo": "emergent-comms-negotiation",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1736,12 +2463,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch code for Learning Cooperative Visual Dialog Agents using Deep Reinforcement Learning",
+                    "homepage": null,
                     "id": 137548743,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2018-10-10T21:28:04Z",
+                    "open_issues": 7,
                     "owner": "batra-mlp-lab",
                     "repo": "visdial-rl",
-                    "stars": 169
+                    "stars": 169,
+                    "topics": [
+                      "computer-vision",
+                      "deep-learning",
+                      "natural-language-processing",
+                      "pytorch",
+                      "visual-dialog"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -1759,12 +2497,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "MiniHack the Planet: A Sandbox for Open-Ended Reinforcement Learning Research",
+                    "homepage": null,
                     "id": 201013644,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-02-12T13:52:10Z",
+                    "open_issues": 0,
                     "owner": "facebookresearch",
                     "repo": "minihack",
-                    "stars": 520
+                    "stars": 520,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1775,12 +2518,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Experiment code for the ICLR 2020 paper \"RTFM: Generalising to New Environment Dynamics via Reading\".",
+                    "homepage": null,
                     "id": 244674728,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-10-12T21:33:38Z",
+                    "open_issues": 0,
                     "owner": "facebookresearch",
                     "repo": "RTFM",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1791,12 +2539,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "We release dataset collected for our research, code that implement neural network models described in the paper, and scripts to reproduce all of our results, and visualization tool for visualize dataset.",
+                    "homepage": null,
                     "id": 198883660,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-09-02T21:27:40Z",
+                    "open_issues": 2,
                     "owner": "facebookresearch",
                     "repo": "minirts",
-                    "stars": 160
+                    "stars": 160,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -1814,12 +2567,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository to generate CLEVR-Dialog: A diagnostic dataset for Visual Dialog",
+                    "homepage": null,
                     "id": 173592972,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2020-02-18T19:09:16Z",
+                    "open_issues": 1,
                     "owner": "satwikkottur",
                     "repo": "clevr-dialog",
-                    "stars": 50
+                    "stars": 50,
+                    "topics": [
+                      "computer-vision",
+                      "dataset-generation",
+                      "deep-learning",
+                      "dialogue-generation",
+                      "vision-and-language",
+                      "visual-dialog"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1830,12 +2595,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository contains an implementation of the models introduced in the paper Dialog-based Interactive Image Retrieval. The network is implemented using PyTorch and the rest of the framework is in Python.",
+                    "homepage": null,
                     "id": 162632358,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-10-04T02:30:47Z",
+                    "open_issues": 4,
                     "owner": "XiaoxiaoGuo",
                     "repo": "fashion-retrieval",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1846,12 +2616,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2017] Torch code for Visual Dialog",
+                    "homepage": "https://arxiv.org/abs/1611.08669",
                     "id": 88461203,
                     "language": "Lua",
+                    "license": "NOASSERTION",
                     "last_commit": "2018-11-29T22:41:46Z",
+                    "open_issues": 2,
                     "owner": "batra-mlp-lab",
                     "repo": "visdial",
-                    "stars": 228
+                    "stars": 228,
+                    "topics": [
+                      "computer-vision",
+                      "deep-learning",
+                      "natural-language-processing",
+                      "torch"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -1869,12 +2649,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tacotron 2 - PyTorch implementation with faster-than-realtime inference",
+                    "homepage": null,
                     "id": 132042932,
                     "language": "Jupyter Notebook",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2024-06-12T18:49:15Z",
+                    "open_issues": 219,
                     "owner": "NVIDIA",
                     "repo": "tacotron2",
-                    "stars": 5295
+                    "stars": 5295,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -1892,12 +2677,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This codebase demonstrates how to synthesize realistic 3D character animations given an arbitrary speech signal and a static character mesh.",
+                    "homepage": "https://voca.is.tue.mpg.de/en",
                     "id": 182107715,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-08-20T10:53:36Z",
+                    "open_issues": 44,
                     "owner": "TimoBolkart",
                     "repo": "voca",
-                    "stars": 1263
+                    "stars": 1263,
+                    "topics": [
+                      "3d-face",
+                      "3d-models",
+                      "animation-sequence",
+                      "computer-graphics",
+                      "computer-vision",
+                      "face-animation",
+                      "machine-learning",
+                      "morphable-model",
+                      "python",
+                      "python3",
+                      "tensorflow",
+                      "voca"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1908,12 +2711,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "an implementation for paper Jointly Discovering Visual Objects and Spoken Words",
+                    "homepage": null,
                     "id": 136400242,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2018-06-07T00:54:31Z",
+                    "open_issues": 0,
                     "owner": "LiqunChen0606",
                     "repo": "Jointly-Discovering-Visual-Objects-and-Spoken-Words",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1924,12 +2732,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SVHF-Net for Cross-modal binary matching",
+                    "homepage": "http://www.robots.ox.ac.uk/~vgg/research/CMBiometrics/",
                     "id": 134904932,
                     "language": "Matlab",
+                    "license": null,
                     "last_commit": "2018-08-22T17:24:23Z",
+                    "open_issues": 4,
                     "owner": "a-nagrani",
                     "repo": "SVHF-Net",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -1947,12 +2760,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository of the paper ViFiT in MobiCom 2023 ISACom Workshop🚀.",
+                    "homepage": null,
                     "id": 698459896,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-03-07T18:09:54Z",
+                    "open_issues": 0,
                     "owner": "bryanbocao",
                     "repo": "vifit",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1963,12 +2781,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository of the paper ViTag in SECON 2022🚀 and demo (Best Demo Award🏆).",
+                    "homepage": null,
                     "id": 520645299,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-03-07T18:09:26Z",
+                    "open_issues": 0,
                     "owner": "bryanbocao",
                     "repo": "vitag",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "deep-learning",
+                      "multimodal",
+                      "multimodal-association",
+                      "multimodal-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -1979,12 +2807,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "IPSN22 submission",
+                    "homepage": null,
                     "id": 422747395,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-08-17T15:51:38Z",
+                    "open_issues": 0,
                     "owner": "vifi2021",
                     "repo": "Vi-Fi",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -2002,12 +2835,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR'19] [PyTorch] Gated Spatio Temporal Energy Graph",
+                    "homepage": null,
                     "id": 177600492,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-02-20T16:04:04Z",
+                    "open_issues": 1,
                     "owner": "yaohungt",
                     "repo": "Gated-Spatio-Temporal-Energy-Graph",
-                    "stars": 152
+                    "stars": 152,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -2018,12 +2856,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pytorch code of for our CVPR 2018 paper \"Neural Baby Talk\"",
+                    "homepage": "https://arxiv.org/abs/1803.09845",
                     "id": 114430091,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-03-27T20:55:35Z",
+                    "open_issues": 31,
                     "owner": "jiasenlu",
                     "repo": "NeuralBabyTalk",
-                    "stars": 525
+                    "stars": 525,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -2034,12 +2877,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for Neural Motifs: Scene Graph Parsing with Global Context (CVPR 2018)",
+                    "homepage": "https://rowanzellers.com/neuralmotifs",
                     "id": 124462110,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-08-09T16:15:37Z",
+                    "open_issues": 41,
                     "owner": "rowanz",
                     "repo": "neural-motifs",
-                    "stars": 545
+                    "stars": 545,
+                    "topics": [
+                      "pytorch",
+                      "scene-graph",
+                      "vision",
+                      "visual-genome"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -2050,12 +2903,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Review Network for Caption Generation",
+                    "homepage": null,
                     "id": 68171879,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2018-01-02T13:31:46Z",
+                    "open_issues": 3,
                     "owner": "kimiyoung",
                     "repo": "review_net",
-                    "stars": 181
+                    "stars": 181,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -2066,12 +2924,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Models and examples built with TensorFlow",
+                    "homepage": null,
                     "id": 51117837,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T18:30:48Z",
+                    "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77659
+                    "stars": 77658,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -2082,12 +2945,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 35141729,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-09-25T14:16:34Z",
+                    "open_issues": 23,
                     "owner": "kelvinxu",
                     "repo": "arctic-captions",
-                    "stars": 965
+                    "stars": 965,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -2098,12 +2966,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Efficient Image Captioning code in Torch, runs on GPU",
+                    "homepage": null,
                     "id": 46531155,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2017-11-07T05:59:20Z",
+                    "open_issues": 142,
                     "owner": "karpathy",
                     "repo": "neuraltalk2",
-                    "stars": 5592
+                    "stars": 5592,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -2114,12 +2987,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Efficient Image Captioning code in Torch, runs on GPU",
+                    "homepage": null,
                     "id": 46531155,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2017-11-07T05:59:20Z",
+                    "open_issues": 142,
                     "owner": "karpathy",
                     "repo": "neuraltalk2",
-                    "stars": 5592
+                    "stars": 5592,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 },
@@ -2130,12 +3008,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dataset generated by the methods in \"What's Cookin'? Interpreting Cooking Videos using Text, Speech   and Vision\"",
+                    "homepage": null,
                     "id": 31294901,
                     "language": null,
+                    "license": null,
                     "last_commit": "2015-05-27T15:26:54Z",
+                    "open_issues": 0,
                     "owner": "malmaud",
                     "repo": "whats_cookin",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -2153,12 +3036,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multimodal Sarcasm Detection Dataset",
+                    "homepage": "https://www.aclweb.org/anthology/P19-1455/",
                     "id": 171583643,
                     "language": "OpenEdge ABL",
+                    "license": "MIT",
                     "last_commit": "2024-08-22T07:50:29Z",
+                    "open_issues": 1,
                     "owner": "soujanyaporia",
                     "repo": "MUStARD",
-                    "stars": 385
+                    "stars": 385,
+                    "topics": [
+                      "multimodal-deep-learning",
+                      "multimodal-interactions",
+                      "sarcasm",
+                      "sarcasm-detection"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -2176,12 +3069,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for Master thesis (For public access)",
+                    "homepage": null,
                     "id": 272280809,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-10-02T11:53:43Z",
+                    "open_issues": 0,
                     "owner": "pvk95",
                     "repo": "PAG",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
                 }
@@ -2200,15 +3098,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:10:49.103Z",
+    "last_updated": "2026-08-29T04:17:02.658Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Reading list for research topics in multimodal machine learning",
+      "homepage": null,
       "id": 188919037,
       "language": null,
+      "license": "MIT",
       "last_commit": "2024-08-20T19:46:33Z",
+      "open_issues": 13,
       "owner": "pliang279",
       "repo": "awesome-multimodal-ml",
-      "stars": 6924
+      "stars": 6924,
+      "topics": [
+        "computer-vision",
+        "deep-learning",
+        "healthcare",
+        "machine-learning",
+        "multimodal-learning",
+        "natural-language-processing",
+        "reading-list",
+        "reinforcement-learning",
+        "representation-learning",
+        "robotics",
+        "speech-processing"
+      ]
     },
     "original_repository_sha": "f1d3bae4aec6a9da8c52da47ac9c115be6e14f6c",
     "enhanced_repository": "enhansome/enhansome-multimodal-ml",
