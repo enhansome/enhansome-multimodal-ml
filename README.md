@@ -110,11 +110,11 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206), ICML 2021 [\[code\]](https://github.com/deepmind/deepmind-research/tree/master/perceiver) ⭐ 15,176 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
 
-[Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020), arXiv 2021 [\[blog\]](\[blog]\(https://openai.com/blog/clip/\)) [\[code\]](https://github.com/OpenAI/CLIP) ⭐ 34,242 | 🐛 272 | 🌐 Jupyter Notebook | 📅 2026-03-25
+[Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020), arXiv 2021 [\[blog\]](\[blog]\(https://openai.com/blog/clip/\)) [\[code\]](https://github.com/OpenAI/CLIP) ⭐ 34,246 | 🐛 272 | 🌐 Jupyter Notebook | 📅 2026-03-25
 
 [VinVL: Revisiting Visual Representations in Vision-Language Models](https://arxiv.org/abs/2101.00529), arXiv 2021 [\[blog\]](https://www.microsoft.com/en-us/research/blog/vinvl-advancing-the-state-of-the-art-for-vision-language-models/?OCID=msr_blog_VinVL_fb) [\[code\]](https://github.com/pzzhang/VinVL) ⭐ 360 | 🐛 34 | 📅 2023-07-26
 
-[Learning Transferable Visual Models From Natural Language Supervision](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf), arXiv 2020 [\[blog\]](https://openai.com/blog/clip/) [\[code\]](https://github.com/openai/CLIP) ⭐ 34,242 | 🐛 272 | 🌐 Jupyter Notebook | 📅 2026-03-25
+[Learning Transferable Visual Models From Natural Language Supervision](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf), arXiv 2020 [\[blog\]](https://openai.com/blog/clip/) [\[code\]](https://github.com/openai/CLIP) ⭐ 34,246 | 🐛 272 | 🌐 Jupyter Notebook | 📅 2026-03-25
 
 [12-in-1: Multi-Task Vision and Language Representation Learning](https://arxiv.org/abs/1912.02315), CVPR 2020 [\[code\]](https://github.com/facebookresearch/vilbert-multi-task) ⚠️ Archived
 
@@ -134,7 +134,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Multi-Task Learning of Hierarchical Vision-Language Representation](https://arxiv.org/abs/1812.00500), CVPR 2019
 
-[Learning Factorized Multimodal Representations](https://arxiv.org/abs/1806.06176), ICLR 2019 [\[code\]](https://github.com/pliang279/factorized/) ⭐ 70 | 🐛 4 | 🌐 Python | 📅 2020-08-04
+[Learning Factorized Multimodal Representations](https://arxiv.org/abs/1806.06176), ICLR 2019 [\[code\]](https://github.com/pliang279/factorized/) ⭐ 71 | 🐛 4 | 🌐 Python | 📅 2020-08-04
 
 [A Probabilistic Framework for Multi-view Feature Learning with Many-to-many Associations via Neural Networks](https://arxiv.org/abs/1802.04630), ICML 2018
 
@@ -212,9 +212,9 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [CoMIR: Contrastive Multimodal Image Representation for Registration](https://arxiv.org/pdf/2006.06325.pdf), NeurIPS 2020 [\[code\]](https://github.com/MIDA-group/CoMIR) ⭐ 87 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-11-18
 
-[Multimodal Transformer for Unaligned Multimodal Language Sequences](https://arxiv.org/abs/1906.00295), ACL 2019 [\[code\]](https://github.com/yaohungt/Multimodal-Transformer) ⭐ 996 | 🐛 15 | 🌐 Python | 📅 2022-09-12
+[Multimodal Transformer for Unaligned Multimodal Language Sequences](https://arxiv.org/abs/1906.00295), ACL 2019 [\[code\]](https://github.com/yaohungt/Multimodal-Transformer) ⭐ 995 | 🐛 15 | 🌐 Python | 📅 2022-09-12
 
-[Temporal Cycle-Consistency Learning](https://arxiv.org/abs/1904.07846), CVPR 2019 [\[code\]](https://github.com/google-research/google-research/tree/master/tcc) ⭐ 38,652 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-27
+[Temporal Cycle-Consistency Learning](https://arxiv.org/abs/1904.07846), CVPR 2019 [\[code\]](https://github.com/google-research/google-research/tree/master/tcc) ⭐ 38,659 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-31
 
 [See, Hear, and Read: Deep Aligned Representations](https://people.csail.mit.edu/yusuf/see-hear-read/paper.pdf), arXiv 2017
 
@@ -266,7 +266,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Found in Translation: Learning Robust Joint Representations by Cyclic Translations Between Modalities](https://arxiv.org/abs/1812.07809), AAAI 2019 [\[code\]](https://github.com/hainow/MCTN) ⭐ 49 | 🐛 3 | 🌐 Python | 📅 2019-02-04
 
-[Natural TTS Synthesis by Conditioning Wavenet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884), ICASSP 2018 [\[code\]](https://github.com/NVIDIA/tacotron2) ⭐ 5,295 | 🐛 219 | 🌐 Jupyter Notebook | 📅 2024-06-12
+[Natural TTS Synthesis by Conditioning Wavenet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884), ICASSP 2018 [\[code\]](https://github.com/NVIDIA/tacotron2) ⭐ 5,296 | 🐛 219 | 🌐 Jupyter Notebook | 📅 2024-06-12
 
 ### Crossmodal Retrieval
 
@@ -454,7 +454,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [PolyViT: Co-training Vision Transformers on Images, Videos and Audio](https://arxiv.org/abs/2111.12993), arXiv 2021
 
-[VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text](https://arxiv.org/abs/2104.11178), NeurIPS 2021 [\[code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,652 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-27
+[VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text](https://arxiv.org/abs/2104.11178), NeurIPS 2021 [\[code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,659 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-31
 
 [Parameter Efficient Multimodal Transformers for Video Representation Learning](https://arxiv.org/abs/2012.04124), ICLR 2021 [\[code\]](https://github.com/sangho-vision/avbert) ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2021-09-20
 
@@ -480,7 +480,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Learning to Answer Questions in Dynamic Audio-Visual Scenarios](https://arxiv.org/abs/2203.14072), CVPR 2022
 
-[SUTD-TrafficQA: A Question Answering Benchmark and an Efficient Network for Video Reasoning over Traffic Events](https://openaccess.thecvf.com/content/CVPR2021/html/Xu_SUTD-TrafficQA_A_Question_Answering_Benchmark_and_an_Efficient_Network_for_CVPR_2021_paper.html), CVPR 2021 [\[code\]](https://github.com/SUTDCV/SUTD-TrafficQA) ⭐ 66 | 🐛 2 | 🌐 JavaScript | 📅 2026-02-09
+[SUTD-TrafficQA: A Question Answering Benchmark and an Efficient Network for Video Reasoning over Traffic Events](https://openaccess.thecvf.com/content/CVPR2021/html/Xu_SUTD-TrafficQA_A_Question_Answering_Benchmark_and_an_Efficient_Network_for_CVPR_2021_paper.html), CVPR 2021 [\[code\]](https://github.com/SUTDCV/SUTD-TrafficQA) ⭐ 66 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-31
 
 [MultiModalQA: complex question answering over text, tables and images](https://openreview.net/forum?id=ee6W5UgQLa), ICLR 2021
 
@@ -768,7 +768,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [From Audio to Semantics: Approaches To End-to-end Spoken Language Understanding](https://arxiv.org/abs/1809.09190), arXiv 2018
 
-[Natural TTS Synthesis by Conditioning Wavenet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884), ICASSP 2018 [\[code\]](https://github.com/NVIDIA/tacotron2) ⭐ 5,295 | 🐛 219 | 🌐 Jupyter Notebook | 📅 2024-06-12
+[Natural TTS Synthesis by Conditioning Wavenet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884), ICASSP 2018 [\[code\]](https://github.com/NVIDIA/tacotron2) ⭐ 5,296 | 🐛 219 | 🌐 Jupyter Notebook | 📅 2024-06-12
 
 [Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning](https://arxiv.org/abs/1710.07654), ICLR 2018
 
@@ -850,9 +850,9 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044), ICML 2015 [\[code\]](https://github.com/kelvinxu/arctic-captions) ⭐ 965 | 🐛 23 | 🌐 Python | 📅 2023-09-25
 
-[Deep Visual-Semantic Alignments for Generating Image Descriptions](https://arxiv.org/abs/1412.2306v2), CVPR 2015 [\[code\]](https://github.com/karpathy/neuraltalk2) ⭐ 5,595 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2017-11-07
+[Deep Visual-Semantic Alignments for Generating Image Descriptions](https://arxiv.org/abs/1412.2306v2), CVPR 2015 [\[code\]](https://github.com/karpathy/neuraltalk2) ⭐ 5,594 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2017-11-07
 
-[Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555), CVPR 2015 [\[code\]](https://github.com/karpathy/neuraltalk2) ⭐ 5,595 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2017-11-07
+[Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555), CVPR 2015 [\[code\]](https://github.com/karpathy/neuraltalk2) ⭐ 5,594 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2017-11-07
 
 [A Dataset for Movie Description](https://arxiv.org/abs/1501.02530), CVPR 2015 [\[code\]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/vision-and-language/mpii-movie-description-dataset/)
 
@@ -874,7 +874,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Affective Computing for Large-Scale Heterogeneous Multimedia Data: A Survey](https://arxiv.org/abs/1911.05609), ACM TOMM 2019
 
-[Towards Multimodal Sarcasm Detection (An Obviously\_Perfect Paper)](https://arxiv.org/abs/1906.01815), ACL 2019 [\[code\]](https://github.com/soujanyaporia/MUStARD) ⭐ 385 | 🐛 1 | 🌐 OpenEdge ABL | 📅 2024-08-22
+[Towards Multimodal Sarcasm Detection (An Obviously\_Perfect Paper)](https://arxiv.org/abs/1906.01815), ACL 2019 [\[code\]](https://github.com/soujanyaporia/MUStARD) ⭐ 384 | 🐛 1 | 🌐 OpenEdge ABL | 📅 2024-08-22
 
 [Multi-modal Approach for Affective Computing](https://arxiv.org/abs/1804.09452), EMBC 2018
 
@@ -1117,4 +1117,4 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
