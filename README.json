@@ -110,7 +110,7 @@
                     "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15181,
+                    "stars": 15182,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -131,7 +131,7 @@
                     "open_issues": 272,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34254,
+                    "stars": 34255,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -176,7 +176,7 @@
                     "open_issues": 272,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34254,
+                    "stars": 34255,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -600,11 +600,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-31T14:53:17Z",
+                    "last_commit": "2026-09-03T08:28:07Z",
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38678,
+                    "stars": 38689,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -657,7 +657,7 @@
                     "open_issues": 66,
                     "owner": "salesforce",
                     "repo": "ALBEF",
-                    "stars": 1755,
+                    "stars": 1754,
                     "topics": [
                       "contrastive-learning",
                       "image-text",
@@ -1433,11 +1433,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-31T14:53:17Z",
+                    "last_commit": "2026-09-03T08:28:07Z",
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38678,
+                    "stars": 38689,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2929,11 +2929,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-02T01:25:26Z",
-                    "open_issues": 1273,
+                    "last_commit": "2026-09-02T18:30:36Z",
+                    "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77659,
+                    "stars": 77661,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -3098,7 +3098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:44:36.798Z",
+    "last_updated": "2026-09-03T12:47:35.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in multimodal machine learning",
@@ -3110,7 +3110,7 @@
       "open_issues": 13,
       "owner": "pliang279",
       "repo": "awesome-multimodal-ml",
-      "stars": 6926,
+      "stars": 6925,
       "topics": [
         "computer-vision",
         "deep-learning",
