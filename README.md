@@ -108,13 +108,13 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [MultiBench: Multiscale Benchmarks for Multimodal Representation Learning](https://arxiv.org/abs/2107.07502), NeurIPS 2021 [\[code\]](https://github.com/pliang279/MultiBench) ⭐ 636 | 🐛 18 | 🌐 HTML | 📅 2024-01-27
 
-[Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206), ICML 2021 [\[code\]](https://github.com/deepmind/deepmind-research/tree/master/perceiver) ⭐ 15,181 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
+[Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206), ICML 2021 [\[code\]](https://github.com/deepmind/deepmind-research/tree/master/perceiver) ⭐ 15,185 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
 
-[Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020), arXiv 2021 [\[blog\]](\[blog]\(https://openai.com/blog/clip/\)) [\[code\]](https://github.com/OpenAI/CLIP) ⭐ 34,266 | 🐛 272 | 🌐 Jupyter Notebook | 📅 2026-03-25
+[Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020), arXiv 2021 [\[blog\]](\[blog]\(https://openai.com/blog/clip/\)) [\[code\]](https://github.com/OpenAI/CLIP) ⭐ 34,272 | 🐛 272 | 🌐 Jupyter Notebook | 📅 2026-03-25
 
 [VinVL: Revisiting Visual Representations in Vision-Language Models](https://arxiv.org/abs/2101.00529), arXiv 2021 [\[blog\]](https://www.microsoft.com/en-us/research/blog/vinvl-advancing-the-state-of-the-art-for-vision-language-models/?OCID=msr_blog_VinVL_fb) [\[code\]](https://github.com/pzzhang/VinVL) ⭐ 360 | 🐛 34 | 📅 2023-07-26
 
-[Learning Transferable Visual Models From Natural Language Supervision](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf), arXiv 2020 [\[blog\]](https://openai.com/blog/clip/) [\[code\]](https://github.com/openai/CLIP) ⭐ 34,266 | 🐛 272 | 🌐 Jupyter Notebook | 📅 2026-03-25
+[Learning Transferable Visual Models From Natural Language Supervision](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf), arXiv 2020 [\[blog\]](https://openai.com/blog/clip/) [\[code\]](https://github.com/openai/CLIP) ⭐ 34,272 | 🐛 272 | 🌐 Jupyter Notebook | 📅 2026-03-25
 
 [12-in-1: Multi-Task Vision and Language Representation Learning](https://arxiv.org/abs/1912.02315), CVPR 2020 [\[code\]](https://github.com/facebookresearch/vilbert-multi-task) ⚠️ Archived
 
@@ -214,7 +214,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Multimodal Transformer for Unaligned Multimodal Language Sequences](https://arxiv.org/abs/1906.00295), ACL 2019 [\[code\]](https://github.com/yaohungt/Multimodal-Transformer) ⭐ 994 | 🐛 15 | 🌐 Python | 📅 2022-09-12
 
-[Temporal Cycle-Consistency Learning](https://arxiv.org/abs/1904.07846), CVPR 2019 [\[code\]](https://github.com/google-research/google-research/tree/master/tcc) ⭐ 38,694 | 🐛 1,990 | 🌐 Jupyter Notebook | 📅 2026-09-03
+[Temporal Cycle-Consistency Learning](https://arxiv.org/abs/1904.07846), CVPR 2019 [\[code\]](https://github.com/google-research/google-research/tree/master/tcc) ⭐ 38,703 | 🐛 1,990 | 🌐 Jupyter Notebook | 📅 2026-09-03
 
 [See, Hear, and Read: Deep Aligned Representations](https://people.csail.mit.edu/yusuf/see-hear-read/paper.pdf), arXiv 2017
 
@@ -454,7 +454,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [PolyViT: Co-training Vision Transformers on Images, Videos and Audio](https://arxiv.org/abs/2111.12993), arXiv 2021
 
-[VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text](https://arxiv.org/abs/2104.11178), NeurIPS 2021 [\[code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,694 | 🐛 1,990 | 🌐 Jupyter Notebook | 📅 2026-09-03
+[VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text](https://arxiv.org/abs/2104.11178), NeurIPS 2021 [\[code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,703 | 🐛 1,990 | 🌐 Jupyter Notebook | 📅 2026-09-03
 
 [Parameter Efficient Multimodal Transformers for Video Representation Learning](https://arxiv.org/abs/2012.04124), ICLR 2021 [\[code\]](https://github.com/sangho-vision/avbert) ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2021-09-20
 
@@ -520,7 +520,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Stacked Latent Attention for Multimodal Reasoning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Fan_Stacked_Latent_Attention_CVPR_2018_paper.pdf), CVPR 2018
 
-[Learning to Reason: End-to-End Module Networks for Visual Question Answering](https://arxiv.org/abs/1704.05526), ICCV 2017 [\[code\]](https://github.com/ronghanghu/n2nmn) ⭐ 272 | 🐛 7 | 🌐 SourcePawn | 📅 2020-07-30
+[Learning to Reason: End-to-End Module Networks for Visual Question Answering](https://arxiv.org/abs/1704.05526), ICCV 2017 [\[code\]](https://github.com/ronghanghu/n2nmn) ⭐ 270 | 🐛 7 | 🌐 SourcePawn | 📅 2020-07-30
 
 [CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning](https://arxiv.org/abs/1612.06890), CVPR 2017 [\[code\]](https://github.com/facebookresearch/clevr-iep) ⚠️ Archived [\[dataset generation\]](https://github.com/facebookresearch/clevr-dataset-gen) ⚠️ Archived
 
@@ -602,7 +602,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation](https://arxiv.org/abs/1811.10092), CVPR 2019
 
-[The Regretful Navigation Agent for Vision-and-Language Navigation](https://arxiv.org/abs/1903.01602), CVPR 2019 [\[code\]](https://github.com/chihyaoma/regretful-agent) ⭐ 126 | 🐛 15 | 🌐 C++ | 📅 2023-10-03
+[The Regretful Navigation Agent for Vision-and-Language Navigation](https://arxiv.org/abs/1903.01602), CVPR 2019 [\[code\]](https://github.com/chihyaoma/regretful-agent) ⭐ 127 | 🐛 15 | 🌐 C++ | 📅 2023-10-03
 
 [Tactical Rewind: Self-Correction via Backtracking in Vision-and-Language Navigation](https://arxiv.org/abs/1903.02547), CVPR 2019 [\[code\]](https://github.com/Kelym/FAST) ⭐ 63 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2019-09-24
 
@@ -1117,4 +1117,4 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
