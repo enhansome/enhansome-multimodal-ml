@@ -110,7 +110,7 @@
                     "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15190,
+                    "stars": 15192,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -131,7 +131,7 @@
                     "open_issues": 272,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34277,
+                    "stars": 34282,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -176,7 +176,7 @@
                     "open_issues": 272,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34277,
+                    "stars": 34282,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -600,11 +600,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-08T09:22:17Z",
-                    "open_issues": 1990,
+                    "last_commit": "2026-09-10T00:21:25Z",
+                    "open_issues": 1992,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38718,
+                    "stars": 38722,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1433,11 +1433,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-08T09:22:17Z",
-                    "open_issues": 1990,
+                    "last_commit": "2026-09-10T00:21:25Z",
+                    "open_issues": 1992,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38718,
+                    "stars": 38722,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2472,7 +2472,7 @@
                     "open_issues": 7,
                     "owner": "batra-mlp-lab",
                     "repo": "visdial-rl",
-                    "stars": 169,
+                    "stars": 168,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -2933,7 +2933,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77658,
+                    "stars": 77659,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -3098,7 +3098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T12:56:57.728Z",
+    "last_updated": "2026-09-10T12:53:22.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in multimodal machine learning",
@@ -3110,7 +3110,7 @@
       "open_issues": 13,
       "owner": "pliang279",
       "repo": "awesome-multimodal-ml",
-      "stars": 6927,
+      "stars": 6928,
       "topics": [
         "computer-vision",
         "deep-learning",
