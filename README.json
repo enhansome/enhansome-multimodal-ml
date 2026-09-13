@@ -110,7 +110,7 @@
                     "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15194,
+                    "stars": 15195,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -131,7 +131,7 @@
                     "open_issues": 273,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34286,
+                    "stars": 34292,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -176,7 +176,7 @@
                     "open_issues": 273,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34286,
+                    "stars": 34292,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -604,7 +604,7 @@
                     "open_issues": 1992,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38740,
+                    "stars": 38746,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1437,7 +1437,7 @@
                     "open_issues": 1992,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38740,
+                    "stars": 38746,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -3098,7 +3098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T12:08:17.670Z",
+    "last_updated": "2026-09-13T13:17:30.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in multimodal machine learning",
