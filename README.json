@@ -110,7 +110,7 @@
                     "open_issues": 359,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15198,
+                    "stars": 15199,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -131,7 +131,7 @@
                     "open_issues": 273,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34308,
+                    "stars": 34313,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -176,7 +176,7 @@
                     "open_issues": 273,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34308,
+                    "stars": 34313,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -583,7 +583,7 @@
                     "open_issues": 15,
                     "owner": "yaohungt",
                     "repo": "Multimodal-Transformer",
-                    "stars": 997,
+                    "stars": 998,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -600,11 +600,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-15T13:04:33Z",
+                    "last_commit": "2026-09-15T17:14:49Z",
                     "open_issues": 1994,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38768,
+                    "stars": 38773,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1433,11 +1433,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-15T13:04:33Z",
+                    "last_commit": "2026-09-15T17:14:49Z",
                     "open_issues": 1994,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38768,
+                    "stars": 38773,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1738,7 +1738,7 @@
                     "open_issues": 150,
                     "owner": "facebookresearch",
                     "repo": "mmf",
-                    "stars": 5632,
+                    "stars": 5631,
                     "topics": [
                       "captioning",
                       "deep-learning",
@@ -2388,7 +2388,7 @@
                     "open_issues": 0,
                     "owner": "facebookresearch",
                     "repo": "measuring-emergent-comm",
-                    "stars": 34,
+                    "stars": 35,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -2409,7 +2409,7 @@
                     "open_issues": 0,
                     "owner": "facebookresearch",
                     "repo": "translagent",
-                    "stars": 82,
+                    "stars": 83,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -2451,7 +2451,7 @@
                     "open_issues": 1,
                     "owner": "asappresearch",
                     "repo": "emergent-comms-negotiation",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -2933,7 +2933,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77659,
+                    "stars": 77658,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -3098,7 +3098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T13:29:20.530Z",
+    "last_updated": "2026-09-16T13:27:56.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in multimodal machine learning",
