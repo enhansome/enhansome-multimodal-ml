@@ -110,7 +110,7 @@
                     "open_issues": 359,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15199,
+                    "stars": 15201,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -131,7 +131,7 @@
                     "open_issues": 273,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34313,
+                    "stars": 34319,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -176,7 +176,7 @@
                     "open_issues": 273,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34313,
+                    "stars": 34319,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -583,7 +583,7 @@
                     "open_issues": 15,
                     "owner": "yaohungt",
                     "repo": "Multimodal-Transformer",
-                    "stars": 998,
+                    "stars": 999,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -600,11 +600,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-15T17:14:49Z",
+                    "last_commit": "2026-09-16T19:46:42Z",
                     "open_issues": 1994,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38773,
+                    "stars": 38781,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -860,7 +860,7 @@
                     "open_issues": 75,
                     "owner": "openai",
                     "repo": "DALL-E",
-                    "stars": 10826,
+                    "stars": 10824,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -1433,11 +1433,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-15T17:14:49Z",
+                    "last_commit": "2026-09-16T19:46:42Z",
                     "open_issues": 1994,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38773,
+                    "stars": 38781,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2929,11 +2929,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-10T20:22:01Z",
-                    "open_issues": 1274,
+                    "last_commit": "2026-09-16T18:51:07Z",
+                    "open_issues": 1275,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77658,
+                    "stars": 77657,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -3098,7 +3098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T13:27:56.887Z",
+    "last_updated": "2026-09-17T13:23:31.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in multimodal machine learning",
