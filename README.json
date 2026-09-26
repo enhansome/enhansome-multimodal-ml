@@ -131,7 +131,7 @@
                     "open_issues": 273,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34367,
+                    "stars": 34370,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -176,7 +176,7 @@
                     "open_issues": 273,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34367,
+                    "stars": 34370,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -583,7 +583,7 @@
                     "open_issues": 15,
                     "owner": "yaohungt",
                     "repo": "Multimodal-Transformer",
-                    "stars": 1004,
+                    "stars": 1005,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -949,7 +949,7 @@
                     "open_issues": 219,
                     "owner": "NVIDIA",
                     "repo": "tacotron2",
-                    "stars": 5295,
+                    "stars": 5294,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -2658,7 +2658,7 @@
                     "open_issues": 219,
                     "owner": "NVIDIA",
                     "repo": "tacotron2",
-                    "stars": 5295,
+                    "stars": 5294,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -2933,7 +2933,7 @@
                     "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77652,
+                    "stars": 77653,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -3098,7 +3098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T13:41:23.859Z",
+    "last_updated": "2026-09-26T13:01:00.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in multimodal machine learning",
