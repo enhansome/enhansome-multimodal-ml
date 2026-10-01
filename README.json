@@ -128,10 +128,10 @@
                     "language": "Jupyter Notebook",
                     "license": "MIT",
                     "last_commit": "2026-03-25T18:46:40Z",
-                    "open_issues": 273,
+                    "open_issues": 274,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34393,
+                    "stars": 34396,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -173,10 +173,10 @@
                     "language": "Jupyter Notebook",
                     "license": "MIT",
                     "last_commit": "2026-03-25T18:46:40Z",
-                    "open_issues": 273,
+                    "open_issues": 274,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34393,
+                    "stars": 34396,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -369,7 +369,7 @@
                     "open_issues": 1,
                     "owner": "yikaiw",
                     "repo": "CEN",
-                    "stars": 314,
+                    "stars": 315,
                     "topics": [
                       "depth-estimation",
                       "image-translation",
@@ -600,11 +600,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-23T21:53:54Z",
+                    "last_commit": "2026-09-30T21:03:49Z",
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38853,
+                    "stars": 38858,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1433,11 +1433,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-23T21:53:54Z",
+                    "last_commit": "2026-09-30T21:03:49Z",
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38853,
+                    "stars": 38858,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1812,7 +1812,7 @@
                     "open_issues": 18,
                     "owner": "facebookresearch",
                     "repo": "clevr-iep",
-                    "stars": 802,
+                    "stars": 803,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -2929,7 +2929,7 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-29T00:07:29Z",
+                    "last_commit": "2026-10-01T02:32:00Z",
                     "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
@@ -2954,7 +2954,7 @@
                     "open_issues": 23,
                     "owner": "kelvinxu",
                     "repo": "arctic-captions",
-                    "stars": 965,
+                    "stars": 966,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -3098,7 +3098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T14:53:03.186Z",
+    "last_updated": "2026-10-01T15:24:32.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in multimodal machine learning",
@@ -3110,7 +3110,7 @@
       "open_issues": 13,
       "owner": "pliang279",
       "repo": "awesome-multimodal-ml",
-      "stars": 6938,
+      "stars": 6939,
       "topics": [
         "computer-vision",
         "deep-learning",
