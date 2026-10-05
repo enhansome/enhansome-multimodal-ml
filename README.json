@@ -79,7 +79,7 @@
                     "open_issues": 18,
                     "owner": "pliang279",
                     "repo": "MultiBench",
-                    "stars": 646,
+                    "stars": 647,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -110,7 +110,7 @@
                     "open_issues": 359,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15212,
+                    "stars": 15213,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -128,10 +128,10 @@
                     "language": "Jupyter Notebook",
                     "license": "MIT",
                     "last_commit": "2026-03-25T18:46:40Z",
-                    "open_issues": 275,
+                    "open_issues": 274,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34408,
+                    "stars": 34411,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -173,10 +173,10 @@
                     "language": "Jupyter Notebook",
                     "license": "MIT",
                     "last_commit": "2026-03-25T18:46:40Z",
-                    "open_issues": 275,
+                    "open_issues": 274,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34408,
+                    "stars": 34411,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -604,7 +604,7 @@
                     "open_issues": 1997,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38871,
+                    "stars": 38872,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -684,7 +684,7 @@
                     "open_issues": 14,
                     "owner": "jayleicn",
                     "repo": "ClipBERT",
-                    "stars": 728,
+                    "stars": 729,
                     "topics": [
                       "cvpr2021",
                       "pytorch",
@@ -949,7 +949,7 @@
                     "open_issues": 219,
                     "owner": "NVIDIA",
                     "repo": "tacotron2",
-                    "stars": 5295,
+                    "stars": 5294,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -1437,7 +1437,7 @@
                     "open_issues": 1997,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38871,
+                    "stars": 38872,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1712,7 +1712,7 @@
                     "open_issues": 4,
                     "owner": "jayleicn",
                     "repo": "TVQA",
-                    "stars": 182,
+                    "stars": 181,
                     "topics": [
                       "dataset",
                       "pytorch",
@@ -2658,7 +2658,7 @@
                     "open_issues": 219,
                     "owner": "NVIDIA",
                     "repo": "tacotron2",
-                    "stars": 5295,
+                    "stars": 5294,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -2933,7 +2933,7 @@
                     "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77656,
+                    "stars": 77657,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -3098,7 +3098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T13:54:22.242Z",
+    "last_updated": "2026-10-05T17:05:44.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in multimodal machine learning",
