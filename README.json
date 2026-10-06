@@ -110,7 +110,7 @@
                     "open_issues": 359,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15213,
+                    "stars": 15215,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -131,7 +131,7 @@
                     "open_issues": 274,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34411,
+                    "stars": 34415,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -176,7 +176,7 @@
                     "open_issues": 274,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34411,
+                    "stars": 34415,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -604,7 +604,7 @@
                     "open_issues": 1997,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38872,
+                    "stars": 38875,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -760,7 +760,7 @@
                     "open_issues": 21,
                     "owner": "jackroos",
                     "repo": "VL-BERT",
-                    "stars": 741,
+                    "stars": 742,
                     "topics": [
                       "bert",
                       "iclr2020",
@@ -860,7 +860,7 @@
                     "open_issues": 75,
                     "owner": "openai",
                     "repo": "DALL-E",
-                    "stars": 10819,
+                    "stars": 10820,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -1437,7 +1437,7 @@
                     "open_issues": 1997,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38872,
+                    "stars": 38875,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1712,7 +1712,7 @@
                     "open_issues": 4,
                     "owner": "jayleicn",
                     "repo": "TVQA",
-                    "stars": 181,
+                    "stars": 182,
                     "topics": [
                       "dataset",
                       "pytorch",
@@ -2686,7 +2686,7 @@
                     "open_issues": 44,
                     "owner": "TimoBolkart",
                     "repo": "voca",
-                    "stars": 1268,
+                    "stars": 1269,
                     "topics": [
                       "3d-face",
                       "3d-models",
@@ -2930,7 +2930,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-01T16:19:37Z",
-                    "open_issues": 1271,
+                    "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
                     "stars": 77657,
@@ -3098,7 +3098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T17:05:44.594Z",
+    "last_updated": "2026-10-06T11:04:52.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in multimodal machine learning",
