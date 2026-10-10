@@ -79,7 +79,7 @@
                     "open_issues": 18,
                     "owner": "pliang279",
                     "repo": "MultiBench",
-                    "stars": 647,
+                    "stars": 648,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -110,7 +110,7 @@
                     "open_issues": 359,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15226,
+                    "stars": 15228,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -128,10 +128,10 @@
                     "language": "Jupyter Notebook",
                     "license": "MIT",
                     "last_commit": "2026-03-25T18:46:40Z",
-                    "open_issues": 274,
+                    "open_issues": 273,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34434,
+                    "stars": 34435,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -173,10 +173,10 @@
                     "language": "Jupyter Notebook",
                     "license": "MIT",
                     "last_commit": "2026-03-25T18:46:40Z",
-                    "open_issues": 274,
+                    "open_issues": 273,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34434,
+                    "stars": 34435,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -327,7 +327,7 @@
                     "open_issues": 0,
                     "owner": "Han-Zongbo",
                     "repo": "TMC",
-                    "stars": 288,
+                    "stars": 289,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -583,7 +583,7 @@
                     "open_issues": 15,
                     "owner": "yaohungt",
                     "repo": "Multimodal-Transformer",
-                    "stars": 1007,
+                    "stars": 1008,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -600,11 +600,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-08T17:38:14Z",
+                    "last_commit": "2026-10-09T17:22:43Z",
                     "open_issues": 1998,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38888,
+                    "stars": 38887,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -629,7 +629,7 @@
                     "open_issues": 16,
                     "owner": "VahidooX",
                     "repo": "DeepCCA",
-                    "stars": 250,
+                    "stars": 249,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -860,7 +860,7 @@
                     "open_issues": 75,
                     "owner": "openai",
                     "repo": "DALL-E",
-                    "stars": 10819,
+                    "stars": 10818,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -1433,11 +1433,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-08T17:38:14Z",
+                    "last_commit": "2026-10-09T17:22:43Z",
                     "open_issues": 1998,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38888,
+                    "stars": 38887,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1670,7 +1670,7 @@
                     "open_issues": 3,
                     "owner": "Cyanogenoid",
                     "repo": "vqa-counting",
-                    "stars": 208,
+                    "stars": 209,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -2134,7 +2134,7 @@
                     "language": "Python",
                     "license": "CC-BY-4.0",
                     "last_commit": "2020-09-05T21:32:02Z",
-                    "open_issues": 2,
+                    "open_issues": 0,
                     "owner": "lil-lab",
                     "repo": "touchdown",
                     "stars": 114,
@@ -2886,7 +2886,7 @@
                     "open_issues": 41,
                     "owner": "rowanz",
                     "repo": "neural-motifs",
-                    "stars": 546,
+                    "stars": 545,
                     "topics": [
                       "pytorch",
                       "scene-graph",
@@ -2930,10 +2930,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-07T22:41:53Z",
-                    "open_issues": 1270,
+                    "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77653,
+                    "stars": 77651,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -3098,7 +3098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T15:14:34.937Z",
+    "last_updated": "2026-10-10T14:26:22.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in multimodal machine learning",
@@ -3110,7 +3110,7 @@
       "open_issues": 13,
       "owner": "pliang279",
       "repo": "awesome-multimodal-ml",
-      "stars": 6941,
+      "stars": 6942,
       "topics": [
         "computer-vision",
         "deep-learning",
