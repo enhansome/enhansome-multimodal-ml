@@ -79,7 +79,7 @@
                     "open_issues": 18,
                     "owner": "pliang279",
                     "repo": "MultiBench",
-                    "stars": 652,
+                    "stars": 653,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -110,7 +110,7 @@
                     "open_issues": 359,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15234,
+                    "stars": 15235,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -128,10 +128,10 @@
                     "language": "Jupyter Notebook",
                     "license": "MIT",
                     "last_commit": "2026-03-25T18:46:40Z",
-                    "open_issues": 273,
+                    "open_issues": 274,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34462,
+                    "stars": 34471,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -173,10 +173,10 @@
                     "language": "Jupyter Notebook",
                     "license": "MIT",
                     "last_commit": "2026-03-25T18:46:40Z",
-                    "open_issues": 273,
+                    "open_issues": 274,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34462,
+                    "stars": 34471,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -600,11 +600,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-14T05:46:02Z",
+                    "last_commit": "2026-10-15T02:18:00Z",
                     "open_issues": 2005,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38912,
+                    "stars": 38921,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1433,11 +1433,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-14T05:46:02Z",
+                    "last_commit": "2026-10-15T02:18:00Z",
                     "open_issues": 2005,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38912,
+                    "stars": 38921,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2930,10 +2930,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-13T04:11:20Z",
-                    "open_issues": 1272,
+                    "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77649,
+                    "stars": 77646,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -3098,7 +3098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T13:38:44.613Z",
+    "last_updated": "2026-10-15T13:21:49.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in multimodal machine learning",
@@ -3107,7 +3107,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2024-08-20T19:46:33Z",
-      "open_issues": 14,
+      "open_issues": 15,
       "owner": "pliang279",
       "repo": "awesome-multimodal-ml",
       "stars": 6946,
