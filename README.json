@@ -110,7 +110,7 @@
                     "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15234,
+                    "stars": 15236,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -197,7 +197,7 @@
                     "language": "Jupyter Notebook",
                     "license": "MIT",
                     "last_commit": "2022-02-16T04:47:38Z",
-                    "open_issues": 68,
+                    "open_issues": 67,
                     "owner": "facebookresearch",
                     "repo": "vilbert-multi-task",
                     "stars": 822,
@@ -604,7 +604,7 @@
                     "open_issues": 2008,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38923,
+                    "stars": 38928,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -949,7 +949,7 @@
                     "open_issues": 219,
                     "owner": "NVIDIA",
                     "repo": "tacotron2",
-                    "stars": 5297,
+                    "stars": 5299,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -1437,7 +1437,7 @@
                     "open_issues": 2008,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38923,
+                    "stars": 38928,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2658,7 +2658,7 @@
                     "open_issues": 219,
                     "owner": "NVIDIA",
                     "repo": "tacotron2",
-                    "stars": 5297,
+                    "stars": 5299,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -2933,7 +2933,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77644,
+                    "stars": 77645,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -3098,7 +3098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T13:12:18.500Z",
+    "last_updated": "2026-10-17T12:08:53.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in multimodal machine learning",
