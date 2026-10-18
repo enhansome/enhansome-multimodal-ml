@@ -110,7 +110,7 @@
                     "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15236,
+                    "stars": 15239,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -131,7 +131,7 @@
                     "open_issues": 274,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34473,
+                    "stars": 34478,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -176,7 +176,7 @@
                     "open_issues": 274,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34473,
+                    "stars": 34478,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -562,7 +562,7 @@
                     "open_issues": 5,
                     "owner": "MIDA-group",
                     "repo": "CoMIR",
-                    "stars": 88,
+                    "stars": 87,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -604,7 +604,7 @@
                     "open_issues": 2008,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38928,
+                    "stars": 38935,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -629,7 +629,7 @@
                     "open_issues": 16,
                     "owner": "VahidooX",
                     "repo": "DeepCCA",
-                    "stars": 249,
+                    "stars": 250,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -1437,7 +1437,7 @@
                     "open_issues": 2008,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38928,
+                    "stars": 38935,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -3098,7 +3098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T12:08:53.720Z",
+    "last_updated": "2026-10-18T12:34:48.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in multimodal machine learning",
