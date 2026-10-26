@@ -131,7 +131,7 @@
                     "open_issues": 274,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34521,
+                    "stars": 34527,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -176,7 +176,7 @@
                     "open_issues": 274,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34521,
+                    "stars": 34527,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -583,7 +583,7 @@
                     "open_issues": 15,
                     "owner": "yaohungt",
                     "repo": "Multimodal-Transformer",
-                    "stars": 1008,
+                    "stars": 1009,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -600,11 +600,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-25T00:00:25Z",
+                    "last_commit": "2026-10-26T00:43:54Z",
                     "open_issues": 2024,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39023,
+                    "stars": 39036,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -657,7 +657,7 @@
                     "open_issues": 66,
                     "owner": "salesforce",
                     "repo": "ALBEF",
-                    "stars": 1753,
+                    "stars": 1752,
                     "topics": [
                       "contrastive-learning",
                       "image-text",
@@ -860,7 +860,7 @@
                     "open_issues": 75,
                     "owner": "openai",
                     "repo": "DALL-E",
-                    "stars": 10814,
+                    "stars": 10813,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -977,7 +977,7 @@
                     "open_issues": 1,
                     "owner": "XLearning-SCU",
                     "repo": "2021-NeurIPS-NCR",
-                    "stars": 82,
+                    "stars": 83,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -1433,11 +1433,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-25T00:00:25Z",
+                    "last_commit": "2026-10-26T00:43:54Z",
                     "open_issues": 2024,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39023,
+                    "stars": 39036,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -3098,7 +3098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T13:09:25.097Z",
+    "last_updated": "2026-10-26T15:07:51.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in multimodal machine learning",
@@ -3110,7 +3110,7 @@
       "open_issues": 15,
       "owner": "pliang279",
       "repo": "awesome-multimodal-ml",
-      "stars": 6948,
+      "stars": 6949,
       "topics": [
         "computer-vision",
         "deep-learning",
