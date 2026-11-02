@@ -108,13 +108,13 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [MultiBench: Multiscale Benchmarks for Multimodal Representation Learning](https://arxiv.org/abs/2107.07502), NeurIPS 2021 [\[code\]](https://github.com/pliang279/MultiBench) ⭐ 654 | 🐛 18 | 🌐 HTML | 📅 2024-01-27
 
-[Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206), ICML 2021 [\[code\]](https://github.com/deepmind/deepmind-research/tree/master/perceiver) ⭐ 15,262 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
+[Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206), ICML 2021 [\[code\]](https://github.com/deepmind/deepmind-research/tree/master/perceiver) ⭐ 15,267 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
 
-[Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020), arXiv 2021 [\[blog\]](\[blog]\(https://openai.com/blog/clip/\)) [\[code\]](https://github.com/OpenAI/CLIP) ⭐ 34,553 | 🐛 274 | 🌐 Jupyter Notebook | 📅 2026-03-25
+[Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020), arXiv 2021 [\[blog\]](\[blog]\(https://openai.com/blog/clip/\)) [\[code\]](https://github.com/OpenAI/CLIP) ⭐ 34,559 | 🐛 274 | 🌐 Jupyter Notebook | 📅 2026-03-25
 
 [VinVL: Revisiting Visual Representations in Vision-Language Models](https://arxiv.org/abs/2101.00529), arXiv 2021 [\[blog\]](https://www.microsoft.com/en-us/research/blog/vinvl-advancing-the-state-of-the-art-for-vision-language-models/?OCID=msr_blog_VinVL_fb) [\[code\]](https://github.com/pzzhang/VinVL) ⭐ 360 | 🐛 34 | 📅 2023-07-26
 
-[Learning Transferable Visual Models From Natural Language Supervision](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf), arXiv 2020 [\[blog\]](https://openai.com/blog/clip/) [\[code\]](https://github.com/openai/CLIP) ⭐ 34,553 | 🐛 274 | 🌐 Jupyter Notebook | 📅 2026-03-25
+[Learning Transferable Visual Models From Natural Language Supervision](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf), arXiv 2020 [\[blog\]](https://openai.com/blog/clip/) [\[code\]](https://github.com/openai/CLIP) ⭐ 34,559 | 🐛 274 | 🌐 Jupyter Notebook | 📅 2026-03-25
 
 [12-in-1: Multi-Task Vision and Language Representation Learning](https://arxiv.org/abs/1912.02315), CVPR 2020 [\[code\]](https://github.com/facebookresearch/vilbert-multi-task) ⚠️ Archived
 
@@ -214,7 +214,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Multimodal Transformer for Unaligned Multimodal Language Sequences](https://arxiv.org/abs/1906.00295), ACL 2019 [\[code\]](https://github.com/yaohungt/Multimodal-Transformer) ⭐ 1,010 | 🐛 15 | 🌐 Python | 📅 2022-09-12
 
-[Temporal Cycle-Consistency Learning](https://arxiv.org/abs/1904.07846), CVPR 2019 [\[code\]](https://github.com/google-research/google-research/tree/master/tcc) ⭐ 39,080 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30
+[Temporal Cycle-Consistency Learning](https://arxiv.org/abs/1904.07846), CVPR 2019 [\[code\]](https://github.com/google-research/google-research/tree/master/tcc) ⭐ 39,095 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30
 
 [See, Hear, and Read: Deep Aligned Representations](https://people.csail.mit.edu/yusuf/see-hear-read/paper.pdf), arXiv 2017
 
@@ -248,7 +248,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training](https://arxiv.org/abs/1908.06066), arXiv 2019
 
-[LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/abs/1908.07490), EMNLP 2019 [\[code\]](https://github.com/airsplay/lxmert) ⭐ 967 | 🐛 55 | 🌐 Python | 📅 2022-10-22
+[LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/abs/1908.07490), EMNLP 2019 [\[code\]](https://github.com/airsplay/lxmert) ⭐ 968 | 🐛 55 | 🌐 Python | 📅 2022-10-22
 
 [VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/abs/1904.01766), ICCV 2019
 
@@ -260,7 +260,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Language2Pose: Natural Language Grounded Pose Forecasting](https://arxiv.org/abs/1907.01108), 3DV 2019 [\[code\]](http://chahuja.com/language2pose/)
 
-[Reconstructing Faces from Voices](https://arxiv.org/abs/1905.10604), NeurIPS 2019 [\[code\]](https://github.com/cmu-mlsp/reconstructing_faces_from_voices) ⭐ 194 | 🐛 5 | 🌐 Python | 📅 2020-01-05
+[Reconstructing Faces from Voices](https://arxiv.org/abs/1905.10604), NeurIPS 2019 [\[code\]](https://github.com/cmu-mlsp/reconstructing_faces_from_voices) ⭐ 193 | 🐛 5 | 🌐 Python | 📅 2020-01-05
 
 [Speech2Face: Learning the Face Behind a Voice](https://arxiv.org/abs/1905.09773), CVPR 2019 [\[code\]](https://speech2face.github.io/)
 
@@ -454,7 +454,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [PolyViT: Co-training Vision Transformers on Images, Videos and Audio](https://arxiv.org/abs/2111.12993), arXiv 2021
 
-[VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text](https://arxiv.org/abs/2104.11178), NeurIPS 2021 [\[code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 39,080 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30
+[VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text](https://arxiv.org/abs/2104.11178), NeurIPS 2021 [\[code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 39,095 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30
 
 [Parameter Efficient Multimodal Transformers for Video Representation Learning](https://arxiv.org/abs/2012.04124), ICLR 2021 [\[code\]](https://github.com/sangho-vision/avbert) ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2021-09-20
 
@@ -826,7 +826,7 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 [Learning to Compose and Reason with Language Tree Structures for Visual Grounding](https://arxiv.org/abs/1906.01784), TPAMI 2019
 
-[Neural Baby Talk](https://arxiv.org/abs/1803.09845), CVPR 2018 [\[code\]](https://github.com/jiasenlu/NeuralBabyTalk) ⭐ 525 | 🐛 31 | 🌐 Python | 📅 2019-03-27
+[Neural Baby Talk](https://arxiv.org/abs/1803.09845), CVPR 2018 [\[code\]](https://github.com/jiasenlu/NeuralBabyTalk) ⭐ 524 | 🐛 31 | 🌐 Python | 📅 2019-03-27
 
 [Grounding Referring Expressions in Images by Variational Context](https://arxiv.org/abs/1712.01892), CVPR 2018
 
@@ -1117,4 +1117,4 @@ Multimodal workshops @ ECCV 2020: [EVAL](https://askforalfred.com/EVAL/), [CAMP]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
