@@ -110,7 +110,7 @@
                     "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15268,
+                    "stars": 15269,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -128,10 +128,10 @@
                     "language": "Jupyter Notebook",
                     "license": "MIT",
                     "last_commit": "2026-03-25T18:46:40Z",
-                    "open_issues": 274,
+                    "open_issues": 273,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34566,
+                    "stars": 34573,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -173,10 +173,10 @@
                     "language": "Jupyter Notebook",
                     "license": "MIT",
                     "last_commit": "2026-03-25T18:46:40Z",
-                    "open_issues": 274,
+                    "open_issues": 273,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34566,
+                    "stars": 34573,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -600,11 +600,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-30T23:22:33Z",
+                    "last_commit": "2026-11-05T16:24:03Z",
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39108,
+                    "stars": 39117,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -832,7 +832,7 @@
                     "open_issues": 55,
                     "owner": "airsplay",
                     "repo": "lxmert",
-                    "stars": 968,
+                    "stars": 969,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -860,7 +860,7 @@
                     "open_issues": 75,
                     "owner": "openai",
                     "repo": "DALL-E",
-                    "stars": 10808,
+                    "stars": 10809,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -1433,11 +1433,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-30T23:22:33Z",
+                    "last_commit": "2026-11-05T16:24:03Z",
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39108,
+                    "stars": 39117,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2769,7 +2769,7 @@
                     "open_issues": 0,
                     "owner": "bryanbocao",
                     "repo": "vifit",
-                    "stars": 1,
+                    "stars": 2,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -2933,7 +2933,7 @@
                     "open_issues": 1276,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77633,
+                    "stars": 77635,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -3098,7 +3098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T16:13:05.649Z",
+    "last_updated": "2026-11-05T16:25:06.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in multimodal machine learning",
