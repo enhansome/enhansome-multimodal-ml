@@ -110,7 +110,7 @@
                     "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15269,
+                    "stars": 15270,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -131,7 +131,7 @@
                     "open_issues": 273,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34578,
+                    "stars": 34582,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -176,7 +176,7 @@
                     "open_issues": 273,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34578,
+                    "stars": 34582,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -604,7 +604,7 @@
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39125,
+                    "stars": 39135,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1437,7 +1437,7 @@
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39125,
+                    "stars": 39135,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2933,7 +2933,7 @@
                     "open_issues": 1276,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77634,
+                    "stars": 77635,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -2954,7 +2954,7 @@
                     "open_issues": 23,
                     "owner": "kelvinxu",
                     "repo": "arctic-captions",
-                    "stars": 966,
+                    "stars": 965,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -2975,7 +2975,7 @@
                     "open_issues": 143,
                     "owner": "karpathy",
                     "repo": "neuraltalk2",
-                    "stars": 5605,
+                    "stars": 5604,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -2996,7 +2996,7 @@
                     "open_issues": 143,
                     "owner": "karpathy",
                     "repo": "neuraltalk2",
-                    "stars": 5605,
+                    "stars": 5604,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -3098,7 +3098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T14:51:50.952Z",
+    "last_updated": "2026-11-08T15:05:41.959Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in multimodal machine learning",
