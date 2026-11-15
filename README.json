@@ -131,7 +131,7 @@
                     "open_issues": 274,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34609,
+                    "stars": 34611,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -176,7 +176,7 @@
                     "open_issues": 274,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34609,
+                    "stars": 34611,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -489,7 +489,7 @@
                     "open_issues": 11,
                     "owner": "Justin1904",
                     "repo": "Low-rank-Multimodal-Fusion",
-                    "stars": 275,
+                    "stars": 276,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -604,7 +604,7 @@
                     "open_issues": 2013,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39174,
+                    "stars": 39180,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1437,7 +1437,7 @@
                     "open_issues": 2013,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39174,
+                    "stars": 39180,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2933,7 +2933,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77631,
+                    "stars": 77629,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -3098,7 +3098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T14:59:06.408Z",
+    "last_updated": "2026-11-15T15:37:18.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in multimodal machine learning",
@@ -3110,7 +3110,7 @@
       "open_issues": 15,
       "owner": "pliang279",
       "repo": "awesome-multimodal-ml",
-      "stars": 6958,
+      "stars": 6959,
       "topics": [
         "computer-vision",
         "deep-learning",
