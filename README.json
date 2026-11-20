@@ -79,7 +79,7 @@
                     "open_issues": 18,
                     "owner": "pliang279",
                     "repo": "MultiBench",
-                    "stars": 657,
+                    "stars": 658,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -131,7 +131,7 @@
                     "open_issues": 274,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34633,
+                    "stars": 34637,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -176,7 +176,7 @@
                     "open_issues": 274,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34633,
+                    "stars": 34637,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -327,7 +327,7 @@
                     "open_issues": 0,
                     "owner": "Han-Zongbo",
                     "repo": "TMC",
-                    "stars": 295,
+                    "stars": 296,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -369,7 +369,7 @@
                     "open_issues": 1,
                     "owner": "yikaiw",
                     "repo": "CEN",
-                    "stars": 315,
+                    "stars": 311,
                     "topics": [
                       "depth-estimation",
                       "image-translation",
@@ -600,11 +600,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T15:52:19Z",
+                    "last_commit": "2026-11-20T12:12:08Z",
                     "open_issues": 2013,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39233,
+                    "stars": 39245,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -657,7 +657,7 @@
                     "open_issues": 66,
                     "owner": "salesforce",
                     "repo": "ALBEF",
-                    "stars": 1754,
+                    "stars": 1753,
                     "topics": [
                       "contrastive-learning",
                       "image-text",
@@ -684,7 +684,7 @@
                     "open_issues": 14,
                     "owner": "jayleicn",
                     "repo": "ClipBERT",
-                    "stars": 732,
+                    "stars": 731,
                     "topics": [
                       "cvpr2021",
                       "pytorch",
@@ -760,7 +760,7 @@
                     "open_issues": 21,
                     "owner": "jackroos",
                     "repo": "VL-BERT",
-                    "stars": 742,
+                    "stars": 741,
                     "topics": [
                       "bert",
                       "iclr2020",
@@ -790,7 +790,7 @@
                     "open_issues": 14,
                     "owner": "uclanlp",
                     "repo": "visualbert",
-                    "stars": 543,
+                    "stars": 542,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -832,7 +832,7 @@
                     "open_issues": 55,
                     "owner": "airsplay",
                     "repo": "lxmert",
-                    "stars": 971,
+                    "stars": 969,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -949,7 +949,7 @@
                     "open_issues": 219,
                     "owner": "NVIDIA",
                     "repo": "tacotron2",
-                    "stars": 5305,
+                    "stars": 5304,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -1433,11 +1433,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T15:52:19Z",
+                    "last_commit": "2026-11-20T12:12:08Z",
                     "open_issues": 2013,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39233,
+                    "stars": 39245,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1738,7 +1738,7 @@
                     "open_issues": 150,
                     "owner": "facebookresearch",
                     "repo": "mmf",
-                    "stars": 5635,
+                    "stars": 5634,
                     "topics": [
                       "captioning",
                       "deep-learning",
@@ -2658,7 +2658,7 @@
                     "open_issues": 219,
                     "owner": "NVIDIA",
                     "repo": "tacotron2",
-                    "stars": 5305,
+                    "stars": 5304,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -2686,7 +2686,7 @@
                     "open_issues": 44,
                     "owner": "TimoBolkart",
                     "repo": "voca",
-                    "stars": 1271,
+                    "stars": 1269,
                     "topics": [
                       "3d-face",
                       "3d-models",
@@ -2865,7 +2865,7 @@
                     "open_issues": 31,
                     "owner": "jiasenlu",
                     "repo": "NeuralBabyTalk",
-                    "stars": 524,
+                    "stars": 523,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -2886,7 +2886,7 @@
                     "open_issues": 41,
                     "owner": "rowanz",
                     "repo": "neural-motifs",
-                    "stars": 546,
+                    "stars": 545,
                     "topics": [
                       "pytorch",
                       "scene-graph",
@@ -2933,7 +2933,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77629,
+                    "stars": 77630,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -3098,7 +3098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T17:19:14.453Z",
+    "last_updated": "2026-11-20T16:55:08.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in multimodal machine learning",
@@ -3110,7 +3110,7 @@
       "open_issues": 15,
       "owner": "pliang279",
       "repo": "awesome-multimodal-ml",
-      "stars": 6961,
+      "stars": 6959,
       "topics": [
         "computer-vision",
         "deep-learning",
