@@ -110,7 +110,7 @@
                     "open_issues": 360,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15289,
+                    "stars": 15294,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:49.103Z"
@@ -131,7 +131,7 @@
                     "open_issues": 274,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34638,
+                    "stars": 34644,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -176,7 +176,7 @@
                     "open_issues": 274,
                     "owner": "openai",
                     "repo": "CLIP",
-                    "stars": 34638,
+                    "stars": 34644,
                     "topics": [
                       "deep-learning",
                       "machine-learning"
@@ -601,10 +601,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-21T15:37:23Z",
-                    "open_issues": 2013,
+                    "open_issues": 2014,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39250,
+                    "stars": 39257,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1434,10 +1434,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-21T15:37:23Z",
-                    "open_issues": 2013,
+                    "open_issues": 2014,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39250,
+                    "stars": 39257,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -3098,7 +3098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:05:49.386Z",
+    "last_updated": "2026-11-22T16:12:57.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for research topics in multimodal machine learning",
